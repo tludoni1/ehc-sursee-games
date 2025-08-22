@@ -1,0 +1,33 @@
+name: Update SIHF Games
+
+on:
+  schedule:
+    - cron: "0 5 * * *"   # Täglich um 05:00 UTC (07:00 CH-Zeit)
+  workflow_dispatch:       # Manuell starten möglich
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 22
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Update Script
+        run: node update-all.js 2026
+
+      - name: Commit & Push Results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add games-*.json
+          git commit -m "Auto-update Spiele ($(date))" || echo "Keine Änderungen"
+          git push
