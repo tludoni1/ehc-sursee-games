@@ -121,10 +121,15 @@
     `;
   }
 
-  // === Einfügen ins DOM ===
+   // === Einfügen ins DOM ===
+  const filteredHtml = renderGames(filtered);
+
   const container = document.createElement("div");
-  container.innerHTML = renderGames(filtered);
+  container.innerHTML = filteredHtml;
   scriptTag.parentNode.insertBefore(container, scriptTag);
 
-  console.log("✅ EHC Widget geladen:", filtered.length, "Spiele");
+  console.log("✅ EHC Widget geladen");
+  console.log("Gefilterte Spiele:", filtered.length);
+  console.log(filtered.slice(0, 5)); // erste 5 Spiele ins Log
 })();
+
