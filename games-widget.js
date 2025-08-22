@@ -1,37 +1,25 @@
 (function () {
   const scriptTag = document.currentScript;
-  const baseUrl = "https://tludoni1.github.io/ehc-sursee-games";
 
   async function init() {
+    // Testausgabe ins DOM
+    const container = document.createElement("div");
+    container.style.border = "2px solid red";
+    container.style.padding = "10px";
+    container.style.margin = "10px 0";
+    container.innerHTML = "<strong>Hallo vom Widget!</strong><br>Spiele werden geladen...";
+
+    scriptTag.parentNode.insertBefore(container, scriptTag);
+
     try {
-      const res = await fetch(`${baseUrl}/games-all.json`);
+      const res = await fetch("https://tludoni1.github.io/ehc-sursee-games/games-all.json");
       const allGames = await res.json();
 
-      console.log("✅ Spiele geladen:", allGames.length);
-
-      // Einfaches HTML: Liste mit Datum + Teams
-      let html = "<div style='font-family: Arial; padding:10px;'>";
-      html += "<h3>EHC Sursee Spiele</h3>";
-      html += "<ul style='list-style:none; padding:0;'>";
-
-      allGames.forEach((g) => {
-        html += `
-          <li style="margin:4px 0; padding:4px; border-bottom:1px solid #ccc;">
-            <strong>${g.date}</strong> – 
-            ${g.team1?.name || "?"} vs ${g.team2?.name || "?"} 
-            <span style="color:gray;">(${g.result})</span>
-          </li>
-        `;
-      });
-
-      html += "</ul></div>";
-
-      // Ausgabe ins DOM
-      const container = document.createElement("div");
-      container.innerHTML = html;
-      scriptTag.parentNode.insertBefore(container, scriptTag);
+      container.innerHTML += `<br><span>✅ Spiele geladen: ${allGames.length}</span>`;
+      console.log("✅ Spiele geladen:", allGames.length, allGames);
     } catch (err) {
-      console.error("❌ Fehler beim Laden des Widgets:", err);
+      container.innerHTML += "<br><span style='color:red;'>❌ Fehler beim Laden!</span>";
+      console.error("❌ Fehler beim Laden:", err);
     }
   }
 
