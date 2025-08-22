@@ -1,22 +1,15 @@
 {
-  "type": "module",
-  "dependencies": {
-    "node-fetch": "^3.3.2"
-  }
-}
-{
   "name": "sihf-sursee-export",
   "version": "1.0.0",
-  "description": "",
-  "main": "fetch-games.js",
+  "description": "Automatischer Export der SIHF Spiele (Nachwuchs + Aktiv) für den EHC Sursee",
+  "main": "update-all.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node update-all.js 2026"
   },
-  "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "node-fetch": "^3.3.2"
   }
 }
-
