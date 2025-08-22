@@ -25,7 +25,7 @@ jobs:
         run: npm install
 
       - name: Run Update Script
-        run: node update-all.js 2026 #mit Jahresangabe für die gewünschte Saison
+        run: node update-all.js 2026   # mit Jahresangabe für die gewünschte Saison
 
       - name: Commit & Push Results
         run: |
