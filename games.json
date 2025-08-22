@@ -1,0 +1,72 @@
+// fetch-games.js
+import fs from "fs";
+import fetch from "node-fetch";
+
+// SIHF URL für Spiele EHC Sursee Saison 2025/26
+const url = "https://data.sihf.ch/Statistic/api/cms/cache300"
+  + "?alias=results"
+  + "&searchQuery=1,10,11/2015-2099/4,5,14,15,16,23,24,25,26,28,27,29,30,31,32,60,61,105,106,107,113,114,115,116,117,118,119,120,121,122,123,124,125"
+  + "&filterQuery=2026/123/all/all/06.09.2025-29.03.2026/all/105957/all"
+  + "&orderBy=date&orderByDescending=false&take=200"
+  + "&filterBy=season,league,region,phase,date,deferredState,team1,team2"
+  + "&language=de";
+
+// Hilfsfunktion: Datum schön formatieren
+function formatDate(dStr) {
+  if (!dStr) return null;
+  const d = new Date(dStr);
+  if (isNaN(d)) return dStr;
+  return d.toLocaleDateString("de-CH", {
+    day: "2-digit",
+    month: "long",
+    year: "numeric",
+    hour: "2-digit",
+    minute: "2-digit"
+  }).replace(", 00:00", ""); // Uhrzeit nur wenn nicht 00:00
+}
+
+async function main() {
+  console.log("Hole Daten von SIHF...");
+
+  const res = await fetch(url);
+  const text = await res.text();
+
+  // JSONP -> wir müssen das Callback entfernen
+  const jsonText = text.replace(/^.+\(/, "").replace(/\);?$/, "");
+  const data = JSON.parse(jsonText);
+
+  const games = [];
+
+  data.data.forEach(row => {
+    let game = {
+      date: null,
+      team1: { id: null, name: null },
+      team2: { id: null, name: null },
+      result: null,
+      gameId: null
+    };
+
+    row.forEach(cell => {
+      if (cell?.type === "team" && !game.team1.id) {
+        game.team1 = { id: cell.id, name: cell.name };
+      } else if (cell?.type === "team" && !game.team2.id) {
+        game.team2 = { id: cell.id, name: cell.name };
+      } else if (typeof cell === "string" && cell.includes("202")) {
+        game.date = formatDate(cell);
+      } else if (cell?.type === "result") {
+        game.result = cell.value;
+      } else if (cell?.type === "linkToGameDetail") {
+        game.gameId = cell.gameId;
+      }
+    });
+
+    if (game.team1.id && game.team2.id) {
+      games.push(game);
+    }
+  });
+
+  fs.writeFileSync("games.json", JSON.stringify(games, null, 2), "utf8");
+  console.log(`Fertig! ${games.length} Spiele gespeichert in games.json`);
+}
+
+main().catch(err => console.error("Fehler:", err));
