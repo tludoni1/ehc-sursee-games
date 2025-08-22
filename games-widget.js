@@ -1,88 +1,129 @@
-console.log("✅ games-widget.js geladen");
+(async function() {
+  // Basis-URL deiner GitHub Pages
+  const BASE_URL = "https://tludoni1.github.io/ehc-sursee-games";
 
-// games-widget.js
-(async () => {
-  const script = document.currentScript;
-  const params = script.dataset;
-  const containerId = params.target;
-  const container = document.getElementById(containerId);
-  if (!container) return console.error(`Container #${containerId} nicht gefunden`);
+  // === Konfiguration aus dem Script-Tag auslesen ===
+  const currentScript = document.currentScript;
+  const params = new URLSearchParams(currentScript.getAttribute("data-params") || "");
 
-  // Parameter einlesen
-  const teamsParam = params.team?.split(",").map(s => s.trim()) ?? ["all"];
-  const gamesBack = params.gamesback === "all" ? Infinity : parseInt(params.gamesback) || 0;
-  const gamesNext = params.gamesnext === "all" ? Infinity : parseInt(params.gamesnext) || 0;
-  const place = params.place ?? "all";
-  const size = params.size || "normal";
-  const showName = params.teamname === "true";
-  const showLogo = params.teamlogo === "true";
-  const linkGame = params.gamelink === "true";
-  const todayFlag = params.todayflag === "true";
-  const colorScheme = params.color || "Farbe1";
-  const font = params.font || "Arial, sans-serif";
+  const datasetTeams = (params.get("teams") || "all").split(",");
+  const gamesBack = params.get("gamesBack") || "all";
+  const gamesNext = params.get("gamesNext") || "all";
+  const place = params.get("place") || "all";
 
-  // Farbvarianten (inspired by EHC colours: red & black)
-  const colorMap = {
-    Farbe1: { team: "#d32026", date: "#000", line: "#000", bg: "#fff", hover: "#f5f5f5" },
-    Farbe2: { team: "#000", date: "#d32026", line: "#d32026", bg: "#fff", hover: "#fafafa" },
-    Farbe3: { team: "#d32026", date: "#fff", line: "#000", bg: "#000", hover: "#222" },
-    Farbe4: { team: "#000", date: "#fff", line: "#d32026", bg: "#fff", hover: "#eee" },
-    Farbe5: { team: "#d32026", date: "#000", line: "#000", bg: "#ffeeee", hover: "#ffdddd" },
+  const size = params.get("size") || "normal";
+  const showTeamName = params.get("teamName") === "true";
+  const showTeamLogo = params.get("teamLogo") === "true";
+  const gameLink = params.get("gameLink") === "true";
+  const todayFlag = params.get("todayFlag") === "true";
+  const colorScheme = params.get("color") || "1";
+  const font = params.get("font") || "Arial, sans-serif";
+
+  // === Styles (Farben von ehcsursee.ch) ===
+  const COLORS = {
+    1: { team: "#C8102E", date: "#000000", line: "#CCCCCC", bg: "#FFFFFF", hover: "#F5F5F5" },
+    2: { team: "#000000", date: "#C8102E", line: "#CCCCCC", bg: "#FFFFFF", hover: "#EEE" },
+    3: { team: "#333333", date: "#666666", line: "#999999", bg: "#F9F9F9", hover: "#EEE" },
+    4: { team: "#FFFFFF", date: "#C8102E", line: "#C8102E", bg: "#000000", hover: "#222" },
+    5: { team: "#C8102E", date: "#FFFFFF", line: "#C8102E", bg: "#333333", hover: "#444" },
   };
-  const colors = colorMap[colorScheme] || colorMap.Farbe1;
 
-  // Hilfsfunktionen
-  function parseDate(ds, ts) {
-    const [d, m, y] = ds.split(".");
-    return new Date(`${y}-${m}-${d}T${ts || "00:00"}`);
-  }
-  function isToday(dt) {
-    const today = new Date(), t = new Date(dt);
-    return today.toDateString() === t.toDateString();
-  }
+  const colors = COLORS[colorScheme] || COLORS[1];
 
-  // Fetch JSON
-  let data;
+  // === Spiele laden ===
+  let games = [];
   try {
-    const resp = await fetch("https://raw.githubusercontent.com/tludoni1/ehc-sursee-games/main/games-all.json");
-    data = await resp.json();
+    const res = await fetch(`${BASE_URL}/games-all.json`);
+    games = await res.json();
   } catch (e) {
-    return container.innerText = "Fehler beim Laden der Spieldaten";
+    console.error("Fehler beim Laden von games-all.json", e);
+    return;
   }
 
+  // === Filter ===
   const now = new Date();
-  const filtered = data.filter(g => {
-    if (teamsParam[0] !== "all" && !teamsParam.includes(g.team.match(/^EHC Sursee\s*(.*)$/)?.[1]?.replace(/\s+/g,"").replace(".", "T"))) {
-      return false;
+
+  games = games.filter(g => {
+    const [d, m, y] = g.date.split(".");
+    const gameDate = new Date(`${y}-${m}-${d}T00:00:00`);
+    let ok = true;
+
+    // Teams
+    if (datasetTeams[0] !== "all") {
+      ok = datasetTeams.some(t => g.team.includes(t));
     }
-    const gameDate = parseDate(g.date, g.longDate.split(" - ")[1] ?? "00:00");
-    const diffDays = (gameDate - now) / 864e5;
-    if (diffDays < -gamesBack || diffDays > gamesNext) return false;
-    if (place !== "all" && g.place !== place) return false;
-    return true;
+
+    // Place
+    if (place !== "all") {
+      ok = ok && g.place === place;
+    }
+
+    // Back
+    if (gamesBack !== "all") {
+      const days = (now - gameDate) / (1000 * 60 * 60 * 24);
+      ok = ok && days <= parseInt(gamesBack) && days >= 0;
+    }
+
+    // Next
+    if (gamesNext !== "all") {
+      const days = (gameDate - now) / (1000 * 60 * 60 * 24);
+      ok = ok && days <= parseInt(gamesNext) && days >= 0;
+    }
+
+    return ok;
   });
 
-  // Render HTML
-  const html = filtered.map(g => {
-    const gd = parseDate(g.date, g.longDate.split(" - ")[1] ?? "00:00");
-    const showToday = todayFlag && isToday(gd);
-    const logo1 = showLogo ? `<img src="https://www.sihf.ch/Image/Club/${g.team1.id}.png" alt="${g.team1.name}" style="height:1.5em;vertical-align:middle;">` : "";
-    const logo2 = showLogo ? `<img src="https://www.sihf.ch/Image/Club/${g.team2.id}.png" alt="${g.team2.name}" style="height:1.5em;vertical-align:middle;">` : "";
-    const tName1 = showName ? `<span>${g.team1.name}</span>` : "";
-    const tName2 = showName ? `<span>${g.team2.name}</span>` : "";
-    const result = g.result === "-" ? "" : `<span style="color:${colors.date};">${g.result}</span>`;
-    const inner = `
-      <div class="game-row" style="display:flex;align-items:center;padding:0.3em;border-bottom:1px solid ${colors.line};font-family:${font};background:${colors.bg};">
-        <div style="flex:1;">${logo1} ${tName1}</div>
-        <div style="flex:0 0 auto;padding: 0 0.5em;white-space:nowrap;">${g.longDate}</div>
-        <div style="flex:1;text-align:right;">${tName2} ${logo2}</div>
-        <div style="flex:0 0 3em;text-align:center;">${result}</div>
-        ${showToday ? `<div style="padding-left:0.5em;color:${colors.team};">●</div>` : ""}
-      </div>`;
-    return linkGame ?
-      `<a href="https://www.sihf.ch/de/game-center/game-detail/${g.gameId}/" target="_blank" style="text-decoration:none;">${inner}</a>` :
-      inner;
-  }).join("");
+  // === Render HTML ===
+  let html = `<div style="font-family:${font}; border:1px solid ${colors.line}; background:${colors.bg};">`;
 
+  games.forEach(g => {
+    const today = g.date === now.toLocaleDateString("de-DE");
+
+    let row = `<div style="padding:8px; border-bottom:1px solid ${colors.line}; display:flex; align-items:center; justify-content:space-between; cursor:pointer;" onmouseover="this.style.background='${colors.hover}'" onmouseout="this.style.background='${colors.bg}'">`;
+
+    // Datum & Uhrzeit
+    row += `<div style="color:${colors.date}; font-size:${size === "kompakt" ? "12px" : size === "gross" ? "18px" : "14px"};">${g.longDate}</div>`;
+
+    // Teams
+    let teamsHTML = "";
+    [g.team1, g.team2].forEach(team => {
+      if (!team) return;
+      let part = `<div style="display:flex; align-items:center; gap:4px;">`;
+      if (showTeamLogo) {
+        const logoUrl = `https://www.sihf.ch/Image/Club/${team.id}.png`;
+        part += `<img src="${logoUrl}" alt="${team.name}" style="height:${size === "kompakt" ? "16px" : size === "gross" ? "32px" : "24px"};">`;
+      }
+      if (showTeamName) {
+        part += `<span style="color:${colors.team};">${team.name}</span>`;
+      }
+      part += `</div>`;
+      teamsHTML += part;
+    });
+
+    row += `<div style="flex:1; display:flex; justify-content:center; gap:10px;">${teamsHTML}</div>`;
+
+    // Resultat oder Info
+    row += `<div style="color:${colors.date}; font-weight:bold;">${g.displayInfo}</div>`;
+
+    // Today Flag
+    if (todayFlag && today) {
+      row += `<div style="color:${colors.team}; font-size:20px;">●</div>`;
+    }
+
+    row += `</div>`; // row end
+
+    // GameLink
+    if (gameLink && g.gameId) {
+      row = `<a href="https://www.sihf.ch/de/game-center/game/#/${g.gameId}" target="_blank" style="text-decoration:none;">${row}</a>`;
+    }
+
+    html += row;
+  });
+
+  html += "</div>";
+
+  // === Widget einfügen ===
+  const container = document.createElement("div");
   container.innerHTML = html;
+  currentScript.parentNode.insertBefore(container, currentScript);
 })();
