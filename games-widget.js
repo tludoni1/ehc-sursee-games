@@ -1,3 +1,5 @@
+console.log("✅ games-widget.js geladen");
+
 // games-widget.js
 (async () => {
   const script = document.currentScript;
