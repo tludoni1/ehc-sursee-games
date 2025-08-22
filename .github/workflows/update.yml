@@ -2,8 +2,8 @@ name: Update Spiele
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # Täglich um 03:00 UTC (05:00 CH-Zeit)
-  workflow_dispatch:       # Manuelles Ausführen möglich
+    - cron: "0 4 * * *" # Jeden Tag um 04:00 UTC
+  workflow_dispatch:     # Manuell auslösbar
 
 jobs:
   update:
@@ -16,7 +16,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 22   # Deine Node Version
+          node-version: "22"
 
       - name: Install Dependencies
         run: npm install
@@ -29,6 +29,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add games-*.json
-          git commit -m "Auto-update Spiele ($(date))" || echo "Keine Änderungen"
-          git pull --rebase origin main
+          git diff --cached --quiet || git commit -m "Auto-update Spiele ($(date))"
           git push
