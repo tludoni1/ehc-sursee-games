@@ -1,40 +1,34 @@
-name: Update SIHF Games
-
+name: Update Spiele
 
 on:
   schedule:
-    # Jeden Tag um 05:00 Uhr UTC (= 07:00 CH-Zeit)
-    - cron: "0 5 * * *"
-  # Manuell auslösen im GitHub Web-UI
-  workflow_dispatch:
-
-# Ganz wichtig: Schreibrechte für den Bot aktivieren
-permissions:
-  contents: write
+    - cron: "0 3 * * *"   # Täglich um 03:00 UTC (05:00 CH-Zeit)
+  workflow_dispatch:       # Manuelles Ausführen möglich
 
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: 22   # Deine Node Version
 
-      - name: Install dependencies
+      - name: Install Dependencies
         run: npm install
 
-      - name: Run update script
+      - name: Run Update Script
         run: node update-all.js 2026
 
-    - name: Commit & Push Änderungen
-      run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add games-*.json
-        git commit -m "Auto-update Spiele ($(date))" || echo "Keine Änderungen"
-        git pull --rebase origin main
-        git push
+      - name: Commit & Push Änderungen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add games-*.json
+          git commit -m "Auto-update Spiele ($(date))" || echo "Keine Änderungen"
+          git pull --rebase origin main
+          git push
