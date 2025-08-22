@@ -29,11 +29,12 @@ jobs:
       - name: Run update script
         run: node update-all.js 2026
 
-      - name: Commit and push
-        run: |
+    - name: Commit & Push Änderungen
+      run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git add games-*.json
         git commit -m "Auto-update Spiele ($(date))" || echo "Keine Änderungen"
         git pull --rebase origin main
         git push
+
