@@ -1,5 +1,6 @@
 name: Update SIHF Games
 
+
 on:
   schedule:
     # Jeden Tag um 05:00 Uhr UTC (= 07:00 CH-Zeit)
@@ -37,4 +38,3 @@ jobs:
         git commit -m "Auto-update Spiele ($(date))" || echo "Keine Änderungen"
         git pull --rebase origin main
         git push
-
