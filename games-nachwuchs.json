@@ -4,6 +4,9 @@
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
     "date": "28.09.2025",
+    "longDate": "28. Sep. 2025 - 14:45",
+    "result": "-",
+    "displayInfo": "28. Sep. 2025 - 14:45",
     "team1": {
       "id": 105774,
       "name": "EHC Sursee"
@@ -13,7 +16,6 @@
       "name": "EHC Bern 96"
     },
     "gameId": "20263203120002",
-    "today": false,
     "place": "home"
   },
   {
@@ -21,6 +23,9 @@
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
     "date": "05.10.2025",
+    "longDate": "5. Okt. 2025 - 19:15",
+    "result": "-",
+    "displayInfo": "5. Okt. 2025 - 19:15",
     "team1": {
       "id": 105774,
       "name": "EHC Sursee"
@@ -30,7 +35,6 @@
       "name": "EHC Schwarzenburg Köniz"
     },
     "gameId": "20263203120041",
-    "today": false,
     "place": "home"
   },
   {
@@ -38,6 +42,9 @@
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
     "date": "12.10.2025",
+    "longDate": "12. Okt. 2025 - 17:00",
+    "result": "-",
+    "displayInfo": "12. Okt. 2025 - 17:00",
     "team1": {
       "id": 105010,
       "name": "HC Huskys"
@@ -47,7 +54,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263203120016",
-    "today": false,
     "place": "away"
   },
   {
@@ -55,6 +61,9 @@
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
     "date": "19.10.2025",
+    "longDate": "19. Okt. 2025 - 19:30",
+    "result": "-",
+    "displayInfo": "19. Okt. 2025 - 19:30",
     "team1": {
       "id": 105774,
       "name": "EHC Sursee"
@@ -64,7 +73,6 @@
       "name": "HC NWU Green"
     },
     "gameId": "20263203120023",
-    "today": false,
     "place": "home"
   },
   {
@@ -72,6 +80,9 @@
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
     "date": "26.10.2025",
+    "longDate": "26. Okt. 2025 - 18:30",
+    "result": "-",
+    "displayInfo": "26. Okt. 2025 - 18:30",
     "team1": {
       "id": 105885,
       "name": "LUNOXX Seetal"
@@ -81,7 +92,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263203120030",
-    "today": false,
     "place": "away"
   },
   {
@@ -89,6 +99,9 @@
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
     "date": "09.11.2025",
+    "longDate": "9. Nov. 2025 - 17:15",
+    "result": "-",
+    "displayInfo": "9. Nov. 2025 - 17:15",
     "team1": {
       "id": 103296,
       "name": "EHC Adelboden"
@@ -98,7 +111,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263203120036",
-    "today": false,
     "place": "away"
   },
   {
@@ -106,6 +118,9 @@
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
     "date": "23.11.2025",
+    "longDate": "23. Nov. 2025 - 19:15",
+    "result": "-",
+    "displayInfo": "23. Nov. 2025 - 19:15",
     "team1": {
       "id": 105898,
       "name": "HC Dragon Thun"
@@ -115,7 +130,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263203120046",
-    "today": false,
     "place": "away"
   },
   {
@@ -123,6 +137,9 @@
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
     "date": "30.11.2025",
+    "longDate": "30. Nov. 2025 - 17:15",
+    "result": "-",
+    "displayInfo": "30. Nov. 2025 - 17:15",
     "team1": {
       "id": 105892,
       "name": "HC NWU Blue"
@@ -132,7 +149,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263203120051",
-    "today": false,
     "place": "away"
   },
   {
@@ -140,6 +156,9 @@
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
     "date": "14.12.2025",
+    "longDate": "14. Dez. 2025 - 19:30",
+    "result": "-",
+    "displayInfo": "14. Dez. 2025 - 19:30",
     "team1": {
       "id": 105774,
       "name": "EHC Sursee"
@@ -149,7 +168,6 @@
       "name": "EV Zug"
     },
     "gameId": "20263203120061",
-    "today": false,
     "place": "home"
   },
   {
@@ -157,6 +175,9 @@
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
     "date": "21.12.2025",
+    "longDate": "21. Dez. 2025 - 17:00",
+    "result": "-",
+    "displayInfo": "21. Dez. 2025 - 17:00",
     "team1": {
       "id": 105126,
       "name": "EHC Bern 96"
@@ -166,7 +187,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263203120068",
-    "today": false,
     "place": "away"
   },
   {
@@ -174,6 +194,9 @@
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
     "date": "04.01.2026",
+    "longDate": "4. Jan. 2026 - 17:00",
+    "result": "-",
+    "displayInfo": "4. Jan. 2026 - 17:00",
     "team1": {
       "id": 104897,
       "name": "Beo Young Yetis"
@@ -183,7 +206,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263203120075",
-    "today": false,
     "place": "away"
   },
   {
@@ -191,6 +213,9 @@
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
     "date": "11.01.2026",
+    "longDate": "11. Jan. 2026 - 19:30",
+    "result": "-",
+    "displayInfo": "11. Jan. 2026 - 19:30",
     "team1": {
       "id": 105774,
       "name": "EHC Sursee"
@@ -200,7 +225,6 @@
       "name": "HC Huskys"
     },
     "gameId": "20263203120082",
-    "today": false,
     "place": "home"
   },
   {
@@ -208,6 +232,9 @@
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
     "date": "16.01.2026",
+    "longDate": "16. Jan. 2026 - 20:30",
+    "result": "-",
+    "displayInfo": "16. Jan. 2026 - 20:30",
     "team1": {
       "id": 105804,
       "name": "HC NWU Green"
@@ -217,7 +244,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263203120089",
-    "today": false,
     "place": "away"
   },
   {
@@ -225,6 +251,9 @@
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
     "date": "25.01.2026",
+    "longDate": "25. Jan. 2026 - 19:30",
+    "result": "-",
+    "displayInfo": "25. Jan. 2026 - 19:30",
     "team1": {
       "id": 105774,
       "name": "EHC Sursee"
@@ -234,7 +263,6 @@
       "name": "LUNOXX Seetal"
     },
     "gameId": "20263203120096",
-    "today": false,
     "place": "home"
   },
   {
@@ -242,6 +270,9 @@
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
     "date": "01.02.2026",
+    "longDate": "1. Feb. 2026 - 16:45",
+    "result": "-",
+    "displayInfo": "1. Feb. 2026 - 16:45",
     "team1": {
       "id": 105774,
       "name": "EHC Sursee"
@@ -251,7 +282,6 @@
       "name": "EHC Adelboden"
     },
     "gameId": "20263203120102",
-    "today": false,
     "place": "home"
   },
   {
@@ -259,6 +289,9 @@
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
     "date": "07.02.2026",
+    "longDate": "7. Feb. 2026 - 17:30",
+    "result": "-",
+    "displayInfo": "7. Feb. 2026 - 17:30",
     "team1": {
       "id": 105937,
       "name": "EHC Schwarzenburg Köniz"
@@ -268,7 +301,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263203120107",
-    "today": false,
     "place": "away"
   },
   {
@@ -276,6 +308,9 @@
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
     "date": "20.02.2026",
+    "longDate": "20. Feb. 2026 - 20:15",
+    "result": "-",
+    "displayInfo": "20. Feb. 2026 - 20:15",
     "team1": {
       "id": 105774,
       "name": "EHC Sursee"
@@ -285,7 +320,6 @@
       "name": "HC NWU Blue"
     },
     "gameId": "20263203120117",
-    "today": false,
     "place": "home"
   },
   {
@@ -293,6 +327,9 @@
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
     "date": "28.02.2026",
+    "longDate": "28. Feb. 2026 - 20:00",
+    "result": "-",
+    "displayInfo": "28. Feb. 2026 - 20:00",
     "team1": {
       "id": 105731,
       "name": "HC Wisle"
@@ -302,7 +339,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263203120122",
-    "today": false,
     "place": "away"
   },
   {
@@ -310,6 +346,9 @@
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
     "date": "01.03.2026",
+    "longDate": "1. März 2026 - 19:30",
+    "result": "-",
+    "displayInfo": "1. März 2026 - 19:30",
     "team1": {
       "id": 105774,
       "name": "EHC Sursee"
@@ -319,7 +358,6 @@
       "name": "HC Wisle"
     },
     "gameId": "20263203120056",
-    "today": false,
     "place": "home"
   },
   {
@@ -327,6 +365,9 @@
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
     "date": "08.03.2026",
+    "longDate": "8. März 2026 - 14:45",
+    "result": "-",
+    "displayInfo": "8. März 2026 - 14:45",
     "team1": {
       "id": 105125,
       "name": "EV Zug"
@@ -336,7 +377,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263203120127",
-    "today": false,
     "place": "away"
   },
   {
@@ -344,6 +384,9 @@
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
     "date": "14.03.2026",
+    "longDate": "14. März 2026 - 19:30",
+    "result": "-",
+    "displayInfo": "14. März 2026 - 19:30",
     "team1": {
       "id": 105774,
       "name": "EHC Sursee"
@@ -353,7 +396,6 @@
       "name": "HC Dragon Thun"
     },
     "gameId": "20263203120112",
-    "today": false,
     "place": "home"
   },
   {
@@ -361,6 +403,9 @@
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
     "date": "15.03.2026",
+    "longDate": "15. März 2026 - 16:45",
+    "result": "-",
+    "displayInfo": "15. März 2026 - 16:45",
     "team1": {
       "id": 105774,
       "name": "EHC Sursee"
@@ -370,7 +415,6 @@
       "name": "Beo Young Yetis"
     },
     "gameId": "20263203120009",
-    "today": false,
     "place": "home"
   },
   {
@@ -378,6 +422,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "07.09.2025",
+    "longDate": "7. Sep. 2025 - 16:30",
+    "result": "-",
+    "displayInfo": "7. Sep. 2025 - 16:30",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -387,7 +434,6 @@
       "name": "Argovia Stars"
     },
     "gameId": "20263215110077",
-    "today": false,
     "place": "home"
   },
   {
@@ -395,6 +441,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "14.09.2025",
+    "longDate": "14. Sep. 2025 - 16:00",
+    "result": "-",
+    "displayInfo": "14. Sep. 2025 - 16:00",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -404,7 +453,6 @@
       "name": "Argovia Stars"
     },
     "gameId": "20263215110005",
-    "today": false,
     "place": "home"
   },
   {
@@ -412,6 +460,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "27.09.2025",
+    "longDate": "27. Sep. 2025 - 17:00",
+    "result": "-",
+    "displayInfo": "27. Sep. 2025 - 17:00",
     "team1": {
       "id": 103674,
       "name": "GDT Bellinzona"
@@ -421,7 +472,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263215110013",
-    "today": false,
     "place": "away"
   },
   {
@@ -429,6 +479,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "05.10.2025",
+    "longDate": "5. Okt. 2025 - 16:30",
+    "result": "-",
+    "displayInfo": "5. Okt. 2025 - 16:30",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -438,7 +491,6 @@
       "name": "HC NWU Red"
     },
     "gameId": "20263215110018",
-    "today": false,
     "place": "home"
   },
   {
@@ -446,6 +498,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "11.10.2025",
+    "longDate": "11. Okt. 2025 - 19:30",
+    "result": "-",
+    "displayInfo": "11. Okt. 2025 - 19:30",
     "team1": {
       "id": 105849,
       "name": "LUNOXX Hockey"
@@ -455,7 +510,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263215110023",
-    "today": false,
     "place": "away"
   },
   {
@@ -463,6 +517,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "18.10.2025",
+    "longDate": "18. Okt. 2025 - 20:15",
+    "result": "-",
+    "displayInfo": "18. Okt. 2025 - 20:15",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -472,7 +529,6 @@
       "name": "EHC Olten Prospect"
     },
     "gameId": "20263215110028",
-    "today": false,
     "place": "home"
   },
   {
@@ -480,6 +536,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "26.10.2025",
+    "longDate": "26. Okt. 2025 - 14:15",
+    "result": "-",
+    "displayInfo": "26. Okt. 2025 - 14:15",
     "team1": {
       "id": 105387,
       "name": "EV Zug"
@@ -489,7 +548,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263215110032",
-    "today": false,
     "place": "away"
   },
   {
@@ -497,6 +555,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "01.11.2025",
+    "longDate": "1. Nov. 2025 - 15:00",
+    "result": "-",
+    "displayInfo": "1. Nov. 2025 - 15:00",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -506,7 +567,6 @@
       "name": "HC Luzern"
     },
     "gameId": "20263215110035",
-    "today": false,
     "place": "home"
   },
   {
@@ -514,6 +574,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "08.11.2025",
+    "longDate": "8. Nov. 2025 - 17:00",
+    "result": "-",
+    "displayInfo": "8. Nov. 2025 - 17:00",
     "team1": {
       "id": 105751,
       "name": "HC Rivers"
@@ -523,7 +586,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263215110038",
-    "today": false,
     "place": "away"
   },
   {
@@ -531,6 +593,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "15.11.2025",
+    "longDate": "15. Nov. 2025 - 20:00",
+    "result": "-",
+    "displayInfo": "15. Nov. 2025 - 20:00",
     "team1": {
       "id": 103369,
       "name": "Argovia Stars"
@@ -540,7 +605,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263215110041",
-    "today": false,
     "place": "away"
   },
   {
@@ -548,6 +612,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "29.11.2025",
+    "longDate": "29. Nov. 2025 - 11:30",
+    "result": "-",
+    "displayInfo": "29. Nov. 2025 - 11:30",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -557,7 +624,6 @@
       "name": "GDT Bellinzona"
     },
     "gameId": "20263215110049",
-    "today": false,
     "place": "home"
   },
   {
@@ -565,6 +631,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "06.12.2025",
+    "longDate": "6. Dez. 2025 - 17:15",
+    "result": "-",
+    "displayInfo": "6. Dez. 2025 - 17:15",
     "team1": {
       "id": 106074,
       "name": "HC NWU Red"
@@ -574,7 +643,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263215110054",
-    "today": false,
     "place": "away"
   },
   {
@@ -582,6 +650,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "13.12.2025",
+    "longDate": "13. Dez. 2025 - 11:30",
+    "result": "-",
+    "displayInfo": "13. Dez. 2025 - 11:30",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -591,7 +662,6 @@
       "name": "LUNOXX Hockey"
     },
     "gameId": "20263215110059",
-    "today": false,
     "place": "home"
   },
   {
@@ -599,6 +669,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "14.12.2025",
+    "longDate": "14. Dez. 2025 - 19:30",
+    "result": "-",
+    "displayInfo": "14. Dez. 2025 - 19:30",
     "team1": {
       "id": 105995,
       "name": "EHC Olten Prospect"
@@ -608,7 +681,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263215110064",
-    "today": false,
     "place": "away"
   },
   {
@@ -616,6 +688,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "03.01.2026",
+    "longDate": "3. Jan. 2026 - 14:15",
+    "result": "-",
+    "displayInfo": "3. Jan. 2026 - 14:15",
     "team1": {
       "id": 105132,
       "name": "HC Luzern"
@@ -625,7 +700,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263215110071",
-    "today": false,
     "place": "away"
   },
   {
@@ -633,6 +707,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "11.01.2026",
+    "longDate": "11. Jan. 2026 - 17:00",
+    "result": "-",
+    "displayInfo": "11. Jan. 2026 - 17:00",
     "team1": {
       "id": 105751,
       "name": "HC Rivers"
@@ -642,7 +719,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263215110074",
-    "today": false,
     "place": "away"
   },
   {
@@ -650,6 +726,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "18.01.2026",
+    "longDate": "18. Jan. 2026 - 19:00",
+    "result": "-",
+    "displayInfo": "18. Jan. 2026 - 19:00",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -659,7 +738,6 @@
       "name": "EV Zug"
     },
     "gameId": "20263215110068",
-    "today": false,
     "place": "home"
   },
   {
@@ -667,6 +745,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "01.02.2026",
+    "longDate": "1. Feb. 2026 - 17:00",
+    "result": "-",
+    "displayInfo": "1. Feb. 2026 - 17:00",
     "team1": {
       "id": 103674,
       "name": "GDT Bellinzona"
@@ -676,7 +757,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263215110085",
-    "today": false,
     "place": "away"
   },
   {
@@ -684,6 +764,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "07.02.2026",
+    "longDate": "7. Feb. 2026 - 20:15",
+    "result": "-",
+    "displayInfo": "7. Feb. 2026 - 20:15",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -693,7 +776,6 @@
       "name": "HC NWU Red"
     },
     "gameId": "20263215110090",
-    "today": false,
     "place": "home"
   },
   {
@@ -701,6 +783,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "08.02.2026",
+    "longDate": "8. Feb. 2026 - 16:45",
+    "result": "-",
+    "displayInfo": "8. Feb. 2026 - 16:45",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -710,7 +795,6 @@
       "name": "HC Rivers"
     },
     "gameId": "20263215110002",
-    "today": false,
     "place": "home"
   },
   {
@@ -718,6 +802,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "14.02.2026",
+    "longDate": "14. Feb. 2026 - 19:45",
+    "result": "-",
+    "displayInfo": "14. Feb. 2026 - 19:45",
     "team1": {
       "id": 105849,
       "name": "LUNOXX Hockey"
@@ -727,7 +814,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263215110095",
-    "today": false,
     "place": "away"
   },
   {
@@ -735,6 +821,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "21.02.2026",
+    "longDate": "21. Feb. 2026 - 20:00",
+    "result": "-",
+    "displayInfo": "21. Feb. 2026 - 20:00",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -744,7 +833,6 @@
       "name": "EHC Olten Prospect"
     },
     "gameId": "20263215110100",
-    "today": false,
     "place": "home"
   },
   {
@@ -752,6 +840,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "01.03.2026",
+    "longDate": "1. März 2026 - 14:45",
+    "result": "-",
+    "displayInfo": "1. März 2026 - 14:45",
     "team1": {
       "id": 105387,
       "name": "EV Zug"
@@ -761,7 +852,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263215110104",
-    "today": false,
     "place": "away"
   },
   {
@@ -769,6 +859,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "07.03.2026",
+    "longDate": "7. März 2026 - 19:00",
+    "result": "-",
+    "displayInfo": "7. März 2026 - 19:00",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -778,7 +871,6 @@
       "name": "HC Luzern"
     },
     "gameId": "20263215110107",
-    "today": false,
     "place": "home"
   },
   {
@@ -786,6 +878,9 @@
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
     "date": "14.09.2025",
+    "longDate": "14. Sep. 2025 - 13:15",
+    "result": "-",
+    "displayInfo": "14. Sep. 2025 - 13:15",
     "team1": {
       "id": 103984,
       "name": "EHC Sursee"
@@ -795,7 +890,6 @@
       "name": "Hockey Innerschwyz HCI"
     },
     "gameId": "20263228110002",
-    "today": false,
     "place": "home"
   },
   {
@@ -803,6 +897,9 @@
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
     "date": "17.09.2025",
+    "longDate": "17. Sep. 2025 - 18:15",
+    "result": "-",
+    "displayInfo": "17. Sep. 2025 - 18:15",
     "team1": {
       "id": 103984,
       "name": "EHC Sursee"
@@ -812,7 +909,6 @@
       "name": "EV Zug"
     },
     "gameId": "20263228110048",
-    "today": false,
     "place": "home"
   },
   {
@@ -820,6 +916,9 @@
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
     "date": "20.09.2025",
+    "longDate": "20. Sep. 2025 - 16:45",
+    "result": "-",
+    "displayInfo": "20. Sep. 2025 - 16:45",
     "team1": {
       "id": 105883,
       "name": "LUNOXX Hockey"
@@ -829,7 +928,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263228110007",
-    "today": false,
     "place": "away"
   },
   {
@@ -837,6 +935,9 @@
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
     "date": "27.09.2025",
+    "longDate": "27. Sep. 2025 - 14:15",
+    "result": "-",
+    "displayInfo": "27. Sep. 2025 - 14:15",
     "team1": {
       "id": 103727,
       "name": "GDT Bellinzona"
@@ -846,7 +947,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263228110014",
-    "today": false,
     "place": "away"
   },
   {
@@ -854,6 +954,9 @@
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
     "date": "04.10.2025",
+    "longDate": "4. Okt. 2025 - 13:15",
+    "result": "-",
+    "displayInfo": "4. Okt. 2025 - 13:15",
     "team1": {
       "id": 103984,
       "name": "EHC Sursee"
@@ -863,7 +966,6 @@
       "name": "HC NWU"
     },
     "gameId": "20263228110021",
-    "today": false,
     "place": "home"
   },
   {
@@ -871,6 +973,9 @@
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
     "date": "11.10.2025",
+    "longDate": "11. Okt. 2025 - 17:30",
+    "result": "-",
+    "displayInfo": "11. Okt. 2025 - 17:30",
     "team1": {
       "id": 105513,
       "name": "HCB Chiasso"
@@ -880,7 +985,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263228110028",
-    "today": false,
     "place": "away"
   },
   {
@@ -888,6 +992,9 @@
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
     "date": "19.10.2025",
+    "longDate": "19. Okt. 2025 - 16:45",
+    "result": "-",
+    "displayInfo": "19. Okt. 2025 - 16:45",
     "team1": {
       "id": 103984,
       "name": "EHC Sursee"
@@ -897,7 +1004,6 @@
       "name": "HC Rivers II"
     },
     "gameId": "20263228110035",
-    "today": false,
     "place": "home"
   },
   {
@@ -905,6 +1011,9 @@
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
     "date": "25.10.2025",
+    "longDate": "25. Okt. 2025 - 12:45",
+    "result": "-",
+    "displayInfo": "25. Okt. 2025 - 12:45",
     "team1": {
       "id": 103295,
       "name": "Argovia Stars"
@@ -914,7 +1023,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263228110042",
-    "today": false,
     "place": "away"
   },
   {
@@ -922,6 +1030,9 @@
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
     "date": "15.11.2025",
+    "longDate": "15. Nov. 2025 - 14:15",
+    "result": "-",
+    "displayInfo": "15. Nov. 2025 - 14:15",
     "team1": {
       "id": 103869,
       "name": "HC Luzern"
@@ -931,7 +1042,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263228110053",
-    "today": false,
     "place": "away"
   },
   {
@@ -939,6 +1049,9 @@
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
     "date": "23.11.2025",
+    "longDate": "23. Nov. 2025 - 16:45",
+    "result": "-",
+    "displayInfo": "23. Nov. 2025 - 16:45",
     "team1": {
       "id": 103984,
       "name": "EHC Sursee"
@@ -948,7 +1061,6 @@
       "name": "HC Wohlen Freiamt"
     },
     "gameId": "20263228110058",
-    "today": false,
     "place": "home"
   },
   {
@@ -956,6 +1068,9 @@
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
     "date": "29.11.2025",
+    "longDate": "29. Nov. 2025 - 17:45",
+    "result": "-",
+    "displayInfo": "29. Nov. 2025 - 17:45",
     "team1": {
       "id": 105769,
       "name": "HC Rivers I"
@@ -965,7 +1080,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263228110063",
-    "today": false,
     "place": "away"
   },
   {
@@ -973,6 +1087,9 @@
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
     "date": "06.12.2025",
+    "longDate": "6. Dez. 2025 - 16:30",
+    "result": "-",
+    "displayInfo": "6. Dez. 2025 - 16:30",
     "team1": {
       "id": 105531,
       "name": "Hockey Innerschwyz HCI"
@@ -982,7 +1099,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263228110068",
-    "today": false,
     "place": "away"
   },
   {
@@ -990,6 +1106,9 @@
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
     "date": "14.12.2025",
+    "longDate": "14. Dez. 2025 - 16:45",
+    "result": "-",
+    "displayInfo": "14. Dez. 2025 - 16:45",
     "team1": {
       "id": 103984,
       "name": "EHC Sursee"
@@ -999,7 +1118,6 @@
       "name": "LUNOXX Hockey"
     },
     "gameId": "20263228110073",
-    "today": false,
     "place": "home"
   },
   {
@@ -1007,6 +1125,9 @@
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
     "date": "21.12.2025",
+    "longDate": "21. Dez. 2025 - 16:45",
+    "result": "-",
+    "displayInfo": "21. Dez. 2025 - 16:45",
     "team1": {
       "id": 103984,
       "name": "EHC Sursee"
@@ -1016,7 +1137,6 @@
       "name": "GDT Bellinzona"
     },
     "gameId": "20263228110080",
-    "today": false,
     "place": "home"
   },
   {
@@ -1024,6 +1144,9 @@
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
     "date": "03.01.2026",
+    "longDate": "3. Jan. 2026 - 16:45",
+    "result": "-",
+    "displayInfo": "3. Jan. 2026 - 16:45",
     "team1": {
       "id": 103984,
       "name": "EHC Sursee"
@@ -1033,7 +1156,6 @@
       "name": "HC Rivers I"
     },
     "gameId": "20263228110129",
-    "today": false,
     "place": "home"
   },
   {
@@ -1041,6 +1163,9 @@
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
     "date": "04.01.2026",
+    "longDate": "4. Jan. 2026 - 17:15",
+    "result": "-",
+    "displayInfo": "4. Jan. 2026 - 17:15",
     "team1": {
       "id": 105779,
       "name": "HC NWU"
@@ -1050,7 +1175,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263228110087",
-    "today": false,
     "place": "away"
   },
   {
@@ -1058,6 +1182,9 @@
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
     "date": "11.01.2026",
+    "longDate": "11. Jan. 2026 - 16:45",
+    "result": "-",
+    "displayInfo": "11. Jan. 2026 - 16:45",
     "team1": {
       "id": 103984,
       "name": "EHC Sursee"
@@ -1067,7 +1194,6 @@
       "name": "HCB Chiasso"
     },
     "gameId": "20263228110094",
-    "today": false,
     "place": "home"
   },
   {
@@ -1075,6 +1201,9 @@
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
     "date": "17.01.2026",
+    "longDate": "17. Jan. 2026 - 17:00",
+    "result": "-",
+    "displayInfo": "17. Jan. 2026 - 17:00",
     "team1": {
       "id": 106111,
       "name": "HC Rivers II"
@@ -1084,7 +1213,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263228110101",
-    "today": false,
     "place": "away"
   },
   {
@@ -1092,6 +1220,9 @@
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
     "date": "25.01.2026",
+    "longDate": "25. Jan. 2026 - 16:45",
+    "result": "-",
+    "displayInfo": "25. Jan. 2026 - 16:45",
     "team1": {
       "id": 103984,
       "name": "EHC Sursee"
@@ -1101,7 +1232,6 @@
       "name": "Argovia Stars"
     },
     "gameId": "20263228110108",
-    "today": false,
     "place": "home"
   },
   {
@@ -1109,6 +1239,9 @@
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
     "date": "01.02.2026",
+    "longDate": "1. Feb. 2026 - 11:30",
+    "result": "-",
+    "displayInfo": "1. Feb. 2026 - 11:30",
     "team1": {
       "id": 105138,
       "name": "EV Zug"
@@ -1118,7 +1251,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263228110114",
-    "today": false,
     "place": "away"
   },
   {
@@ -1126,6 +1258,9 @@
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
     "date": "08.02.2026",
+    "longDate": "8. Feb. 2026 - 19:30",
+    "result": "-",
+    "displayInfo": "8. Feb. 2026 - 19:30",
     "team1": {
       "id": 103984,
       "name": "EHC Sursee"
@@ -1135,7 +1270,6 @@
       "name": "HC Luzern"
     },
     "gameId": "20263228110119",
-    "today": false,
     "place": "home"
   },
   {
@@ -1143,6 +1277,9 @@
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
     "date": "15.02.2026",
+    "longDate": "15. Feb. 2026 - 17:15",
+    "result": "-",
+    "displayInfo": "15. Feb. 2026 - 17:15",
     "team1": {
       "id": 106036,
       "name": "HC Wohlen Freiamt"
@@ -1152,7 +1289,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263228110124",
-    "today": false,
     "place": "away"
   },
   {
@@ -1160,6 +1296,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "13.09.2025",
+    "longDate": "13. Sep. 2025 - 14:15",
+    "result": "-",
+    "displayInfo": "13. Sep. 2025 - 14:15",
     "team1": {
       "id": 105149,
       "name": "GDT Bellinzona"
@@ -1169,7 +1308,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263235110007",
-    "today": false,
     "place": "away"
   },
   {
@@ -1177,6 +1315,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "20.09.2025",
+    "longDate": "20. Sep. 2025 - 16:30",
+    "result": "-",
+    "displayInfo": "20. Sep. 2025 - 16:30",
     "team1": {
       "id": 105957,
       "name": "EHC Sursee"
@@ -1186,7 +1327,6 @@
       "name": "HC Lugano 2 BIANCO"
     },
     "gameId": "20263235110013",
-    "today": false,
     "place": "home"
   },
   {
@@ -1194,6 +1334,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "24.09.2025",
+    "longDate": "24. Sep. 2025 - 18:15",
+    "result": "-",
+    "displayInfo": "24. Sep. 2025 - 18:15",
     "team1": {
       "id": 105957,
       "name": "EHC Sursee"
@@ -1203,7 +1346,6 @@
       "name": "LUNOXX Seetal"
     },
     "gameId": "20263235110001",
-    "today": false,
     "place": "home"
   },
   {
@@ -1211,6 +1353,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "11.10.2025",
+    "longDate": "11. Okt. 2025 - 18:00",
+    "result": "-",
+    "displayInfo": "11. Okt. 2025 - 18:00",
     "team1": {
       "id": 105150,
       "name": "EV Zug I"
@@ -1220,7 +1365,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263235110030",
-    "today": false,
     "place": "away"
   },
   {
@@ -1228,6 +1372,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "18.10.2025",
+    "longDate": "18. Okt. 2025 - 14:15",
+    "result": "-",
+    "displayInfo": "18. Okt. 2025 - 14:15",
     "team1": {
       "id": 105957,
       "name": "EHC Sursee"
@@ -1237,7 +1384,6 @@
       "name": "HC Lugano 1 NERO"
     },
     "gameId": "20263235110034",
-    "today": false,
     "place": "home"
   },
   {
@@ -1245,6 +1391,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "22.10.2025",
+    "longDate": "22. Okt. 2025 - 18:00",
+    "result": "-",
+    "displayInfo": "22. Okt. 2025 - 18:00",
     "team1": {
       "id": 105957,
       "name": "EHC Sursee"
@@ -1254,7 +1403,6 @@
       "name": "Hockey Innerschwyz HCI I"
     },
     "gameId": "20263235110115",
-    "today": false,
     "place": "home"
   },
   {
@@ -1262,6 +1410,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "26.10.2025",
+    "longDate": "26. Okt. 2025 - 16:45",
+    "result": "-",
+    "displayInfo": "26. Okt. 2025 - 16:45",
     "team1": {
       "id": 105784,
       "name": "HC Luzern Selection"
@@ -1271,7 +1422,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263235110038",
-    "today": false,
     "place": "away"
   },
   {
@@ -1279,6 +1429,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "09.11.2025",
+    "longDate": "9. Nov. 2025 - 16:45",
+    "result": "-",
+    "displayInfo": "9. Nov. 2025 - 16:45",
     "team1": {
       "id": 105957,
       "name": "EHC Sursee"
@@ -1288,7 +1441,6 @@
       "name": "HCAP Giovani"
     },
     "gameId": "20263235110042",
-    "today": false,
     "place": "home"
   },
   {
@@ -1296,6 +1448,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "12.11.2025",
+    "longDate": "12. Nov. 2025 - 17:45",
+    "result": "-",
+    "displayInfo": "12. Nov. 2025 - 17:45",
     "team1": {
       "id": 105868,
       "name": "LUNOXX Seetal"
@@ -1305,7 +1460,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263235110046",
-    "today": false,
     "place": "away"
   },
   {
@@ -1313,6 +1467,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "22.11.2025",
+    "longDate": "22. Nov. 2025 - 16:45",
+    "result": "-",
+    "displayInfo": "22. Nov. 2025 - 16:45",
     "team1": {
       "id": 105957,
       "name": "EHC Sursee"
@@ -1322,7 +1479,6 @@
       "name": "GDT Bellinzona"
     },
     "gameId": "20263235110052",
-    "today": false,
     "place": "home"
   },
   {
@@ -1330,6 +1486,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "06.12.2025",
+    "longDate": "6. Dez. 2025 - 17:00",
+    "result": "-",
+    "displayInfo": "6. Dez. 2025 - 17:00",
     "team1": {
       "id": 105732,
       "name": "HC Rivers"
@@ -1339,7 +1498,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263235110019",
-    "today": false,
     "place": "away"
   },
   {
@@ -1347,6 +1505,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "14.12.2025",
+    "longDate": "14. Dez. 2025 - 11:00",
+    "result": "-",
+    "displayInfo": "14. Dez. 2025 - 11:00",
     "team1": {
       "id": 105683,
       "name": "Hockey Innerschwyz HCI I"
@@ -1356,7 +1517,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263235110070",
-    "today": false,
     "place": "away"
   },
   {
@@ -1364,6 +1524,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "20.12.2025",
+    "longDate": "20. Dez. 2025 - 11:30",
+    "result": "-",
+    "displayInfo": "20. Dez. 2025 - 11:30",
     "team1": {
       "id": 105957,
       "name": "EHC Sursee"
@@ -1373,7 +1536,6 @@
       "name": "EV Zug I"
     },
     "gameId": "20263235110075",
-    "today": false,
     "place": "home"
   },
   {
@@ -1381,6 +1543,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "04.01.2026",
+    "longDate": "4. Jan. 2026 - 11:30",
+    "result": "-",
+    "displayInfo": "4. Jan. 2026 - 11:30",
     "team1": {
       "id": 104005,
       "name": "HC Lugano 1 NERO"
@@ -1390,7 +1555,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263235110079",
-    "today": false,
     "place": "away"
   },
   {
@@ -1398,6 +1562,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "07.01.2026",
+    "longDate": "7. Jan. 2026 - 18:00",
+    "result": "-",
+    "displayInfo": "7. Jan. 2026 - 18:00",
     "team1": {
       "id": 105957,
       "name": "EHC Sursee"
@@ -1407,7 +1574,6 @@
       "name": "HC Luzern Selection"
     },
     "gameId": "20263235110083",
-    "today": false,
     "place": "home"
   },
   {
@@ -1415,6 +1581,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "17.01.2026",
+    "longDate": "17. Jan. 2026 - 13:30",
+    "result": "-",
+    "displayInfo": "17. Jan. 2026 - 13:30",
     "team1": {
       "id": 104000,
       "name": "HCAP Giovani"
@@ -1424,7 +1593,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263235110087",
-    "today": false,
     "place": "away"
   },
   {
@@ -1432,6 +1600,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "21.01.2026",
+    "longDate": "21. Jan. 2026 - 18:00",
+    "result": "-",
+    "displayInfo": "21. Jan. 2026 - 18:00",
     "team1": {
       "id": 105957,
       "name": "EHC Sursee"
@@ -1441,7 +1612,6 @@
       "name": "LUNOXX Seetal"
     },
     "gameId": "20263235110091",
-    "today": false,
     "place": "home"
   },
   {
@@ -1449,6 +1619,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "01.02.2026",
+    "longDate": "1. Feb. 2026 - 13:45",
+    "result": "-",
+    "displayInfo": "1. Feb. 2026 - 13:45",
     "team1": {
       "id": 105149,
       "name": "GDT Bellinzona"
@@ -1458,7 +1631,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263235110097",
-    "today": false,
     "place": "away"
   },
   {
@@ -1466,6 +1638,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "07.02.2026",
+    "longDate": "7. Feb. 2026 - 12:15",
+    "result": "-",
+    "displayInfo": "7. Feb. 2026 - 12:15",
     "team1": {
       "id": 105660,
       "name": "HC Lugano 2 BIANCO"
@@ -1475,7 +1650,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263235110058",
-    "today": false,
     "place": "away"
   },
   {
@@ -1483,6 +1657,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "15.02.2026",
+    "longDate": "15. Feb. 2026 - 12:00",
+    "result": "-",
+    "displayInfo": "15. Feb. 2026 - 12:00",
     "team1": {
       "id": 105732,
       "name": "HC Rivers"
@@ -1492,7 +1669,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263235110109",
-    "today": false,
     "place": "away"
   },
   {
@@ -1500,6 +1676,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "28.02.2026",
+    "longDate": "28. Feb. 2026 - 12:30",
+    "result": "-",
+    "displayInfo": "28. Feb. 2026 - 12:30",
     "team1": {
       "id": 105150,
       "name": "EV Zug I"
@@ -1509,7 +1688,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263235110120",
-    "today": false,
     "place": "away"
   },
   {
@@ -1517,6 +1695,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "07.03.2026",
+    "longDate": "7. März 2026 - 11:30",
+    "result": "-",
+    "displayInfo": "7. März 2026 - 11:30",
     "team1": {
       "id": 105957,
       "name": "EHC Sursee"
@@ -1526,7 +1707,6 @@
       "name": "HC Lugano 1 NERO"
     },
     "gameId": "20263235110124",
-    "today": false,
     "place": "home"
   },
   {
@@ -1534,6 +1714,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "11.03.2026",
+    "longDate": "11. März 2026 - 18:00",
+    "result": "-",
+    "displayInfo": "11. März 2026 - 18:00",
     "team1": {
       "id": 105957,
       "name": "EHC Sursee"
@@ -1543,7 +1726,6 @@
       "name": "Hockey Innerschwyz HCI I"
     },
     "gameId": "20263235110025",
-    "today": false,
     "place": "home"
   },
   {
@@ -1551,6 +1733,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "14.03.2026",
+    "longDate": "14. März 2026 - 16:45",
+    "result": "-",
+    "displayInfo": "14. März 2026 - 16:45",
     "team1": {
       "id": 105957,
       "name": "EHC Sursee"
@@ -1560,7 +1745,6 @@
       "name": "HC Lugano 2 BIANCO"
     },
     "gameId": "20263235110103",
-    "today": false,
     "place": "home"
   },
   {
@@ -1568,6 +1752,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "15.03.2026",
+    "longDate": "15. März 2026 - 17:15",
+    "result": "-",
+    "displayInfo": "15. März 2026 - 17:15",
     "team1": {
       "id": 105784,
       "name": "HC Luzern Selection"
@@ -1577,7 +1764,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263235110128",
-    "today": false,
     "place": "away"
   },
   {
@@ -1585,6 +1771,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "21.03.2026",
+    "longDate": "21. März 2026 - 16:45",
+    "result": "-",
+    "displayInfo": "21. März 2026 - 16:45",
     "team1": {
       "id": 105957,
       "name": "EHC Sursee"
@@ -1594,7 +1783,6 @@
       "name": "HCAP Giovani"
     },
     "gameId": "20263235110132",
-    "today": false,
     "place": "home"
   },
   {
@@ -1602,6 +1790,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "22.03.2026",
+    "longDate": "22. März 2026 - 10:45",
+    "result": "-",
+    "displayInfo": "22. März 2026 - 10:45",
     "team1": {
       "id": 105957,
       "name": "EHC Sursee"
@@ -1611,7 +1802,6 @@
       "name": "HC Rivers"
     },
     "gameId": "20263235110064",
-    "today": false,
     "place": "home"
   },
   {
@@ -1619,6 +1809,9 @@
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
     "date": "05.10.2025",
+    "longDate": "5. Okt. 2025 - 13:45",
+    "result": "-",
+    "displayInfo": "5. Okt. 2025 - 13:45",
     "team1": {
       "id": 105514,
       "name": "EHC Sursee"
@@ -1628,7 +1821,6 @@
       "name": "LUNOXX Seetal"
     },
     "gameId": "20263236110001",
-    "today": false,
     "place": "home"
   },
   {
@@ -1636,6 +1828,9 @@
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
     "date": "11.10.2025",
+    "longDate": "11. Okt. 2025 - 12:15",
+    "result": "-",
+    "displayInfo": "11. Okt. 2025 - 12:15",
     "team1": {
       "id": 103878,
       "name": "HC Lugano"
@@ -1645,7 +1840,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263236110006",
-    "today": false,
     "place": "away"
   },
   {
@@ -1653,6 +1847,9 @@
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
     "date": "18.10.2025",
+    "longDate": "18. Okt. 2025 - 11:30",
+    "result": "-",
+    "displayInfo": "18. Okt. 2025 - 11:30",
     "team1": {
       "id": 105514,
       "name": "EHC Sursee"
@@ -1662,7 +1859,6 @@
       "name": "HC Rivers"
     },
     "gameId": "20263236110011",
-    "today": false,
     "place": "home"
   },
   {
@@ -1670,6 +1866,9 @@
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
     "date": "26.10.2025",
+    "longDate": "26. Okt. 2025 - 18:30",
+    "result": "-",
+    "displayInfo": "26. Okt. 2025 - 18:30",
     "team1": {
       "id": 105534,
       "name": "Hockey Innerschwyz HCI I"
@@ -1679,7 +1878,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263236110016",
-    "today": false,
     "place": "away"
   },
   {
@@ -1687,6 +1885,9 @@
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
     "date": "08.11.2025",
+    "longDate": "8. Nov. 2025 - 11:30",
+    "result": "-",
+    "displayInfo": "8. Nov. 2025 - 11:30",
     "team1": {
       "id": 105514,
       "name": "EHC Sursee"
@@ -1696,7 +1897,6 @@
       "name": "GDT Bellinzona"
     },
     "gameId": "20263236110020",
-    "today": false,
     "place": "home"
   },
   {
@@ -1704,6 +1904,9 @@
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
     "date": "16.11.2025",
+    "longDate": "16. Nov. 2025 - 16:15",
+    "result": "-",
+    "displayInfo": "16. Nov. 2025 - 16:15",
     "team1": {
       "id": 103961,
       "name": "HC Luzern 1"
@@ -1713,7 +1916,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263236110023",
-    "today": false,
     "place": "away"
   },
   {
@@ -1721,6 +1923,9 @@
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
     "date": "23.11.2025",
+    "longDate": "23. Nov. 2025 - 10:45",
+    "result": "-",
+    "displayInfo": "23. Nov. 2025 - 10:45",
     "team1": {
       "id": 105514,
       "name": "EHC Sursee"
@@ -1730,7 +1935,6 @@
       "name": "HCB Chiasso"
     },
     "gameId": "20263236110026",
-    "today": false,
     "place": "home"
   },
   {
@@ -1738,6 +1942,9 @@
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
     "date": "29.11.2025",
+    "longDate": "29. Nov. 2025 - 14:00",
+    "result": "-",
+    "displayInfo": "29. Nov. 2025 - 14:00",
     "team1": {
       "id": 105869,
       "name": "LUNOXX Seetal"
@@ -1747,7 +1954,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263236110029",
-    "today": false,
     "place": "away"
   },
   {
@@ -1755,6 +1961,9 @@
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
     "date": "07.12.2025",
+    "longDate": "7. Dez. 2025 - 16:45",
+    "result": "-",
+    "displayInfo": "7. Dez. 2025 - 16:45",
     "team1": {
       "id": 105514,
       "name": "EHC Sursee"
@@ -1764,7 +1973,6 @@
       "name": "HC Lugano"
     },
     "gameId": "20263236110034",
-    "today": false,
     "place": "home"
   },
   {
@@ -1772,6 +1980,9 @@
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
     "date": "14.12.2025",
+    "longDate": "14. Dez. 2025 - 14:30",
+    "result": "-",
+    "displayInfo": "14. Dez. 2025 - 14:30",
     "team1": {
       "id": 105715,
       "name": "HC Rivers"
@@ -1781,7 +1992,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263236110039",
-    "today": false,
     "place": "away"
   },
   {
@@ -1789,6 +1999,9 @@
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
     "date": "20.12.2025",
+    "longDate": "20. Dez. 2025 - 17:30",
+    "result": "-",
+    "displayInfo": "20. Dez. 2025 - 17:30",
     "team1": {
       "id": 105514,
       "name": "EHC Sursee"
@@ -1798,7 +2011,6 @@
       "name": "Hockey Innerschwyz HCI I"
     },
     "gameId": "20263236110044",
-    "today": false,
     "place": "home"
   },
   {
@@ -1806,6 +2018,9 @@
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
     "date": "03.01.2026",
+    "longDate": "3. Jan. 2026 - 14:15",
+    "result": "-",
+    "displayInfo": "3. Jan. 2026 - 14:15",
     "team1": {
       "id": 105328,
       "name": "GDT Bellinzona"
@@ -1815,7 +2030,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263236110048",
-    "today": false,
     "place": "away"
   },
   {
@@ -1823,6 +2037,9 @@
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
     "date": "10.01.2026",
+    "longDate": "10. Jan. 2026 - 11:30",
+    "result": "-",
+    "displayInfo": "10. Jan. 2026 - 11:30",
     "team1": {
       "id": 105514,
       "name": "EHC Sursee"
@@ -1832,7 +2049,6 @@
       "name": "HC Luzern 1"
     },
     "gameId": "20263236110051",
-    "today": false,
     "place": "home"
   },
   {
@@ -1840,6 +2056,9 @@
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
     "date": "17.01.2026",
+    "longDate": "17. Jan. 2026 - 12:00",
+    "result": "-",
+    "displayInfo": "17. Jan. 2026 - 12:00",
     "team1": {
       "id": 104494,
       "name": "HCB Chiasso"
@@ -1849,7 +2068,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263236110054",
-    "today": false,
     "place": "away"
   },
   {
@@ -1857,6 +2075,9 @@
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
     "date": "28.01.2026",
+    "longDate": "28. Jan. 2026 - 18:00",
+    "result": "-",
+    "displayInfo": "28. Jan. 2026 - 18:00",
     "team1": {
       "id": 105514,
       "name": "EHC Sursee"
@@ -1866,7 +2087,6 @@
       "name": "LUNOXX Seetal"
     },
     "gameId": "20263236110057",
-    "today": false,
     "place": "home"
   },
   {
@@ -1874,6 +2094,9 @@
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
     "date": "31.01.2026",
+    "longDate": "31. Jan. 2026 - 15:00",
+    "result": "-",
+    "displayInfo": "31. Jan. 2026 - 15:00",
     "team1": {
       "id": 103878,
       "name": "HC Lugano"
@@ -1883,7 +2106,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263236110062",
-    "today": false,
     "place": "away"
   },
   {
@@ -1891,6 +2113,9 @@
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
     "date": "07.02.2026",
+    "longDate": "7. Feb. 2026 - 11:30",
+    "result": "-",
+    "displayInfo": "7. Feb. 2026 - 11:30",
     "team1": {
       "id": 105514,
       "name": "EHC Sursee"
@@ -1900,7 +2125,6 @@
       "name": "HC Rivers"
     },
     "gameId": "20263236110067",
-    "today": false,
     "place": "home"
   },
   {
@@ -1908,6 +2132,9 @@
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
     "date": "15.02.2026",
+    "longDate": "15. Feb. 2026 - 14:00",
+    "result": "-",
+    "displayInfo": "15. Feb. 2026 - 14:00",
     "team1": {
       "id": 105534,
       "name": "Hockey Innerschwyz HCI I"
@@ -1917,7 +2144,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263236110072",
-    "today": false,
     "place": "away"
   },
   {
@@ -1925,6 +2151,9 @@
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
     "date": "21.02.2026",
+    "longDate": "21. Feb. 2026 - 11:30",
+    "result": "-",
+    "displayInfo": "21. Feb. 2026 - 11:30",
     "team1": {
       "id": 105514,
       "name": "EHC Sursee"
@@ -1934,7 +2163,6 @@
       "name": "GDT Bellinzona"
     },
     "gameId": "20263236110076",
-    "today": false,
     "place": "home"
   },
   {
@@ -1942,6 +2170,9 @@
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
     "date": "01.03.2026",
+    "longDate": "1. März 2026 - 10:00",
+    "result": "-",
+    "displayInfo": "1. März 2026 - 10:00",
     "team1": {
       "id": 103961,
       "name": "HC Luzern 1"
@@ -1951,7 +2182,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263236110079",
-    "today": false,
     "place": "away"
   },
   {
@@ -1959,6 +2189,9 @@
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
     "date": "08.03.2026",
+    "longDate": "8. März 2026 - 16:45",
+    "result": "-",
+    "displayInfo": "8. März 2026 - 16:45",
     "team1": {
       "id": 105514,
       "name": "EHC Sursee"
@@ -1968,7 +2201,6 @@
       "name": "HCB Chiasso"
     },
     "gameId": "20263236110082",
-    "today": false,
     "place": "home"
   }
 ]
