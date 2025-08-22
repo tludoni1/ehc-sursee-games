@@ -2,32 +2,34 @@ name: Update SIHF Games
 
 on:
   schedule:
-    - cron: "0 5 * * *"   # Täglich um 05:00 UTC (07:00 CH-Zeit)
-  workflow_dispatch:       # Manuell starten möglich
+    # Jeden Tag um 05:00 Uhr UTC (= 07:00 CH-Zeit)
+    - cron: "0 5 * * *"
+  # Manuell auslösen im GitHub Web-UI
+  workflow_dispatch:
 
-  permissions:
+# Ganz wichtig: Schreibrechte für den Bot aktivieren
+permissions:
   contents: write
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: 22
 
-      - name: Install Dependencies
+      - name: Install dependencies
         run: npm install
 
-      - name: Run Update Script
-        run: node update-all.js 2026   # mit Jahresangabe für die gewünschte Saison
+      - name: Run update script
+        run: node update-all.js 2026
 
-      - name: Commit & Push Results
+      - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
