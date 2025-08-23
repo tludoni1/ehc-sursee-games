@@ -1,31 +1,24 @@
-(function () {
-  async function renderGames() {
-    try {
-      const res = await fetch("https://tludoni1.github.io/ehc-sursee-games/games-all.json");
-      const games = await res.json();
+(async function() {
+  try {
+    const res = await fetch("https://tludoni1.github.io/ehc-sursee-games/games-all.json");
+    const games = await res.json();
 
-      console.log("Geladene Spiele:", games.length);
-
-      let html = "<h2>EHC Sursee Spiele</h2>";
-      html += "<ul style='font-family: Arial, sans-serif; line-height:1.6'>";
-
-      games.forEach(g => {
-        html += `
-          <li>
-            ${g.date} | ${g.team1?.name} vs. ${g.team2?.name} 
-            (${g.displayInfo})
-          </li>
-        `;
-      });
-
-      html += "</ul>";
-
-      document.body.innerHTML += html;  // direkt ins body für Test
-    } catch (err) {
-      console.error("Fehler beim Rendern:", err);
-      document.body.innerHTML += "<p style='color:red'>Fehler beim Laden der Spiele!</p>";
+    const container = document.getElementById("ehc-widget-1");
+    if (!container) {
+      console.error("Kein Container #ehc-widget-1 gefunden!");
+      return;
     }
-  }
 
-  renderGames();
+    // ganz simple Ausgabe zum Test
+    let html = "<h3>Spiele</h3><ul>";
+    for (let g of games.slice(0, 5)) {
+      html += `<li>${g.longDate}: ${g.team1.name} - ${g.team2.name} (${g.result})</li>`;
+    }
+    html += "</ul>";
+
+    container.innerHTML = html;
+
+  } catch (e) {
+    console.error("Fehler beim Widget:", e);
+  }
 })();
