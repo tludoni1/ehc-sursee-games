@@ -22,10 +22,10 @@
     "saison": 2026,
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
-    "date": "05.10.2025",
-    "longDate": "5. Okt. 2025 - 19:15",
+    "date": "23.08.2025",
+    "longDate": "23. Aug. 2025 - 19:15",
     "result": "-",
-    "displayInfo": "5. Okt. 2025 - 19:15",
+    "displayInfo": "23. Aug. 2025 - 19:15",
     "team1": {
       "id": 105774,
       "name": "EHC Sursee"
@@ -43,8 +43,8 @@
     "leagueId": 115,
     "date": "12.10.2025",
     "longDate": "12. Okt. 2025 - 17:00",
-    "result": "-",
-    "displayInfo": "12. Okt. 2025 - 17:00",
+    "result": "3:4",
+    "displayInfo": "3:4",
     "team1": {
       "id": 105010,
       "name": "HC Huskys"
