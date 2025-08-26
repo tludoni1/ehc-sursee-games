@@ -54,17 +54,17 @@
         {{linkEnd}}
       </li>`,
     large: `
-      <li style="padding:14px; border-bottom:2px solid {{line}}; cursor:pointer;"
+      <li style="padding:14px; border-bottom:2px solid {{line}}; cursor:pointer; text-align: center;"
           onmouseover="this.style.background='{{hover}}'" onmouseout="this.style.background='{{bg}}'">
         {{linkStart}}
         <h4 style="color:{{date}}; margin:0 0 8px 0; font-size:18px;">{{longDate}} {{todayFlag}}</h4>
         <div style="display:flex; justify-content:space-between; align-items:center;">
-          <div style="flex:1; text-align:left;">
+          <div style="flex:1; text-align:center;">
             <img src="{{team1Logo}}" style="height:40px; margin-right:8px;"><br>
             <span style="color:{{teamColor}}; font-size:18px;">{{team1Name}}</span>
           </div>
-          <div style="flex:0; font-size:22px; color:{{resultColor}};">{{result}}</div>
-          <div style="flex:1; text-align:right;">
+          <div style="flex:0; font-size:30px; color:{{resultColor}};">{{result}}</div>
+          <div style="flex:1; text-align:center;">
             <img src="{{team2Logo}}" style="height:40px; margin-left:8px;"><br>
             <span style="color:{{teamColor}}; font-size:18px;">{{team2Name}}</span>
           </div>
