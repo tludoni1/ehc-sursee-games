@@ -8,6 +8,19 @@
     5: { team: "#FFFFFF", date: "#FFFFFF", result: "#FFFFFF", line: "#D71920", bg: "#D71920", hover: "#A21318" }
   };
 
+  // Liga-Mapping
+  const LEAGUE_NAMES = {
+    115: "U21 A",
+    118: "U18 A",
+    121: "U16 A",
+    123: "U14 Top",
+    124: "U14 A",
+    10: "2. Liga",
+    19: "4. Liga",
+    43: "SWHL B",
+    37: "Senioren D"
+  };
+
   // Templates
   const TEMPLATES = {
     compact: `
@@ -17,6 +30,7 @@
         <span style="color:{{date}}; font-weight:bold;">{{longDate}} {{todayFlag}}</span><br>
         {{team1Logo}} {{team1Name}} - {{team2Logo}} {{team2Name}}
         <div style="color:{{resultColor}}; font-size:14px;">{{result}}</div>
+        {{league}}
         {{linkEnd}}
       </li>`,
     normal: `
@@ -28,6 +42,7 @@
           {{team1Logo}} {{team1Name}} vs {{team2Logo}} {{team2Name}}
         </div>
         <div style="color:{{resultColor}}; font-size:16px; margin-top:2px;">{{result}}</div>
+        {{league}}
         {{linkEnd}}
       </li>`,
     large: `
@@ -40,6 +55,7 @@
           <div style="flex:0; font-size:20px; color:{{resultColor}};">{{result}}</div>
           <div style="flex:1; text-align:right;">{{team2Name}} {{team2Logo}}</div>
         </div>
+        <div style="margin-top:6px; font-size:13px; color:{{date}};">{{league}}</div>
         {{linkEnd}}
       </li>`
   };
@@ -71,7 +87,8 @@
     const todayFlag = container.dataset.todayflag === "true";
     const pastGames = container.dataset.pastgames || "all";
     const nextGames = container.dataset.nextgames || "all";
-    const size = container.dataset.size || "compact"; // neues Template-Attribut
+    const showLeague = container.dataset.showleague === "true"; // <-- NEUER PARAMETER
+    const size = container.dataset.size || "compact"; 
     const colorSet = COLORS[container.dataset.color] || COLORS[1];
     const font = container.dataset.font || "Arial, sans-serif";
 
@@ -94,9 +111,9 @@
     if (pastGames === "all") {
       pastLimited = past.sort((a,b) => parseDate(a.date) - parseDate(b.date));
     } else {
-      past.sort((a,b) => parseDate(b.date) - parseDate(a.date)); // jüngste zuerst
+      past.sort((a,b) => parseDate(b.date) - parseDate(a.date));
       pastLimited = past.slice(0, parseInt(pastGames));
-      pastLimited.sort((a,b) => parseDate(a.date) - parseDate(b.date)); // wieder chronologisch
+      pastLimited.sort((a,b) => parseDate(a.date) - parseDate(b.date));
     }
 
     // Zukunft: erste N Spiele (inkl. heute)
@@ -108,7 +125,6 @@
       futureLimited = future.slice(0, parseInt(nextGames));
     }
 
-    // Gesamte Liste: Vergangenheit + Zukunft
     const finalGames = [...pastLimited, ...futureLimited];
 
     // HTML bauen
@@ -128,6 +144,7 @@
       const team1Name = teamName ? `<span style="color:${colorSet.team};">${g.team1.name}</span>` : "";
       const team2Name = teamName ? `<span style="color:${colorSet.team};">${g.team2.name}</span>` : "";
       const todayMarker = todayFlag && isToday ? `<span style="color:${colorSet.team}">●</span>` : "";
+      const leagueText = showLeague ? `<div style="font-size:12px; color:${colorSet.date}; margin-top:2px;">${LEAGUE_NAMES[g.leagueId] || "Unbekannte Liga"}</div>` : "";
 
       let tpl = TEMPLATES[size] || TEMPLATES.compact;
       tpl = tpl.replace("{{longDate}}", g.longDate)
@@ -143,7 +160,8 @@
                .replace(/{{hover}}/g, colorSet.hover)
                .replace(/{{bg}}/g, colorSet.bg)
                .replace("{{linkStart}}", linkStart)
-               .replace("{{linkEnd}}", linkEnd);
+               .replace("{{linkEnd}}", linkEnd)
+               .replace("{{league}}", leagueText);
 
       html += tpl;
     });
