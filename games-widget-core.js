@@ -9,8 +9,7 @@
   };
 
   // Spiele laden
-  const jsonUrl = "https://tludoni1.github.io/ehc-sursee-games/games-all.json?v=" + Date.now();
-  // const gamesUrl = "https://tludoni1.github.io/ehc-sursee-games/games-all.json";
+  const gamesUrl = "https://tludoni1.github.io/ehc-sursee-games/games-all.json?v=" + Date.now();
   let games = [];
   try {
     const res = await fetch(gamesUrl);
@@ -18,6 +17,21 @@
   } catch (e) {
     console.error("Fehler beim Laden von games-all.json:", e);
     return;
+  }
+
+  // Helper: Date aus "dd.mm.yyyy"
+  function parseDate(dateStr) {
+    const [d, m, y] = dateStr.split(".");
+    return new Date(`${y}-${m}-${d}T00:00:00`);
+  }
+
+  // Helper: Today check
+  function isToday(dateStr) {
+    const today = new Date();
+    const dd = String(today.getDate()).padStart(2, "0");
+    const mm = String(today.getMonth() + 1).padStart(2, "0");
+    const yyyy = today.getFullYear();
+    return dateStr === `${dd}.${mm}.${yyyy}`;
   }
 
   // Alle Widgets auf der Seite finden
@@ -29,8 +43,11 @@
     const todayFlag = container.dataset.todayflag === "true";
     const colorSet = COLORS[container.dataset.color] || COLORS[1];
     const font = container.dataset.font || "Arial, sans-serif";
+    const pastGames = parseInt(container.dataset.pastgames || "0", 10);
+    const nextGames = parseInt(container.dataset.nextgames || "0", 10);
+    const sortGame = (container.dataset.sortgame || "asc").toLowerCase();
 
-    const todayStr = new Date().toLocaleDateString("de-CH");
+    const today = new Date();
 
     // Filter Spiele
     let filtered = games.filter(g => {
@@ -38,13 +55,29 @@
       return matchesTeam;
     });
 
+    // Sortieren nach Datum
+    filtered.sort((a, b) => {
+      const da = parseDate(a.date);
+      const db = parseDate(b.date);
+      return sortGame === "desc" ? db - da : da - db;
+    });
+
+    // PastGames / NextGames Filter
+    const past = filtered.filter(g => parseDate(g.date) < today);
+    const future = filtered.filter(g => parseDate(g.date) >= today);
+
+    let limited = [];
+    if (pastGames > 0) limited.push(...past.slice(-pastGames)); // letzte n Vergangene
+    if (nextGames > 0) limited.push(...future.slice(0, nextGames)); // nächste n Zukünftige
+    if (pastGames === 0 && nextGames === 0) limited = filtered; // alles, wenn keine Limits
+
     // HTML bauen
     let html = `<div style="font-family:${font}; border:1px solid ${colorSet.line}; background:${colorSet.bg};">`;
     html += `<h3 style="color:${colorSet.team}; padding:4px; margin:0; border-bottom:1px solid ${colorSet.line};">Spiele</h3>`;
     html += `<ul style="list-style:none; padding:0; margin:0;">`;
 
-    filtered.forEach(g => {
-      const isToday = g.date === todayStr;
+    limited.forEach(g => {
+      const isTodayGame = isToday(g.date);
       const linkStart = gameLink ? `<a href="https://www.sihf.ch/de/game-center/game/#/${g.gameId}" target="_blank" style="text-decoration:none; color:inherit;">` : "";
       const linkEnd = gameLink ? "</a>" : "";
 
@@ -53,7 +86,7 @@
 
       // Datum + Today Flag
       html += `<span style="color:${colorSet.date}; font-weight:bold;">${g.longDate}</span>`;
-      if (todayFlag && isToday) html += ` <span style="color:${colorSet.team}">●</span>`;
+      if (todayFlag && isTodayGame) html += ` <span style="color:${colorSet.team};">●</span>`;
       html += "<br>";
 
       // Team Logos / Namen
