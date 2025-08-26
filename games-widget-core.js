@@ -9,7 +9,8 @@
   };
 
   // Spiele laden
-  const gamesUrl = "https://tludoni1.github.io/ehc-sursee-games/games-all.json";
+  const jsonUrl = "https://tludoni1.github.io/ehc-sursee-games/games-all.json?v=" + Date.now();
+  // const gamesUrl = "https://tludoni1.github.io/ehc-sursee-games/games-all.json";
   let games = [];
   try {
     const res = await fetch(gamesUrl);
