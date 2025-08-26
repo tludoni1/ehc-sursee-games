@@ -143,7 +143,7 @@
 
     // HTML bauen
     let html = `<div style="font-family:${font}; border:1px solid ${colorSet.line}; background:${colorSet.bg};">`;
-    html += `<h3 style="color:${colorSet.team}; padding:4px; margin:0; border-bottom:1px solid ${colorSet.line};">Spiele</h3>`;
+    html += `<h3 style="color:${colorSet.team}; padding:4px; margin:0; border-bottom:1px solid ${colorSet.line};">Next Games & Resultate</h3>`;
     html += `<ul style="list-style:none; padding:0; margin:0;">`;
 
     finalGames.forEach(g => {
