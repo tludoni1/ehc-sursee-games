@@ -60,13 +60,13 @@
         <h4 style="color:{{date}}; margin:0 0 8px 0; font-size:18px;">{{longDate}} {{todayFlag}}</h4>
         <div style="display:flex; justify-content:space-between; align-items:center;">
           <div style="flex:1; text-align:left;">
-            <img src="{{team1Logo}}" style="height:40px; margin-right:8px;">
+            <img src="{{team1Logo}}" style="height:40px; margin-right:8px;"><br>
             <span style="color:{{teamColor}}; font-size:18px;">{{team1Name}}</span>
           </div>
           <div style="flex:0; font-size:22px; color:{{resultColor}};">{{result}}</div>
           <div style="flex:1; text-align:right;">
+            <img src="{{team2Logo}}" style="height:40px; margin-left:8px;"><br>
             <span style="color:{{teamColor}}; font-size:18px;">{{team2Name}}</span>
-            <img src="{{team2Logo}}" style="height:40px; margin-left:8px;">
           </div>
         </div>
         <div style="margin-top:6px; font-size:13px; color:{{date}};">{{league}}</div>
