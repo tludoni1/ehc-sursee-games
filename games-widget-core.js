@@ -139,8 +139,8 @@
       const linkStart = gameLink ? `<a href="https://www.sihf.ch/de/game-center/game/#/${g.gameId}" target="_blank" style="text-decoration:none; color:inherit;">` : "";
       const linkEnd = gameLink ? "</a>" : "";
 
-      const team1Logo = teamLogo ? `<img src="https://www.sihf.ch/Image/Club/${g.team1.id}.png" style="height:20px; vertical-align:middle; margin-right:4px;">` : "";
-      const team2Logo = teamLogo ? `<img src="https://www.sihf.ch/Image/Club/${g.team2.id}.png" style="height:20px; vertical-align:middle; margin-left:4px;">` : "";
+      const team1Logo = teamLogo ? `<img src="https://www.sihf.ch/Image/Club/${g.team1.id}.png" style="height:32px; vertical-align:middle; margin-right:4px;">` : "";
+      const team2Logo = teamLogo ? `<img src="https://www.sihf.ch/Image/Club/${g.team2.id}.png" style="height:32px; vertical-align:middle; margin-left:4px;">` : "";
       const team1Name = teamName ? `<span style="color:${colorSet.team};">${g.team1.name}</span>` : "";
       const team2Name = teamName ? `<span style="color:${colorSet.team};">${g.team2.name}</span>` : "";
       const todayMarker = todayFlag && isToday ? `<span style="color:${colorSet.team}">●</span>` : "";
