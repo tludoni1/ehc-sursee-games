@@ -8,6 +8,7 @@
     5: { team: "#FFFFFF", date: "#FFFFFF", result: "#FFFFFF", line: "#D71920", bg: "#D71920", hover: "#A21318" }
   };
 
+  // Spiele laden
   const gamesUrl = "https://tludoni1.github.io/ehc-sursee-games/games-all.json?v=" + Date.now();
   let games = [];
   try {
@@ -18,73 +19,64 @@
     return;
   }
 
-  // Helper: Date aus dd.mm.yyyy
-  function parseDate(dateStr) {
-    const [d, m, y] = dateStr.split(".");
-    return new Date(`${y}-${m}-${d}T00:00:00`);
+  // Hilfsfunktionen
+  function parseDate(d) {
+    if (!d) return null;
+    const [day, month, year] = d.split(".");
+    return new Date(`${year}-${month}-${day}T00:00:00`);
+  }
+  function isToday(d) {
+    const dt = parseDate(d);
+    const now = new Date();
+    return dt && dt.toDateString() === now.toDateString();
   }
 
-  function isToday(dateStr) {
-    const today = new Date();
-    const dd = String(today.getDate()).padStart(2, "0");
-    const mm = String(today.getMonth() + 1).padStart(2, "0");
-    const yyyy = today.getFullYear();
-    return dateStr === `${dd}.${mm}.${yyyy}`;
-  }
-
+  // Alle Widgets auf der Seite finden
   document.querySelectorAll("[id^='ehc-widget']").forEach(container => {
     const teamFilter = (container.dataset.team || "all").split(",").map(s => s.trim());
     const teamName = container.dataset.teamname === "true";
     const teamLogo = container.dataset.teamlogo === "true";
     const gameLink = container.dataset.gamelink === "true";
     const todayFlag = container.dataset.todayflag === "true";
+    const pastGames = container.dataset.pastgames || "all";
+    const nextGames = container.dataset.nextgames || "all";
     const colorSet = COLORS[container.dataset.color] || COLORS[1];
     const font = container.dataset.font || "Arial, sans-serif";
 
-    const pastGamesRaw = container.dataset.pastgames || "0";
-    const nextGamesRaw = container.dataset.nextgames || "0";
-    const sortGame = (container.dataset.sortgame || "asc").toLowerCase();
-
-    const pastGames = pastGamesRaw.toLowerCase() === "all" ? "all" : parseInt(pastGamesRaw, 10) || 0;
-    const nextGames = nextGamesRaw.toLowerCase() === "all" ? "all" : parseInt(nextGamesRaw, 10) || 0;
-
     const today = new Date();
+    today.setHours(0,0,0,0);
 
-    // Team-Filter
+    // Filter nach Teams
     let filtered = games.filter(g => {
       const matchesTeam = teamFilter.includes("all") || teamFilter.some(tf => g.team.includes(tf));
       return matchesTeam;
     });
 
-    // In Vergangenheit / Zukunft splitten
+    // In Vergangenheit / Heute / Zukunft aufteilen
     const past = filtered.filter(g => parseDate(g.date) < today);
-    const future = filtered.filter(g => parseDate(g.date) >= today);
+    const todayGames = filtered.filter(g => isToday(g.date));
+    const future = filtered.filter(g => parseDate(g.date) > today);
 
-    // Limit anwenden
-    let limited = [];
+    // Vergangenheit: letzte N Spiele
+    let pastLimited = [];
     if (pastGames === "all") {
-      limited.push(...past);
-    } else if (pastGames > 0) {
-      limited.push(...past.slice(-pastGames));
+      pastLimited = past.sort((a,b) => parseDate(a.date) - parseDate(b.date));
+    } else {
+      past.sort((a,b) => parseDate(a.date) - parseDate(b.date));
+      pastLimited = past.slice(-parseInt(pastGames));
     }
 
+    // Zukunft: erste N Spiele
+    let futureLimited = [];
     if (nextGames === "all") {
-      limited.push(...future);
-    } else if (nextGames > 0) {
-      limited.push(...future.slice(0, nextGames));
+      futureLimited = future.sort((a,b) => parseDate(a.date) - parseDate(b.date));
+    } else {
+      future.sort((a,b) => parseDate(a.date) - parseDate(b.date));
+      futureLimited = future.slice(0, parseInt(nextGames));
     }
 
-    // Wenn beide 0 → alles
-    if (pastGames === 0 && nextGames === 0) {
-      limited = filtered;
-    }
-
-    // Endgültig sortieren
-    limited.sort((a, b) => {
-      const da = parseDate(a.date);
-      const db = parseDate(b.date);
-      return sortGame === "desc" ? db - da : da - db;
-    });
+    // Zusammenführen
+    const limited = [...pastLimited, ...todayGames, ...futureLimited];
 
     // HTML bauen
     let html = `<div style="font-family:${font}; border:1px solid ${colorSet.line}; background:${colorSet.bg};">`;
@@ -99,16 +91,19 @@
       html += `<li style="padding:6px; border-bottom:1px solid ${colorSet.line}; cursor:pointer;" onmouseover="this.style.background='${colorSet.hover}'" onmouseout="this.style.background='${colorSet.bg}'">`;
       html += linkStart;
 
+      // Datum + Today Flag
       html += `<span style="color:${colorSet.date}; font-weight:bold;">${g.longDate}</span>`;
       if (todayFlag && isTodayGame) html += ` <span style="color:${colorSet.team}">●</span>`;
       html += "<br>";
 
+      // Team Logos / Namen
       if (teamLogo) html += `<img src="https://www.sihf.ch/Image/Club/${g.team1.id}.png" style="height:20px; vertical-align:middle; margin-right:4px;">`;
       if (teamName) html += `<span style="color:${colorSet.team};">${g.team1.name}</span>`;
       html += " - ";
       if (teamLogo) html += `<img src="https://www.sihf.ch/Image/Club/${g.team2.id}.png" style="height:20px; vertical-align:middle; margin-right:4px;">`;
       if (teamName) html += `<span style="color:${colorSet.team};">${g.team2.name}</span>`;
 
+      // Resultat
       html += `<div style="color:${colorSet.result}; font-size:14px;">${g.result}</div>`;
 
       html += linkEnd;
@@ -116,6 +111,7 @@
     });
 
     html += "</ul></div>";
+
     container.innerHTML = html;
   });
 })();
