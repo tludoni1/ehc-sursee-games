@@ -8,6 +8,42 @@
     5: { team: "#FFFFFF", date: "#FFFFFF", result: "#FFFFFF", line: "#D71920", bg: "#D71920", hover: "#A21318" }
   };
 
+  // Templates
+  const TEMPLATES = {
+    compact: `
+      <li style="padding:6px; border-bottom:1px solid {{line}}; cursor:pointer;"
+          onmouseover="this.style.background='{{hover}}'" onmouseout="this.style.background='{{bg}}'">
+        {{linkStart}}
+        <span style="color:{{date}}; font-weight:bold;">{{longDate}} {{todayFlag}}</span><br>
+        {{team1Logo}} {{team1Name}} - {{team2Logo}} {{team2Name}}
+        <div style="color:{{resultColor}}; font-size:14px;">{{result}}</div>
+        {{linkEnd}}
+      </li>`,
+    normal: `
+      <li style="padding:10px; border-bottom:1px solid {{line}}; cursor:pointer;"
+          onmouseover="this.style.background='{{hover}}'" onmouseout="this.style.background='{{bg}}'">
+        {{linkStart}}
+        <div style="color:{{date}}; font-weight:bold; margin-bottom:4px;">{{longDate}} {{todayFlag}}</div>
+        <div>
+          {{team1Logo}} {{team1Name}} vs {{team2Logo}} {{team2Name}}
+        </div>
+        <div style="color:{{resultColor}}; font-size:16px; margin-top:2px;">{{result}}</div>
+        {{linkEnd}}
+      </li>`,
+    large: `
+      <li style="padding:14px; border-bottom:2px solid {{line}}; cursor:pointer;"
+          onmouseover="this.style.background='{{hover}}'" onmouseout="this.style.background='{{bg}}'">
+        {{linkStart}}
+        <h4 style="color:{{date}}; margin:0 0 8px 0;">{{longDate}} {{todayFlag}}</h4>
+        <div style="display:flex; justify-content:space-between; align-items:center;">
+          <div style="flex:1; text-align:left;">{{team1Logo}} {{team1Name}}</div>
+          <div style="flex:0; font-size:20px; color:{{resultColor}};">{{result}}</div>
+          <div style="flex:1; text-align:right;">{{team2Name}} {{team2Logo}}</div>
+        </div>
+        {{linkEnd}}
+      </li>`
+  };
+
   // Spiele laden
   const gamesUrl = "https://tludoni1.github.io/ehc-sursee-games/games-all.json?v=" + Date.now();
   let games = [];
@@ -35,6 +71,7 @@
     const todayFlag = container.dataset.todayflag === "true";
     const pastGames = container.dataset.pastgames || "all";
     const nextGames = container.dataset.nextgames || "all";
+    const size = container.dataset.size || "compact"; // neues Template-Attribut
     const colorSet = COLORS[container.dataset.color] || COLORS[1];
     const font = container.dataset.font || "Arial, sans-serif";
 
@@ -86,30 +123,32 @@
       const linkStart = gameLink ? `<a href="https://www.sihf.ch/de/game-center/game/#/${g.gameId}" target="_blank" style="text-decoration:none; color:inherit;">` : "";
       const linkEnd = gameLink ? "</a>" : "";
 
-      html += `<li style="padding:6px; border-bottom:1px solid ${colorSet.line}; cursor:pointer;" onmouseover="this.style.background='${colorSet.hover}'" onmouseout="this.style.background='${colorSet.bg}'">`;
-      html += linkStart;
+      const team1Logo = teamLogo ? `<img src="https://www.sihf.ch/Image/Club/${g.team1.id}.png" style="height:20px; vertical-align:middle; margin-right:4px;">` : "";
+      const team2Logo = teamLogo ? `<img src="https://www.sihf.ch/Image/Club/${g.team2.id}.png" style="height:20px; vertical-align:middle; margin-left:4px;">` : "";
+      const team1Name = teamName ? `<span style="color:${colorSet.team};">${g.team1.name}</span>` : "";
+      const team2Name = teamName ? `<span style="color:${colorSet.team};">${g.team2.name}</span>` : "";
+      const todayMarker = todayFlag && isToday ? `<span style="color:${colorSet.team}">●</span>` : "";
 
-      // Datum + Today Flag
-      html += `<span style="color:${colorSet.date}; font-weight:bold;">${g.longDate}</span>`;
-      if (todayFlag && isToday) html += ` <span style="color:${colorSet.team}">●</span>`;
-      html += "<br>";
+      let tpl = TEMPLATES[size] || TEMPLATES.compact;
+      tpl = tpl.replace("{{longDate}}", g.longDate)
+               .replace("{{result}}", g.result)
+               .replace("{{todayFlag}}", todayMarker)
+               .replace("{{team1Logo}}", team1Logo)
+               .replace("{{team2Logo}}", team2Logo)
+               .replace("{{team1Name}}", team1Name)
+               .replace("{{team2Name}}", team2Name)
+               .replace("{{resultColor}}", colorSet.result)
+               .replace(/{{date}}/g, colorSet.date)
+               .replace(/{{line}}/g, colorSet.line)
+               .replace(/{{hover}}/g, colorSet.hover)
+               .replace(/{{bg}}/g, colorSet.bg)
+               .replace("{{linkStart}}", linkStart)
+               .replace("{{linkEnd}}", linkEnd);
 
-      // Team Logos / Namen
-      if (teamLogo) html += `<img src="https://www.sihf.ch/Image/Club/${g.team1.id}.png" style="height:20px; vertical-align:middle; margin-right:4px;">`;
-      if (teamName) html += `<span style="color:${colorSet.team};">${g.team1.name}</span>`;
-      html += " - ";
-      if (teamLogo) html += `<img src="https://www.sihf.ch/Image/Club/${g.team2.id}.png" style="height:20px; vertical-align:middle; margin-right:4px;">`;
-      if (teamName) html += `<span style="color:${colorSet.team};">${g.team2.name}</span>`;
-
-      // Resultat
-      html += `<div style="color:${colorSet.result}; font-size:14px;">${g.result}</div>`;
-
-      html += linkEnd;
-      html += "</li>";
+      html += tpl;
     });
 
     html += "</ul></div>";
-
     container.innerHTML = html;
   });
 })();
