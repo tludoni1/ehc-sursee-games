@@ -62,8 +62,9 @@
     if (pastGames === "all") {
       pastLimited = past.sort((a,b) => parseDate(a.date) - parseDate(b.date));
     } else {
-      past.sort((a,b) => parseDate(a.date) - parseDate(b.date));
-      pastLimited = past.slice(-parseInt(pastGames));
+      past.sort((a,b) => parseDate(b.date) - parseDate(a.date)); // absteigend -> jüngstes zuerst
+      pastLimited = past.slice(0, parseInt(pastGames));
+      pastLimited.sort((a,b) => parseDate(a.date) - parseDate(b.date)); // wieder aufsteigend für Anzeige
     }
 
     // Zukunft: erste N Spiele
@@ -71,7 +72,7 @@
     if (nextGames === "all") {
       futureLimited = future.sort((a,b) => parseDate(a.date) - parseDate(b.date));
     } else {
-      future.sort((a,b) => parseDate(a.date) - parseDate(b.date));
+      future.sort((a,b) => parseDate(a.date) - parseDate(b.date)); // aufsteigend
       futureLimited = future.slice(0, parseInt(nextGames));
     }
 
