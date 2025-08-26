@@ -21,39 +21,53 @@
     37: "Senioren D"
   };
 
-  // Templates
+  // Templates – alles Styling hier drin
   const TEMPLATES = {
     compact: `
       <li style="padding:6px; border-bottom:1px solid {{line}}; cursor:pointer;"
           onmouseover="this.style.background='{{hover}}'" onmouseout="this.style.background='{{bg}}'">
         {{linkStart}}
-        <span style="color:{{date}}; font-weight:bold;">{{longDate}} {{todayFlag}}</span><br>
-        {{team1Logo}} {{team1Name}} - {{team2Logo}} {{team2Name}}
-        <div style="color:{{resultColor}}; font-size:14px;">{{result}}</div>
-        {{league}}
+        <span style="color:{{date}}; font-weight:bold; font-size:12px;">{{longDate}} {{todayFlag}}</span><br>
+        <img src="{{team1Logo}}" style="height:18px; vertical-align:middle; margin-right:4px;">
+        <span style="color:{{teamColor}}; font-size:12px;">{{team1Name}}</span>
+         - 
+        <span style="color:{{teamColor}}; font-size:12px;">{{team2Name}}</span>
+        <img src="{{team2Logo}}" style="height:18px; vertical-align:middle; margin-left:4px;">
+        <div style="color:{{resultColor}}; font-size:12px;">{{result}}</div>
+        <div style="font-size:10px; color:{{date}};">{{league}}</div>
         {{linkEnd}}
       </li>`,
     normal: `
       <li style="padding:10px; border-bottom:1px solid {{line}}; cursor:pointer;"
           onmouseover="this.style.background='{{hover}}'" onmouseout="this.style.background='{{bg}}'">
         {{linkStart}}
-        <div style="color:{{date}}; font-weight:bold; margin-bottom:4px;">{{longDate}} {{todayFlag}}</div>
-        <div>
-          {{team1Logo}} {{team1Name}} vs {{team2Logo}} {{team2Name}}
+        <div style="color:{{date}}; font-weight:bold; margin-bottom:4px; font-size:14px;">{{longDate}} {{todayFlag}}</div>
+        <div style="display:flex; align-items:center;">
+          <img src="{{team1Logo}}" style="height:26px; margin-right:6px;">
+          <span style="color:{{teamColor}}; font-size:14px;">{{team1Name}}</span>
+          <span style="margin:0 6px;">vs</span>
+          <span style="color:{{teamColor}}; font-size:14px;">{{team2Name}}</span>
+          <img src="{{team2Logo}}" style="height:26px; margin-left:6px;">
         </div>
-        <div style="color:{{resultColor}}; font-size:16px; margin-top:2px;">{{result}}</div>
-        {{league}}
+        <div style="color:{{resultColor}}; font-size:16px; margin-top:4px;">{{result}}</div>
+        <div style="font-size:12px; color:{{date}};">{{league}}</div>
         {{linkEnd}}
       </li>`,
     large: `
       <li style="padding:14px; border-bottom:2px solid {{line}}; cursor:pointer;"
           onmouseover="this.style.background='{{hover}}'" onmouseout="this.style.background='{{bg}}'">
         {{linkStart}}
-        <h4 style="color:{{date}}; margin:0 0 8px 0;">{{longDate}} {{todayFlag}}</h4>
+        <h4 style="color:{{date}}; margin:0 0 8px 0; font-size:18px;">{{longDate}} {{todayFlag}}</h4>
         <div style="display:flex; justify-content:space-between; align-items:center;">
-          <div style="flex:1; text-align:left;">{{team1Logo}} {{team1Name}}</div>
-          <div style="flex:0; font-size:20px; color:{{resultColor}};">{{result}}</div>
-          <div style="flex:1; text-align:right;">{{team2Name}} {{team2Logo}}</div>
+          <div style="flex:1; text-align:left;">
+            <img src="{{team1Logo}}" style="height:40px; margin-right:8px;">
+            <span style="color:{{teamColor}}; font-size:18px;">{{team1Name}}</span>
+          </div>
+          <div style="flex:0; font-size:22px; color:{{resultColor}};">{{result}}</div>
+          <div style="flex:1; text-align:right;">
+            <span style="color:{{teamColor}}; font-size:18px;">{{team2Name}}</span>
+            <img src="{{team2Logo}}" style="height:40px; margin-left:8px;">
+          </div>
         </div>
         <div style="margin-top:6px; font-size:13px; color:{{date}};">{{league}}</div>
         {{linkEnd}}
@@ -87,7 +101,7 @@
     const todayFlag = container.dataset.todayflag === "true";
     const pastGames = container.dataset.pastgames || "all";
     const nextGames = container.dataset.nextgames || "all";
-    const showLeague = container.dataset.showleague === "true"; // <-- NEUER PARAMETER
+    const showLeague = container.dataset.showleague === "true";
     const size = container.dataset.size || "compact"; 
     const colorSet = COLORS[container.dataset.color] || COLORS[1];
     const font = container.dataset.font || "Arial, sans-serif";
@@ -139,12 +153,12 @@
       const linkStart = gameLink ? `<a href="https://www.sihf.ch/de/game-center/game/#/${g.gameId}" target="_blank" style="text-decoration:none; color:inherit;">` : "";
       const linkEnd = gameLink ? "</a>" : "";
 
-      const team1Logo = teamLogo ? `<img src="https://www.sihf.ch/Image/Club/${g.team1.id}.png" style="height:32px; vertical-align:middle; margin-right:4px;">` : "";
-      const team2Logo = teamLogo ? `<img src="https://www.sihf.ch/Image/Club/${g.team2.id}.png" style="height:32px; vertical-align:middle; margin-left:4px;">` : "";
-      const team1Name = teamName ? `<span style="color:${colorSet.team};">${g.team1.name}</span>` : "";
-      const team2Name = teamName ? `<span style="color:${colorSet.team};">${g.team2.name}</span>` : "";
+      const team1Logo = teamLogo ? `https://www.sihf.ch/Image/Club/${g.team1.id}.png` : "";
+      const team2Logo = teamLogo ? `https://www.sihf.ch/Image/Club/${g.team2.id}.png` : "";
+      const team1Name = teamName ? g.team1.name : "";
+      const team2Name = teamName ? g.team2.name : "";
       const todayMarker = todayFlag && isToday ? `<span style="color:${colorSet.team}">●</span>` : "";
-      const leagueText = showLeague ? `<div style="font-size:12px; color:${colorSet.date}; margin-top:2px;">${LEAGUE_NAMES[g.leagueId] || "Unbekannte Liga"}</div>` : "";
+      const leagueText = showLeague ? (LEAGUE_NAMES[g.leagueId] || "Unbekannte Liga") : "";
 
       let tpl = TEMPLATES[size] || TEMPLATES.compact;
       tpl = tpl.replace("{{longDate}}", g.longDate)
@@ -154,6 +168,7 @@
                .replace("{{team2Logo}}", team2Logo)
                .replace("{{team1Name}}", team1Name)
                .replace("{{team2Name}}", team2Name)
+               .replace("{{teamColor}}", colorSet.team)
                .replace("{{resultColor}}", colorSet.result)
                .replace(/{{date}}/g, colorSet.date)
                .replace(/{{line}}/g, colorSet.line)
