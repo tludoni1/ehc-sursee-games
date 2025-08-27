@@ -2,6 +2,9 @@
 import { execSync } from "child_process";
 import fs from "fs";
 
+// sicherstellen, dass der Data-Ordner existiert
+if (!fs.existsSync("data")) fs.mkdirSync("data");
+
 // Saison aus Parameter oder automatisch berechnen
 function getCurrentSeason() {
   const now = new Date();
@@ -40,9 +43,9 @@ run(`node fetch-games-nachwuchs.js ${SAISON}`);
 run(`node fetch-games-aktive.js ${SAISON}`);
 
 // Schritt 3: Zusammenführen
-const nachwuchsFile = `games-nachwuchs-${SAISON}.json`;
-const aktivFile = `games-aktiv-${SAISON}.json`;
-const outFile = `games-all-${SAISON}.json`;
+const nachwuchsFile = `data/games-nachwuchs-${SAISON}.json`;
+const aktivFile     = `data/games-aktiv-${SAISON}.json`;
+const outFile       = `data/games-all-${SAISON}.json`;
 
 let allGames = [];
 
