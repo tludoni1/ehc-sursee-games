@@ -38,13 +38,13 @@
   const TEMPLATES = {
     compact: {
       html: `
-        <li style="padding:6px; border-bottom:1px solid {{line}}; cursor:pointer;"
+        <li style="padding:6px; border-bottom:1px solid {{line}}; cursor:pointer; text-align:center;"
             onmouseover="this.style.background='{{hover}}'" onmouseout="this.style.background='{{bg}}'">
           {{linkStart}}
-          <span style="color:{{date}}; font-weight:bold; font-size:{{dateFontSize}};">{{longDate}} {{todayFlag}}</span><br>
+          <span style="color:{{date}}; font-weight:bold; font-size:{{dateFontSize}}; text-align:left;">{{longDate}} {{todayFlag}}</span><br>
           {{team1Logo}} <span style="font-size:{{teamFontSize}};">{{team1Name}}</span> -
-          {{team2Logo}} <span style="font-size:{{teamFontSize}};">{{team2Name}}</span>
-          <div style="color:{{resultColor}}; font-size:{{resultFontSize}};">{{result}}</div>
+          <span style="font-size:{{teamFontSize}}; text-align:right;">{{team2Name}} {{team2Logo}}</span>
+          <div style="color:{{resultColor}}; font-size:{{resultFontSize}}; text-align:center;">{{result}}</div>
           {{league}}
           {{linkEnd}}
         </li>`,
