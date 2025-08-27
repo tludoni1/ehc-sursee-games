@@ -2,7 +2,7 @@
   // Farben passend zu EHC Sursee Website
   const COLORS = {
     1: { team: "#D71920", date: "#c0c0c0", result: "#000000", line: "#FFFFFF", bg: "#FFFFFF", hover: "#F5F5F5" },
-    2: { team: "#333333", date: "#D71920", result: "#000000", line: "#CCCCCC", bg: "#FFFFFF", hover: "#EEE" },
+    2: { team: "#D71920", date: "#666666", result: "#666666", line: "#c8c8c8", bg: "#FFFFFF", hover: "#EEE" },
     3: { team: "#000000", date: "#333333", result: "#D71920", line: "#CCCCCC", bg: "#FFFFFF", hover: "#EEE" },
     4: { team: "#333333", date: "#333333", result: "#333333", line: "#D71920", bg: "#FFFFFF", hover: "#EEE" },
     5: { team: "#FFFFFF", date: "#FFFFFF", result: "#FFFFFF", line: "#D71920", bg: "#D71920", hover: "#A21318" }
