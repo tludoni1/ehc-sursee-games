@@ -97,7 +97,7 @@
     const font = container.dataset.font || "Arial, sans-serif";
 
     // Spiele laden
-    const gamesUrl = `https://tludoni1.github.io/ehc-sursee-games/games-all-${season}.json?v=${Date.now()}`;
+    const gamesUrl = `https://tludoni1.github.io/ehc-sursee-games/data/games-all-${season}.json?v=${Date.now()}`;
     let games = [];
     try {
       const res = await fetch(gamesUrl);
