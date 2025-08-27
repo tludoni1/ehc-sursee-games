@@ -30,12 +30,13 @@ async function fetchGames(team) {
     const res = await fetch(url);
     const text = await res.text();
 
-    if (DEBUG) {
-  fs.writeFileSync(`debug-aktiv-${team.leagueId}-${SAISON}.json`, text);
+// Debug-Ausgabe für jedes Team in Datei schreiben
+if (DEBUG) {
+  fs.writeFileSync(
+    `debug-aktiv-${SAISON}-${team.leagueId}-${team.teamId}.txt`,
+    text
+  );
 }
-
-    
-    if (DEBUG) fs.appendFileSync(`debug-aktiv-${SAISON}.json`, `\n\n=== ${team.name} ===\n${text}`);
 
     let cleanText = text.trim().replace(/^.*?\(/, "").replace(/\);?$/, "");
     const json = JSON.parse(cleanText);
