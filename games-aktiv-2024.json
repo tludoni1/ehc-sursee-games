@@ -1,0 +1,54 @@
+[
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": null,
+    "longDate": null,
+    "result": "-",
+    "displayInfo": null,
+    "team1": null,
+    "team2": null,
+    "gameId": null,
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": null,
+    "longDate": null,
+    "result": "-",
+    "displayInfo": null,
+    "team1": null,
+    "team2": null,
+    "gameId": null,
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": null,
+    "longDate": null,
+    "result": "-",
+    "displayInfo": null,
+    "team1": null,
+    "team2": null,
+    "gameId": null,
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Senioren",
+    "leagueId": 37,
+    "date": null,
+    "longDate": null,
+    "result": "-",
+    "displayInfo": null,
+    "team1": null,
+    "team2": null,
+    "gameId": null,
+    "place": "away"
+  }
+]
