@@ -1,3 +1,4 @@
+// update-multi.js
 import { execSync } from "child_process";
 
 const seasons = [2020, 2021, 2022, 2023, 2024, 2025];
