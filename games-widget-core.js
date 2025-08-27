@@ -48,7 +48,7 @@
           {{league}}
           {{linkEnd}}
         </li>`,
-      vars: { logoHeight: "20px", teamFontSize: "12px", resultFontSize: "12px", dateFontSize: "12px", leagueFontSize: "10px" }
+      vars: { logoHeight: "20px", teamFontSize: "12px", resultFontSize: "20px", dateFontSize: "15px", leagueFontSize: "10px" }
     },
     normal: {
       html: `
