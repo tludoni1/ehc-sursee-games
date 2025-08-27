@@ -27,7 +27,7 @@ async function fetchGames(team) {
     const res = await fetch(url);
     const text = await res.text();
 
-    if (DEBUG) fs.appendFileSync(`debug-nachwuchs-${SAISON}.json`, `\n\n=== ${team.name} ===\n${text}`);
+    if (DEBUG) fs.appendFileSync(`debug-aktive-${SAISON}.json`, `\n\n=== ${team.name} ===\n${text}`);
 
     let cleanText = text.trim().replace(/^.*?\(/, "").replace(/\);?$/, "");
     const json = JSON.parse(cleanText);
