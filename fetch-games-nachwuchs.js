@@ -2,18 +2,18 @@
 import fetch from "node-fetch";
 import fs from "fs";
 
-// Debug Logging aktivieren/deaktivieren
 const DEBUG = false;
 
-// Saison-Endjahr aus Parameter lesen (z.B. 2024 = Saison 2023/24)
-const SAISON = parseInt(process.argv[2] || "2026", 10);
+// Saison aus Parameter lesen
+const SAISON = parseInt(process.argv[2], 10);
+if (isNaN(SAISON)) {
+  console.error("❌ Bitte Saison als Parameter angeben, z.B. `node fetch-games-nachwuchs.js 2024`");
+  process.exit(1);
+}
 
-// Zeitraum für Spiele
+// Zeitraum
 const DATE_FROM = `01.08.${SAISON - 1}`;
 const DATE_TO = `30.04.${SAISON}`;
-
-// Saisonwert für die API (immer das Endjahr!)
-const QUERY_SEASON = SAISON;
 
 // Teams Nachwuchs
 const TEAMS = [
@@ -25,17 +25,14 @@ const TEAMS = [
 ];
 
 async function fetchGames(team) {
-  const url = `https://data.sihf.ch/Statistic/api/cms/cache300?alias=results&searchQuery=1,10,11/2015-2099/4,5,14,15,16,23,24,25,26,28,27,29,30,31,32,60,61,105,106,107,113,114,115,116,117,118,119,120,121,122,123,124,125&filterQuery=${QUERY_SEASON}/${team.leagueId}/all/all/${DATE_FROM}-${DATE_TO}/all/${team.teamId}/all&orderBy=date&orderByDescending=false&take=200&filterBy=season,league,region,phase,date,deferredState,team1,team2&callback=externalStatisticsCallback&skip=-1&language=de`;
+  const url = `https://data.sihf.ch/Statistic/api/cms/cache300?alias=results&searchQuery=...&filterQuery=${SAISON}/${team.leagueId}/all/all/${DATE_FROM}-${DATE_TO}/all/${team.teamId}/all&orderBy=date&orderByDescending=false&take=200&callback=externalStatisticsCallback&language=de`;
 
   try {
     const res = await fetch(url);
     const text = await res.text();
 
-    if (DEBUG) {
-      fs.appendFileSync("debug-nachwuchs.json", `\n\n=== ${team.name} ===\n${text}`);
-    }
+    if (DEBUG) fs.appendFileSync(`debug-nachwuchs-${SAISON}.json`, `\n\n=== ${team.name} ===\n${text}`);
 
-    // JSONP entfernen
     let cleanText = text.trim().replace(/^.*?\(/, "").replace(/\);?$/, "");
     const json = JSON.parse(cleanText);
     if (!json?.data) return [];
@@ -80,7 +77,7 @@ async function fetchGames(team) {
         }
       });
 
-      // longDate bauen
+      // longDate
       if (dateStr) {
         const [d, m, y] = dateStr.split(".");
         const months = ["Jan.", "Feb.", "März", "Apr.", "Mai", "Juni", "Juli", "Aug.", "Sep.", "Okt.", "Nov.", "Dez."];
@@ -89,19 +86,11 @@ async function fetchGames(team) {
         game.longDate = `${parseInt(d)}. ${monthName} ${y}${timeStr ? ` - ${timeStr}` : ""}`;
       }
 
-      // displayInfo
-      game.displayInfo = (game.result && game.result !== "-") ? game.result : game.longDate;
-
-      // Heim/Auswärts
-      if (game.team1?.id === team.teamId) {
-        game.place = "home";
-      } else if (game.team2?.id === team.teamId) {
-        game.place = "away";
-      }
+      game.displayInfo = game.result !== "-" ? game.result : game.longDate;
+      game.place = game.team1?.id === team.teamId ? "home" : "away";
 
       games.push(game);
     });
-
     return games;
   } catch (err) {
     console.error(`Fehler bei ${team.name}: ${err.message}`);
@@ -110,19 +99,19 @@ async function fetchGames(team) {
 }
 
 async function main() {
-  console.log("Hole Nachwuchs-Daten von SIHF...");
-  if (DEBUG) fs.writeFileSync("debug-nachwuchs.json", ""); // Reset Debugfile
+  console.log(`Hole Nachwuchs-Daten Saison ${SAISON} von SIHF...`);
+  if (DEBUG) fs.writeFileSync(`debug-nachwuchs-${SAISON}.json`, "");
 
   const allGames = [];
-
   for (const team of TEAMS) {
     console.log(`--> ${team.name}`);
     const games = await fetchGames(team);
     allGames.push(...games);
   }
 
-  fs.writeFileSync("games-nachwuchs.json", JSON.stringify(allGames, null, 2));
-  console.log(`Fertig! ${allGames.length} Nachwuchs-Spiele gespeichert in games-nachwuchs.json`);
+  const outFile = `games-nachwuchs-${SAISON}.json`;
+  fs.writeFileSync(outFile, JSON.stringify(allGames, null, 2));
+  console.log(`✅ Fertig! ${allGames.length} Nachwuchs-Spiele gespeichert in ${outFile}`);
 }
 
 main();
