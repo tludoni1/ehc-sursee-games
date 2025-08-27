@@ -21,8 +21,8 @@ const TEAMS = [
 ];
 
 async function fetchGames(team) {
- const url = `https://data.sihf.ch/Statistic/api/cms/cache300?alias=results&searchQuery=1,10/2015-2099/3,10,18,19,33,35,36,38,37,39,40,41,43,101,44,45,46,104,83&filterQuery=${SAISON}/${team.leagueId}/all/all/${DATE_FROM}-${DATE_TO}/${team.teamId}/${team.teamId}&orderBy=date&orderByDescending=false&take=200&callback=externalStatisticsCallback&language=de`;
-
+ const url = `https://data.sihf.ch/Statistic/api/cms/cache300?alias=results&searchQuery=1,10/2015-2099/3,10,18,19,33,35,36,38,37,39,40,41,43,101,44,45,46,104,83&filterQuery=${SAISON}/${team.leagueId}/all/all/${DATE_FROM}-${DATE_TO}/all/${team.teamId}/all&orderBy=date&orderByDescending=false&take=200&filterBy=season,league,region,phase,date,deferredState,team1,team2&callback=externalStatisticsCallback&skip=-1&language=de`;
+  
   try {
     const res = await fetch(url);
     const text = await res.text();
