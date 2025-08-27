@@ -83,7 +83,15 @@ async function fetchGames(team) {
       }
 
       game.displayInfo = game.result !== "-" ? game.result : game.longDate;
-      game.place = game.team1?.id === team.teamId ? "home" : "away";
+      // game.place = game.team1?.id === team.teamId ? "home" : "away";
+
+if (game.team1?.id === team.teamId) {
+  game.place = "home";
+} else if (game.team2?.id === team.teamId) {
+  game.place = "away";
+} else {
+  game.place = "unknown";
+}
 
       games.push(game);
     });
