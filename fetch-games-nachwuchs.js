@@ -8,8 +8,8 @@ const DEBUG = false;
 const SAISON = parseInt(process.argv[2] || "2026", 10);
 
 // Zeitraum: Saisonstart (Aug -> nächstes Jahr April)
-const DATE_FROM = `01.08.${SAISON}`;
-const DATE_TO   = `30.04.${SAISON + 1}`;
+const DATE_FROM = `01.08.${SAISON - 1}`;
+const DATE_TO   = `30.04.${SAISON}`;
 
 // Teams Nachwuchs
 const TEAMS = [
@@ -21,8 +21,8 @@ const TEAMS = [
 ];
 
 async function fetchGames(team) {
-  const url = `https://data.sihf.ch/Statistic/api/cms/cache300?alias=results&searchQuery=...&filterQuery=${SAISON}/${team.leagueId}/all/all/${DATE_FROM}-${DATE_TO}/all/${team.teamId}/all&orderBy=date&orderByDescending=false&take=200&callback=externalStatisticsCallback&language=de`;
-
+  const url = `https://data.sihf.ch/Statistic/api/cms/cache300?alias=results&searchQuery=1,10,11/2015-2099/4,5,14,15,16,23,24,25,26,28,27,29,30,31,32,60,61,105,106,107,113,114,115,116,117,118,119,120,121,122,123,124,125&filterQuery=${SAISON}/${team.leagueId}/all/all/${DATE_FROM}-${DATE_TO}/all/${team.teamId}/all&orderBy=date&orderByDescending=false&take=200&filterBy=season,league,region,phase,date,deferredState,team1,team2&callback=externalStatisticsCallback&skip=-1&language=de`;
+  
   try {
     const res = await fetch(url);
     const text = await res.text();
