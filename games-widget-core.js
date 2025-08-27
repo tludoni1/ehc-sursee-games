@@ -71,16 +71,16 @@
         <li style="padding:14px; border-bottom:2px solid {{line}}; cursor:pointer;"
             onmouseover="this.style.background='{{hover}}'" onmouseout="this.style.background='{{bg}}'">
           {{linkStart}}
-          <h4 style="color:{{date}}; margin:0 0 8px 0; font-size:{{dateFontSize}};">{{longDate}} {{todayFlag}}</h4>
+          <h4 style="color:{{date}}; margin:0 0 8px 0; font-size:{{dateFontSize}}; text-align:center;">{{longDate}} {{todayFlag}}</h4>
           <div style="display:flex; justify-content:space-between; align-items:center;">
-            <div style="flex:1; text-align:left;">{{team1Logo}} <span style="font-size:{{teamFontSize}};">{{team1Name}}</span></div>
+            <div style="flex:1; text-align:center;">{{team1Logo}} <br><span style="font-size:{{teamFontSize}};">{{team1Name}}</span></div>
             <div style="flex:0; font-size:{{resultFontSize}}; color:{{resultColor}};">{{result}}</div>
-            <div style="flex:1; text-align:right;"><span style="font-size:{{teamFontSize}};">{{team2Name}}</span> {{team2Logo}}</div>
+            <div style="flex:1; text-align:center;">{{team2Logo}} <br><span style="font-size:{{teamFontSize}};">{{team2Name}}</span></div>
           </div>
           <div style="margin-top:6px; font-size:{{leagueFontSize}}; color:{{date}};">{{league}}</div>
           {{linkEnd}}
         </li>`,
-      vars: { logoHeight: "36px", teamFontSize: "16px", resultFontSize: "20px", dateFontSize: "16px", leagueFontSize: "13px" }
+      vars: { logoHeight: "50px", teamFontSize: "20px", resultFontSize: "30px", dateFontSize: "20px", leagueFontSize: "15px" }
     }
   };
 
