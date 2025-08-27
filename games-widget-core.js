@@ -8,6 +8,19 @@
     5: { team: "#FFFFFF", date: "#FFFFFF", result: "#FFFFFF", line: "#D71920", bg: "#D71920", hover: "#A21318" }
   };
 
+  // Team-Mapping für Kürzel → volle Teamnamen
+  const TEAM_MAP = {
+  "U21": "EHC Sursee U21 A",
+  "U18": "EHC Sursee U18 A",
+  "U16": "EHC Sursee U16 A",
+  "U14T": "EHC Sursee U14 Top",
+  "U14": "EHC Sursee U14 A",
+  "1T": "EHC Sursee 1. Mannschaft",
+  "2T": "EHC Sursee 2. Mannschaft",
+  "D": "EHC Sursee Damen",
+  "S": "EHC Sursee Senioren"
+  };
+
   // Liga-Mapping
   const LEAGUE_NAMES = {
     115: "U21 A",
@@ -114,8 +127,12 @@
 
     // Filter nach Team
     let filtered = games.filter(g => {
-      const matchesTeam = teamFilter.includes("all") || teamFilter.some(tf => g.team.includes(tf));
-      return matchesTeam;
+      if (teamFilter.includes("all")) return true;
+
+      return teamFilter.some(tf => {
+        const fullName = TEAM_MAP[tf] || tf;   // Kürzel auflösen
+        return g.team === fullName;            // exakter Abgleich
+      });
     });
 
     // Vergangenheit / Zukunft splitten
