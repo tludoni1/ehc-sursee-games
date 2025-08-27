@@ -3,52 +3,266 @@
     "saison": 2026,
     "team": "EHC Sursee 1. Mannschaft",
     "leagueId": 10,
-    "date": null,
-    "longDate": null,
+    "date": "24.01.2026",
+    "longDate": "24. Jan. 2026 - 20:00",
     "result": "-",
-    "displayInfo": null,
-    "team1": null,
-    "team2": null,
-    "gameId": null,
+    "displayInfo": "24. Jan. 2026 - 20:00",
+    "team1": {
+      "id": 103198,
+      "name": "EHC Kreuzlingen-Konstanz"
+    },
+    "team2": {
+      "id": 103185,
+      "name": "Club da Hockey Engiadina"
+    },
+    "gameId": "20262135110069",
+    "place": "away"
+  },
+  {
+    "saison": 2026,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "24.01.2026",
+    "longDate": "24. Jan. 2026 - 20:00",
+    "result": "-",
+    "displayInfo": "24. Jan. 2026 - 20:00",
+    "team1": {
+      "id": 105356,
+      "name": "EHC Lenzerheide-Valbella"
+    },
+    "team2": {
+      "id": 103440,
+      "name": "Glarner EC"
+    },
+    "gameId": "20262135110070",
+    "place": "away"
+  },
+  {
+    "saison": 2026,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "24.01.2026",
+    "longDate": "24. Jan. 2026 - 20:00",
+    "result": "-",
+    "displayInfo": "24. Jan. 2026 - 20:00",
+    "team1": {
+      "id": 105910,
+      "name": "HC Eisbären St. Gallen"
+    },
+    "team2": {
+      "id": 101118,
+      "name": "SC Weinfelden"
+    },
+    "gameId": "20262135110071",
+    "place": "away"
+  },
+  {
+    "saison": 2026,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "24.01.2026",
+    "longDate": "24. Jan. 2026 - 20:00",
+    "result": "-",
+    "displayInfo": "24. Jan. 2026 - 20:00",
+    "team1": {
+      "id": 101064,
+      "name": "EHC St. Moritz"
+    },
+    "team2": {
+      "id": 103465,
+      "name": "SC Rapperswil-Jona Lakers"
+    },
+    "gameId": "20262135110072",
+    "place": "away"
+  },
+  {
+    "saison": 2026,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "24.01.2026",
+    "longDate": "24. Jan. 2026 - 20:00",
+    "result": "-",
+    "displayInfo": "24. Jan. 2026 - 20:00",
+    "team1": {
+      "id": 103336,
+      "name": "SC Küsnacht"
+    },
+    "team2": {
+      "id": 103772,
+      "name": "EHC Urdorf"
+    },
+    "gameId": "20262135120069",
+    "place": "away"
+  },
+  {
+    "saison": 2026,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "24.01.2026",
+    "longDate": "24. Jan. 2026 - 20:00",
+    "result": "-",
+    "displayInfo": "24. Jan. 2026 - 20:00",
+    "team1": {
+      "id": 103184,
+      "name": "EHC Dürnten Vikings"
+    },
+    "team2": {
+      "id": 103655,
+      "name": "EHC Bassersdorf"
+    },
+    "gameId": "20262135120070",
+    "place": "away"
+  },
+  {
+    "saison": 2026,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "24.01.2026",
+    "longDate": "24. Jan. 2026 - 20:00",
+    "result": "-",
+    "displayInfo": "24. Jan. 2026 - 20:00",
+    "team1": {
+      "id": 103181,
+      "name": "EV Dielsdorf-Niederhasli"
+    },
+    "team2": {
+      "id": 103174,
+      "name": "HC Ascona Rivers"
+    },
+    "gameId": "20262135120071",
+    "place": "away"
+  },
+  {
+    "saison": 2026,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "24.01.2026",
+    "longDate": "24. Jan. 2026 - 20:00",
+    "result": "-",
+    "displayInfo": "24. Jan. 2026 - 20:00",
+    "team1": {
+      "id": 103196,
+      "name": "EHC Illnau-Effretikon"
+    },
+    "team2": {
+      "id": 103197,
+      "name": "HCB Chiasso"
+    },
+    "gameId": "20262135120072",
     "place": "away"
   },
   {
     "saison": 2026,
     "team": "EHC Sursee Damen",
     "leagueId": 43,
-    "date": null,
-    "longDate": null,
+    "date": "22.02.2026",
+    "longDate": "22. Feb. 2026 - 14:15",
     "result": "-",
-    "displayInfo": null,
-    "team1": null,
-    "team2": null,
-    "gameId": null,
+    "displayInfo": "22. Feb. 2026 - 14:15",
+    "team1": {
+      "id": 105966,
+      "name": "EHC Thun"
+    },
+    "team2": {
+      "id": 103698,
+      "name": "DHC Lyss"
+    },
+    "gameId": "20261186000086",
+    "place": "away"
+  },
+  {
+    "saison": 2026,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "22.02.2026",
+    "longDate": "22. Feb. 2026 - 15:15",
+    "result": "-",
+    "displayInfo": "22. Feb. 2026 - 15:15",
+    "team1": {
+      "id": 103951,
+      "name": "GCK Lions Frauen"
+    },
+    "team2": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20261186000088",
+    "place": "away"
+  },
+  {
+    "saison": 2026,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "22.02.2026",
+    "longDate": "22. Feb. 2026 - 17:45",
+    "result": "-",
+    "displayInfo": "22. Feb. 2026 - 17:45",
+    "team1": {
+      "id": 104297,
+      "name": "EHC Bassersdorf Ladies"
+    },
+    "team2": {
+      "id": 104907,
+      "name": "Brandis Juniors Ladies"
+    },
+    "gameId": "20261186000089",
+    "place": "away"
+  },
+  {
+    "saison": 2026,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "22.02.2026",
+    "longDate": "22. Feb. 2026 - 18:45",
+    "result": "-",
+    "displayInfo": "22. Feb. 2026 - 18:45",
+    "team1": {
+      "id": 105858,
+      "name": "SCRJ Lakers Ladies"
+    },
+    "team2": {
+      "id": 105512,
+      "name": "EHC Zunzgen-Sissach"
+    },
+    "gameId": "20261186000087",
     "place": "away"
   },
   {
     "saison": 2026,
     "team": "EHC Sursee 2. Mannschaft",
     "leagueId": 19,
-    "date": null,
-    "longDate": null,
+    "date": "08.02.2026",
+    "longDate": "8. Feb. 2026 - 19:45",
     "result": "-",
-    "displayInfo": null,
-    "team1": null,
-    "team2": null,
-    "gameId": null,
+    "displayInfo": "8. Feb. 2026 - 19:45",
+    "team1": {
+      "id": 106065,
+      "name": "Glarner EC II"
+    },
+    "team2": {
+      "id": 103453,
+      "name": "SC Rheintal"
+    },
+    "gameId": "20262155130045",
     "place": "away"
   },
   {
     "saison": 2026,
     "team": "EHC Sursee Senioren",
     "leagueId": 37,
-    "date": null,
-    "longDate": null,
+    "date": "08.03.2026",
+    "longDate": "8. März 2026 - 17:00",
     "result": "-",
-    "displayInfo": null,
-    "team1": null,
-    "team2": null,
-    "gameId": null,
+    "displayInfo": "8. März 2026 - 17:00",
+    "team1": {
+      "id": 104202,
+      "name": "EHC Uster"
+    },
+    "team2": {
+      "id": 106053,
+      "name": "EC Wil"
+    },
+    "gameId": "20261168110028",
     "place": "away"
   }
 ]
