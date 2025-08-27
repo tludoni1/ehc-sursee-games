@@ -113,9 +113,13 @@ async function main() {
     allGames.push(...games);
   }
 
-  const outFile = `games-aktiv-${SAISON}.json`;
-  fs.writeFileSync(outFile, JSON.stringify(allGames, null, 2));
-  console.log(`✅ Fertig! ${allGames.length} Aktiv-Spiele gespeichert in ${outFile}`);
+// sicherstellen, dass der Data-Ordner existiert
+if (!fs.existsSync("data")) fs.mkdirSync("data");
+
+const outFile = `data/games-aktiv-${SAISON}.json`;
+fs.writeFileSync(outFile, JSON.stringify(allGames, null, 2));
+console.log(`✅ Fertig! ${allGames.length} Aktiv-Spiele gespeichert in ${outFile}`);
+
 }
 
 main();
