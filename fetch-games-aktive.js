@@ -2,18 +2,15 @@
 import fetch from "node-fetch";
 import fs from "fs";
 
-const DEBUG = true;
+const DEBUG = false;
 
 // Saison aus Parameter lesen
-const SAISON = parseInt(process.argv[2], 10);
-if (isNaN(SAISON)) {
-  console.error("❌ Bitte Saison als Parameter angeben, z.B. `node fetch-games-aktive.js 2024`");
-  process.exit(1);
-}
+const SAISON = parseInt(process.argv[2] || "2026", 10);
 
-// Zeitraum
-const DATE_FROM = `01.08.${SAISON - 1}`;
-const DATE_TO = `30.04.${SAISON}`;
+// Zeitraum: Saisonstart (Aug -> nächstes Jahr April)
+const DATE_FROM = `01.08.${SAISON}`;
+const DATE_TO   = `30.04.${SAISON + 1}`;
+
 
 // Teams Aktiv
 const TEAMS = [
@@ -30,13 +27,7 @@ async function fetchGames(team) {
     const res = await fetch(url);
     const text = await res.text();
 
-// Debug-Ausgabe für jedes Team in Datei schreiben
-if (DEBUG) {
-  fs.writeFileSync(
-    `debug-aktiv-${SAISON}-${team.leagueId}-${team.teamId}.txt`,
-    text
-  );
-}
+    if (DEBUG) fs.appendFileSync(`debug-nachwuchs-${SAISON}.json`, `\n\n=== ${team.name} ===\n${text}`);
 
     let cleanText = text.trim().replace(/^.*?\(/, "").replace(/\);?$/, "");
     const json = JSON.parse(cleanText);
