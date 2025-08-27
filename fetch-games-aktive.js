@@ -8,8 +8,8 @@ const DEBUG = false;
 const SAISON = parseInt(process.argv[2] || "2026", 10);
 
 // Zeitraum: Saisonstart (Aug -> nächstes Jahr April)
-const DATE_FROM = `01.08.${SAISON}`;
-const DATE_TO   = `30.04.${SAISON + 1}`;
+const DATE_FROM = `01.08.${SAISON - 1}`;
+const DATE_TO   = `30.04.${SAISON}`;
 
 
 // Teams Aktiv
