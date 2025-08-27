@@ -2,18 +2,14 @@
 import fetch from "node-fetch";
 import fs from "fs";
 
-const DEBUG = true;
+const DEBUG = false;
 
 // Saison aus Parameter lesen
-const SAISON = parseInt(process.argv[2], 10);
-if (isNaN(SAISON)) {
-  console.error("❌ Bitte Saison als Parameter angeben, z.B. `node fetch-games-nachwuchs.js 2024`");
-  process.exit(1);
-}
+const SAISON = parseInt(process.argv[2] || "2026", 10);
 
-// Zeitraum
-const DATE_FROM = `01.08.${SAISON - 1}`;
-const DATE_TO = `30.04.${SAISON}`;
+// Zeitraum: Saisonstart (Aug -> nächstes Jahr April)
+const DATE_FROM = `01.08.${SAISON}`;
+const DATE_TO   = `30.04.${SAISON + 1}`;
 
 // Teams Nachwuchs
 const TEAMS = [
