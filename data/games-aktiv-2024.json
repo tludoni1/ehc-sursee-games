@@ -1,0 +1,1294 @@
+[
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "30.09.2023",
+    "longDate": "30. Sep. 2023 - 20:15",
+    "result": "4:3",
+    "displayInfo": "4:3",
+    "team1": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 101007,
+      "name": "GDT Bellinzona"
+    },
+    "gameId": "20242135110004",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "07.10.2023",
+    "longDate": "7. Okt. 2023 - 19:30",
+    "result": "4:3",
+    "displayInfo": "4:3",
+    "team1": {
+      "id": 104185,
+      "name": "EV Zug"
+    },
+    "team2": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20242135110008",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "14.10.2023",
+    "longDate": "14. Okt. 2023 - 20:15",
+    "result": "1:3",
+    "displayInfo": "1:3",
+    "team1": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103221,
+      "name": "EHC Wallisellen"
+    },
+    "gameId": "20242135110024",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "25.10.2023",
+    "longDate": "25. Okt. 2023 - 20:00",
+    "result": "7:6",
+    "displayInfo": "7:6",
+    "team1": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103772,
+      "name": "EHC Urdorf"
+    },
+    "gameId": "20242135110014",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "28.10.2023",
+    "longDate": "28. Okt. 2023 - 18:00",
+    "result": "5:1",
+    "displayInfo": "5:1",
+    "team1": {
+      "id": 103200,
+      "name": "KSC Küssnacht am Rigi I"
+    },
+    "team2": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20242135110030",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "04.11.2023",
+    "longDate": "4. Nov. 2023 - 20:15",
+    "result": "2:3",
+    "displayInfo": "2:3",
+    "team1": {
+      "id": 103655,
+      "name": "EHC Bassersdorf"
+    },
+    "team2": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20242135110035",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "18.11.2023",
+    "longDate": "18. Nov. 2023 - 20:00",
+    "result": "7:4",
+    "displayInfo": "7:4",
+    "team1": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103336,
+      "name": "SC Küsnacht"
+    },
+    "gameId": "20242135110039",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "25.11.2023",
+    "longDate": "25. Nov. 2023 - 18:00",
+    "result": "2:3",
+    "displayInfo": "2:3",
+    "team1": {
+      "id": 103197,
+      "name": "HCB Chiasso"
+    },
+    "team2": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20242135110042",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "02.12.2023",
+    "longDate": "2. Dez. 2023 - 17:30",
+    "result": "3:7",
+    "displayInfo": "3:7",
+    "team1": {
+      "id": 101007,
+      "name": "GDT Bellinzona"
+    },
+    "team2": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20242135110047",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "09.12.2023",
+    "longDate": "9. Dez. 2023 - 20:15",
+    "result": "3:4",
+    "displayInfo": "3:4",
+    "team1": {
+      "id": 103174,
+      "name": "HC Ascona Rivers"
+    },
+    "team2": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20242135110019",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "14.12.2023",
+    "longDate": "14. Dez. 2023 - 20:30",
+    "result": "3:6",
+    "displayInfo": "3:6",
+    "team1": {
+      "id": 103772,
+      "name": "EHC Urdorf"
+    },
+    "team2": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20242135110058",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "16.12.2023",
+    "longDate": "16. Dez. 2023 - 20:15",
+    "result": "3:6",
+    "displayInfo": "3:6",
+    "team1": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104185,
+      "name": "EV Zug"
+    },
+    "gameId": "20242135110054",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "23.12.2023",
+    "longDate": "23. Dez. 2023 - 20:00",
+    "result": "4:1",
+    "displayInfo": "4:1",
+    "team1": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103174,
+      "name": "HC Ascona Rivers"
+    },
+    "gameId": "20242135110064",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "06.01.2024",
+    "longDate": "6. Jan. 2024 - 17:30",
+    "result": "6:1",
+    "displayInfo": "6:1",
+    "team1": {
+      "id": 103221,
+      "name": "EHC Wallisellen"
+    },
+    "team2": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20242135110069",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "10.01.2024",
+    "longDate": "10. Jan. 2024 - 20:00",
+    "result": "8:5",
+    "displayInfo": "8:5",
+    "team1": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103200,
+      "name": "KSC Küssnacht am Rigi I"
+    },
+    "gameId": "20242135110074",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "13.01.2024",
+    "longDate": "13. Jan. 2024 - 20:00",
+    "result": "2:1",
+    "displayInfo": "2:1",
+    "team1": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103655,
+      "name": "EHC Bassersdorf"
+    },
+    "gameId": "20242135110080",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "20.01.2024",
+    "longDate": "20. Jan. 2024 - 20:15",
+    "result": "8:4",
+    "displayInfo": "8:4",
+    "team1": {
+      "id": 103336,
+      "name": "SC Küsnacht"
+    },
+    "team2": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20242135110081",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "27.01.2024",
+    "longDate": "27. Jan. 2024 - 20:00",
+    "result": "5:6",
+    "displayInfo": "5:6",
+    "team1": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103197,
+      "name": "HCB Chiasso"
+    },
+    "gameId": "20242135110089",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "01.02.2024",
+    "longDate": "1. Feb. 2024 - 20:15",
+    "result": "2:7",
+    "displayInfo": "2:7",
+    "team1": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 101118,
+      "name": "SC Weinfelden"
+    },
+    "gameId": "20242135000009",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "06.02.2024",
+    "longDate": "6. Feb. 2024 - 20:00",
+    "result": "4:0",
+    "displayInfo": "4:0",
+    "team1": {
+      "id": 101118,
+      "name": "SC Weinfelden"
+    },
+    "team2": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20242135000017",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "01.10.2023",
+    "longDate": "1. Okt. 2023 - 20:00",
+    "result": "3:4",
+    "displayInfo": "3:4",
+    "team1": {
+      "id": 105858,
+      "name": "SCRJ Lakers Ladies"
+    },
+    "team2": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20241186000003",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "07.10.2023",
+    "longDate": "7. Okt. 2023 - 19:45",
+    "result": "2:3",
+    "displayInfo": "2:3",
+    "team1": {
+      "id": 104907,
+      "name": "Brandis Juniors Ladies"
+    },
+    "team2": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20241186000007",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "20.10.2023",
+    "longDate": "20. Okt. 2023 - 19:30",
+    "result": "16:0",
+    "displayInfo": "16:0",
+    "team1": {
+      "id": 105975,
+      "name": "EV Zug"
+    },
+    "team2": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20241186000011",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "21.10.2023",
+    "longDate": "21. Okt. 2023 - 20:30",
+    "result": "2:3",
+    "displayInfo": "2:3",
+    "team1": {
+      "id": 103701,
+      "name": "Lausanne HC Féminin"
+    },
+    "team2": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20241186000017",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "28.10.2023",
+    "longDate": "28. Okt. 2023 - 19:45",
+    "result": "4:0",
+    "displayInfo": "4:0",
+    "team1": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105986,
+      "name": "HC Thurgau Ladies"
+    },
+    "gameId": "20241186000023",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "12.11.2023",
+    "longDate": "12. Nov. 2023 - 11:00",
+    "result": "2:1",
+    "displayInfo": "2:1",
+    "team1": {
+      "id": 103698,
+      "name": "DHC Lyss"
+    },
+    "team2": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20241186000029",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "19.11.2023",
+    "longDate": "19. Nov. 2023 - 17:00",
+    "result": "0:6",
+    "displayInfo": "0:6",
+    "team1": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105512,
+      "name": "EHC Zunzgen-Sissach"
+    },
+    "gameId": "20241186000035",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "25.11.2023",
+    "longDate": "25. Nov. 2023 - 15:30",
+    "result": "0:3",
+    "displayInfo": "0:3",
+    "team1": {
+      "id": 103951,
+      "name": "GCK Lions Frauen"
+    },
+    "team2": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20241186000040",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "03.12.2023",
+    "longDate": "3. Dez. 2023 - 17:00",
+    "result": "1:2",
+    "displayInfo": "1:2",
+    "team1": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104297,
+      "name": "EHC Bassersdorf Ladies"
+    },
+    "gameId": "20241186000044",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "09.12.2023",
+    "longDate": "9. Dez. 2023 - 19:15",
+    "result": "4:2",
+    "displayInfo": "4:2",
+    "team1": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105858,
+      "name": "SCRJ Lakers Ladies"
+    },
+    "gameId": "20241186000048",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "06.01.2024",
+    "longDate": "6. Jan. 2024 - 17:00",
+    "result": "1:18",
+    "displayInfo": "1:18",
+    "team1": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105975,
+      "name": "EV Zug"
+    },
+    "gameId": "20241186000056",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "14.01.2024",
+    "longDate": "14. Jan. 2024 - 17:00",
+    "result": "0:9",
+    "displayInfo": "0:9",
+    "team1": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103701,
+      "name": "Lausanne HC Féminin"
+    },
+    "gameId": "20241186000062",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "20.01.2024",
+    "longDate": "20. Jan. 2024 - 14:30",
+    "result": "2:0",
+    "displayInfo": "2:0",
+    "team1": {
+      "id": 105986,
+      "name": "HC Thurgau Ladies"
+    },
+    "team2": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20241186000068",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "26.01.2024",
+    "longDate": "26. Jan. 2024 - 20:15",
+    "result": "1:2",
+    "displayInfo": "1:2",
+    "team1": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104907,
+      "name": "Brandis Juniors Ladies"
+    },
+    "gameId": "20241186000052",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "28.01.2024",
+    "longDate": "28. Jan. 2024 - 17:00",
+    "result": "2:7",
+    "displayInfo": "2:7",
+    "team1": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103698,
+      "name": "DHC Lyss"
+    },
+    "gameId": "20241186000074",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "03.02.2024",
+    "longDate": "3. Feb. 2024 - 17:30",
+    "result": "4:2",
+    "displayInfo": "4:2",
+    "team1": {
+      "id": 105512,
+      "name": "EHC Zunzgen-Sissach"
+    },
+    "team2": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20241186000080",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "11.02.2024",
+    "longDate": "11. Feb. 2024 - 17:00",
+    "result": "2:3",
+    "displayInfo": "2:3",
+    "team1": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103951,
+      "name": "GCK Lions Frauen"
+    },
+    "gameId": "20241186000085",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "18.02.2024",
+    "longDate": "18. Feb. 2024 - 17:45",
+    "result": "4:2",
+    "displayInfo": "4:2",
+    "team1": {
+      "id": 104297,
+      "name": "EHC Bassersdorf Ladies"
+    },
+    "team2": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20241186000089",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "24.02.2024",
+    "longDate": "24. Feb. 2024 - 20:15",
+    "result": "8:2",
+    "displayInfo": "8:2",
+    "team1": {
+      "id": 105512,
+      "name": "EHC Zunzgen-Sissach"
+    },
+    "team2": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20241186000093",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "25.02.2024",
+    "longDate": "25. Feb. 2024 - 19:45",
+    "result": "0:2",
+    "displayInfo": "0:2",
+    "team1": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105512,
+      "name": "EHC Zunzgen-Sissach"
+    },
+    "gameId": "20241186000097",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "24.09.2023",
+    "longDate": "24. Sep. 2023 - 19:30",
+    "result": "5:4",
+    "displayInfo": "5:4",
+    "team1": {
+      "id": 103584,
+      "name": "HC Seetal"
+    },
+    "team2": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20242155110004",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "01.10.2023",
+    "longDate": "1. Okt. 2023 - 15:00",
+    "result": "0:12",
+    "displayInfo": "0:12",
+    "team1": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103465,
+      "name": "SC Rapperswil-Jona Lakers"
+    },
+    "gameId": "20242155110005",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "07.10.2023",
+    "longDate": "7. Okt. 2023 - 14:30",
+    "result": "4:6",
+    "displayInfo": "4:6",
+    "team1": {
+      "id": 103423,
+      "name": "EHC Einsiedeln"
+    },
+    "team2": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20242155110010",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "21.10.2023",
+    "longDate": "21. Okt. 2023 - 19:45",
+    "result": "2:5",
+    "displayInfo": "2:5",
+    "team1": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103940,
+      "name": "KSC Küssnacht am Rigi II"
+    },
+    "gameId": "20242155110019",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "04.11.2023",
+    "longDate": "4. Nov. 2023 - 19:15",
+    "result": "2:3",
+    "displayInfo": "2:3",
+    "team1": {
+      "id": 103756,
+      "name": "Eishockeyclub Uri"
+    },
+    "team2": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20242155110021",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "19.11.2023",
+    "longDate": "19. Nov. 2023 - 19:45",
+    "result": "2:5",
+    "displayInfo": "2:5",
+    "team1": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104304,
+      "name": "HC Zugerland"
+    },
+    "gameId": "20242155110027",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "25.11.2023",
+    "longDate": "25. Nov. 2023 - 20:00",
+    "result": "4:1",
+    "displayInfo": "4:1",
+    "team1": {
+      "id": 105481,
+      "name": "HC Luzern"
+    },
+    "team2": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20242155110030",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "02.12.2023",
+    "longDate": "2. Dez. 2023 - 17:00",
+    "result": "5:6",
+    "displayInfo": "5:6",
+    "team1": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103761,
+      "name": "HC Limmattal Wings"
+    },
+    "gameId": "20242155110034",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "16.12.2023",
+    "longDate": "16. Dez. 2023 - 17:00",
+    "result": "5:2",
+    "displayInfo": "5:2",
+    "team1": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103584,
+      "name": "HC Seetal"
+    },
+    "gameId": "20242155110038",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "06.01.2024",
+    "longDate": "6. Jan. 2024 - 19:45",
+    "result": "12:6",
+    "displayInfo": "12:6",
+    "team1": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103423,
+      "name": "EHC Einsiedeln"
+    },
+    "gameId": "20242155110045",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "20.01.2024",
+    "longDate": "20. Jan. 2024 - 17:30",
+    "result": "8:1",
+    "displayInfo": "8:1",
+    "team1": {
+      "id": 103940,
+      "name": "KSC Küssnacht am Rigi II"
+    },
+    "team2": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20242155110053",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "27.01.2024",
+    "longDate": "27. Jan. 2024 - 16:45",
+    "result": "4:2",
+    "displayInfo": "4:2",
+    "team1": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103756,
+      "name": "Eishockeyclub Uri"
+    },
+    "gameId": "20242155110059",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "03.02.2024",
+    "longDate": "3. Feb. 2024 - 15:15",
+    "result": "3:1",
+    "displayInfo": "3:1",
+    "team1": {
+      "id": 104304,
+      "name": "HC Zugerland"
+    },
+    "team2": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20242155110062",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "07.02.2024",
+    "longDate": "7. Feb. 2024 - 20:15",
+    "result": "1:3",
+    "displayInfo": "1:3",
+    "team1": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105481,
+      "name": "HC Luzern"
+    },
+    "gameId": "20242155110067",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "11.02.2024",
+    "longDate": "11. Feb. 2024 - 17:15",
+    "result": "10:2",
+    "displayInfo": "10:2",
+    "team1": {
+      "id": 103465,
+      "name": "SC Rapperswil-Jona Lakers"
+    },
+    "team2": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20242155110041",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "17.02.2024",
+    "longDate": "17. Feb. 2024 - 18:30",
+    "result": "4:5",
+    "displayInfo": "4:5",
+    "team1": {
+      "id": 103761,
+      "name": "HC Limmattal Wings"
+    },
+    "team2": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20242155110071",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Senioren",
+    "leagueId": 37,
+    "date": "05.11.2023",
+    "longDate": "5. Nov. 2023 - 17:00",
+    "result": "5:6",
+    "displayInfo": "5:6",
+    "team1": {
+      "id": 105810,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104343,
+      "name": "HC Zugerland"
+    },
+    "gameId": "20241168120003",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Senioren",
+    "leagueId": 37,
+    "date": "19.11.2023",
+    "longDate": "19. Nov. 2023 - 20:00",
+    "result": "7:2",
+    "displayInfo": "7:2",
+    "team1": {
+      "id": 105890,
+      "name": "HC Fischbach-Göslikon"
+    },
+    "team2": {
+      "id": 105810,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20241168120006",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Senioren",
+    "leagueId": 37,
+    "date": "02.12.2023",
+    "longDate": "2. Dez. 2023 - 19:45",
+    "result": "3:13",
+    "displayInfo": "3:13",
+    "team1": {
+      "id": 105810,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104779,
+      "name": "EHC Kleindöttingen"
+    },
+    "gameId": "20241168120010",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Senioren",
+    "leagueId": 37,
+    "date": "16.12.2023",
+    "longDate": "16. Dez. 2023 - 15:15",
+    "result": "15:2",
+    "displayInfo": "15:2",
+    "team1": {
+      "id": 104343,
+      "name": "HC Zugerland"
+    },
+    "team2": {
+      "id": 105810,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20241168120013",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Senioren",
+    "leagueId": 37,
+    "date": "23.12.2023",
+    "longDate": "23. Dez. 2023 - 16:45",
+    "result": "5:6",
+    "displayInfo": "5:6",
+    "team1": {
+      "id": 105810,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105890,
+      "name": "HC Fischbach-Göslikon"
+    },
+    "gameId": "20241168120015",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Senioren",
+    "leagueId": 37,
+    "date": "20.01.2024",
+    "longDate": "20. Jan. 2024 - 19:30",
+    "result": "3:10",
+    "displayInfo": "3:10",
+    "team1": {
+      "id": 104738,
+      "name": "HC Seetal"
+    },
+    "team2": {
+      "id": 105810,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20241168120002",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Senioren",
+    "leagueId": 37,
+    "date": "21.01.2024",
+    "longDate": "21. Jan. 2024 - 19:30",
+    "result": "20:1",
+    "displayInfo": "20:1",
+    "team1": {
+      "id": 104779,
+      "name": "EHC Kleindöttingen"
+    },
+    "team2": {
+      "id": 105810,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20241168120019",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Senioren",
+    "leagueId": 37,
+    "date": "04.02.2024",
+    "longDate": "4. Feb. 2024 - 18:30",
+    "result": "5:9",
+    "displayInfo": "5:9",
+    "team1": {
+      "id": 104738,
+      "name": "HC Seetal"
+    },
+    "team2": {
+      "id": 105810,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20241168120022",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Senioren",
+    "leagueId": 37,
+    "date": "21.02.2024",
+    "longDate": "21. Feb. 2024 - 20:15",
+    "result": "8:4",
+    "displayInfo": "8:4",
+    "team1": {
+      "id": 105810,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104343,
+      "name": "HC Zugerland"
+    },
+    "gameId": "20241168120023",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Senioren",
+    "leagueId": 37,
+    "date": "24.02.2024",
+    "longDate": "24. Feb. 2024 - 17:15",
+    "result": "8:3",
+    "displayInfo": "8:3",
+    "team1": {
+      "id": 105890,
+      "name": "HC Fischbach-Göslikon"
+    },
+    "team2": {
+      "id": 105810,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20241168120026",
+    "place": "away"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Senioren",
+    "leagueId": 37,
+    "date": "03.03.2024",
+    "longDate": "3. März 2024 - 19:45",
+    "result": "13:2",
+    "displayInfo": "13:2",
+    "team1": {
+      "id": 105810,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104738,
+      "name": "HC Seetal"
+    },
+    "gameId": "20241168120012",
+    "place": "home"
+  },
+  {
+    "saison": 2024,
+    "team": "EHC Sursee Senioren",
+    "leagueId": 37,
+    "date": "09.03.2024",
+    "longDate": "9. März 2024 - 17:00",
+    "result": "7:6",
+    "displayInfo": "7:6",
+    "team1": {
+      "id": 105810,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104779,
+      "name": "EHC Kleindöttingen"
+    },
+    "gameId": "20241168120030",
+    "place": "home"
+  }
+]

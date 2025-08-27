@@ -1,0 +1,1364 @@
+[
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
+    "date": "26.09.2021",
+    "longDate": "26. Sep. 2021 - 18:30",
+    "result": "4:1",
+    "displayInfo": "4:1",
+    "team1": {
+      "id": 105129,
+      "name": "HC Seetal"
+    },
+    "team2": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223203120002",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
+    "date": "03.10.2021",
+    "longDate": "3. Okt. 2021 - 16:00",
+    "result": "3:14",
+    "displayInfo": "3:14",
+    "team1": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103151,
+      "name": "Argovia Stars"
+    },
+    "gameId": "20223203120004",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
+    "date": "17.10.2021",
+    "longDate": "17. Okt. 2021 - 17:00",
+    "result": "2:4",
+    "displayInfo": "2:4",
+    "team1": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105744,
+      "name": "HC Rivers"
+    },
+    "gameId": "20223203120010",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
+    "date": "23.10.2021",
+    "longDate": "23. Okt. 2021 - 14:45",
+    "result": "5:3",
+    "displayInfo": "5:3",
+    "team1": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103320,
+      "name": "HCB Chiasso"
+    },
+    "gameId": "20223203120014",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
+    "date": "31.10.2021",
+    "longDate": "31. Okt. 2021 - 10:45",
+    "result": "2:4",
+    "displayInfo": "2:4",
+    "team1": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105803,
+      "name": "EHC Olten Prospect"
+    },
+    "gameId": "20223203120018",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
+    "date": "06.11.2021",
+    "longDate": "6. Nov. 2021 - 17:00",
+    "result": "1:15",
+    "displayInfo": "1:15",
+    "team1": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105125,
+      "name": "EV Zug"
+    },
+    "gameId": "20223203120021",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
+    "date": "14.11.2021",
+    "longDate": "14. Nov. 2021 - 19:45",
+    "result": "2:9",
+    "displayInfo": "2:9",
+    "team1": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105129,
+      "name": "HC Seetal"
+    },
+    "gameId": "20223203120023",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
+    "date": "20.11.2021",
+    "longDate": "20. Nov. 2021 - 17:00",
+    "result": "8:6",
+    "displayInfo": "8:6",
+    "team1": {
+      "id": 103151,
+      "name": "Argovia Stars"
+    },
+    "team2": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223203120025",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
+    "date": "04.12.2021",
+    "longDate": "4. Dez. 2021 - 17:00",
+    "result": "9:1",
+    "displayInfo": "9:1",
+    "team1": {
+      "id": 105744,
+      "name": "HC Rivers"
+    },
+    "team2": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223203120031",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
+    "date": "11.12.2021",
+    "longDate": "11. Dez. 2021 - 17:15",
+    "result": "12:4",
+    "displayInfo": "12:4",
+    "team1": {
+      "id": 103320,
+      "name": "HCB Chiasso"
+    },
+    "team2": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223203120035",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
+    "date": "18.12.2021",
+    "longDate": "18. Dez. 2021 - 20:00",
+    "result": "8:2",
+    "displayInfo": "8:2",
+    "team1": {
+      "id": 105803,
+      "name": "EHC Olten Prospect"
+    },
+    "team2": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223203120039",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
+    "date": "09.01.2022",
+    "longDate": "9. Jan. 2022 - 11:30",
+    "result": "0:0",
+    "displayInfo": "0:0",
+    "team1": {
+      "id": 105125,
+      "name": "EV Zug"
+    },
+    "team2": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223203120042",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
+    "date": "16.01.2022",
+    "longDate": "16. Jan. 2022 - 18:30",
+    "result": "0:0",
+    "displayInfo": "0:0",
+    "team1": {
+      "id": 105129,
+      "name": "HC Seetal"
+    },
+    "team2": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223203120044",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
+    "date": "23.01.2022",
+    "longDate": "23. Jan. 2022 - 10:45",
+    "result": "0:0",
+    "displayInfo": "0:0",
+    "team1": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103151,
+      "name": "Argovia Stars"
+    },
+    "gameId": "20223203120046",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
+    "date": "12.02.2022",
+    "longDate": "12. Feb. 2022 - 12:00",
+    "result": "14:2",
+    "displayInfo": "14:2",
+    "team1": {
+      "id": 105744,
+      "name": "HC Rivers"
+    },
+    "team2": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223203120052",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
+    "date": "13.02.2022",
+    "longDate": "13. Feb. 2022 - 17:00",
+    "result": "2:3",
+    "displayInfo": "2:3",
+    "team1": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103320,
+      "name": "HCB Chiasso"
+    },
+    "gameId": "20223203120056",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
+    "date": "19.02.2022",
+    "longDate": "19. Feb. 2022 - 17:15",
+    "result": "9:2",
+    "displayInfo": "9:2",
+    "team1": {
+      "id": 105803,
+      "name": "EHC Olten Prospect"
+    },
+    "team2": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223203120060",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
+    "date": "27.02.2022",
+    "longDate": "27. Feb. 2022 - 19:45",
+    "result": "4:5",
+    "displayInfo": "4:5",
+    "team1": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105125,
+      "name": "EV Zug"
+    },
+    "gameId": "20223203120063",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "02.10.2021",
+    "longDate": "2. Okt. 2021 - 12:30",
+    "result": "1:17",
+    "displayInfo": "1:17",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105529,
+      "name": "HC Innerschwyz Future"
+    },
+    "gameId": "20223215120008",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "10.10.2021",
+    "longDate": "10. Okt. 2021 - 12:00",
+    "result": "9:3",
+    "displayInfo": "9:3",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105799,
+      "name": "SC Reinach"
+    },
+    "gameId": "20223215120012",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "16.10.2021",
+    "longDate": "16. Okt. 2021 - 11:15",
+    "result": "11:4",
+    "displayInfo": "11:4",
+    "team1": {
+      "id": 105387,
+      "name": "EV Zug"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223215120015",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "23.10.2021",
+    "longDate": "23. Okt. 2021 - 12:00",
+    "result": "1:13",
+    "displayInfo": "1:13",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105751,
+      "name": "HC Rivers"
+    },
+    "gameId": "20223215120018",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "31.10.2021",
+    "longDate": "31. Okt. 2021 - 18:00",
+    "result": "10:1",
+    "displayInfo": "10:1",
+    "team1": {
+      "id": 103369,
+      "name": "Argovia Stars"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223215120021",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "06.11.2021",
+    "longDate": "6. Nov. 2021 - 19:45",
+    "result": "0:13",
+    "displayInfo": "0:13",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103613,
+      "name": "HCB Chiasso"
+    },
+    "gameId": "20223215120003",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "14.11.2021",
+    "longDate": "14. Nov. 2021 - 14:00",
+    "result": "9:0",
+    "displayInfo": "9:0",
+    "team1": {
+      "id": 103674,
+      "name": "GDT Bellinzona"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223215120026",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "21.11.2021",
+    "longDate": "21. Nov. 2021 - 12:30",
+    "result": "7:2",
+    "displayInfo": "7:2",
+    "team1": {
+      "id": 103613,
+      "name": "HCB Chiasso"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223215120031",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "28.11.2021",
+    "longDate": "28. Nov. 2021 - 17:45",
+    "result": "3:4",
+    "displayInfo": "3:4",
+    "team1": {
+      "id": 105529,
+      "name": "HC Innerschwyz Future"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223215120036",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "05.12.2021",
+    "longDate": "5. Dez. 2021 - 17:45",
+    "result": "4:7",
+    "displayInfo": "4:7",
+    "team1": {
+      "id": 105799,
+      "name": "SC Reinach"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223215120040",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "12.12.2021",
+    "longDate": "12. Dez. 2021 - 17:00",
+    "result": "11:4",
+    "displayInfo": "11:4",
+    "team1": {
+      "id": 105751,
+      "name": "HC Rivers"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223215120046",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "02.01.2022",
+    "longDate": "2. Jan. 2022 - 17:00",
+    "result": "0:0",
+    "displayInfo": "0:0",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105387,
+      "name": "EV Zug"
+    },
+    "gameId": "20223215120043",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "08.01.2022",
+    "longDate": "8. Jan. 2022 - 17:45",
+    "result": "0:0",
+    "displayInfo": "0:0",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103369,
+      "name": "Argovia Stars"
+    },
+    "gameId": "20223215120049",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "15.01.2022",
+    "longDate": "15. Jan. 2022 - 16:45",
+    "result": "0:0",
+    "displayInfo": "0:0",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103674,
+      "name": "GDT Bellinzona"
+    },
+    "gameId": "20223215120054",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "22.01.2022",
+    "longDate": "22. Jan. 2022 - 17:00",
+    "result": "0:0",
+    "displayInfo": "0:0",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103613,
+      "name": "HCB Chiasso"
+    },
+    "gameId": "20223215120059",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "30.01.2022",
+    "longDate": "30. Jan. 2022 - 19:15",
+    "result": "3:2",
+    "displayInfo": "3:2",
+    "team1": {
+      "id": 105529,
+      "name": "HC Innerschwyz Future"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223215120064",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "05.02.2022",
+    "longDate": "5. Feb. 2022 - 17:00",
+    "result": "0:10",
+    "displayInfo": "0:10",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105799,
+      "name": "SC Reinach"
+    },
+    "gameId": "20223215120068",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "12.02.2022",
+    "longDate": "12. Feb. 2022 - 15:15",
+    "result": "10:4",
+    "displayInfo": "10:4",
+    "team1": {
+      "id": 105387,
+      "name": "EV Zug"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223215120071",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "19.02.2022",
+    "longDate": "19. Feb. 2022 - 17:00",
+    "result": "1:14",
+    "displayInfo": "1:14",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105751,
+      "name": "HC Rivers"
+    },
+    "gameId": "20223215120074",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "27.02.2022",
+    "longDate": "27. Feb. 2022 - 18:00",
+    "result": "13:2",
+    "displayInfo": "13:2",
+    "team1": {
+      "id": 103369,
+      "name": "Argovia Stars"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223215120077",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "13.03.2022",
+    "longDate": "13. März 2022 - 14:00",
+    "result": "6:4",
+    "displayInfo": "6:4",
+    "team1": {
+      "id": 103674,
+      "name": "GDT Bellinzona"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223215120082",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "26.09.2021",
+    "longDate": "26. Sep. 2021 - 17:15",
+    "result": "2:27",
+    "displayInfo": "2:27",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105137,
+      "name": "HC Seetal I"
+    },
+    "gameId": "20223228120002",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "24.10.2021",
+    "longDate": "24. Okt. 2021 - 10:45",
+    "result": "14:10",
+    "displayInfo": "14:10",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105323,
+      "name": "SC Reinach"
+    },
+    "gameId": "20223228120014",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "06.11.2021",
+    "longDate": "6. Nov. 2021 - 20:15",
+    "result": "2:4",
+    "displayInfo": "2:4",
+    "team1": {
+      "id": 105235,
+      "name": "EHC Basel Nachwuchs"
+    },
+    "team2": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223228120018",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "13.11.2021",
+    "longDate": "13. Nov. 2021 - 17:00",
+    "result": "9:10",
+    "displayInfo": "9:10",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105024,
+      "name": "EHC Zuchwil Regio"
+    },
+    "gameId": "20223228120021",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "20.11.2021",
+    "longDate": "20. Nov. 2021 - 16:45",
+    "result": "30:1",
+    "displayInfo": "30:1",
+    "team1": {
+      "id": 105137,
+      "name": "HC Seetal I"
+    },
+    "team2": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223228120023",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "28.11.2021",
+    "longDate": "28. Nov. 2021 - 15:30",
+    "result": "15:1",
+    "displayInfo": "15:1",
+    "team1": {
+      "id": 103295,
+      "name": "Argovia Stars"
+    },
+    "team2": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223228120025",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "12.12.2021",
+    "longDate": "12. Dez. 2021 - 10:30",
+    "result": "17:1",
+    "displayInfo": "17:1",
+    "team1": {
+      "id": 105785,
+      "name": "HC NWU Red"
+    },
+    "team2": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223228120031",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "19.12.2021",
+    "longDate": "19. Dez. 2021 - 17:15",
+    "result": "5:7",
+    "displayInfo": "5:7",
+    "team1": {
+      "id": 105323,
+      "name": "SC Reinach"
+    },
+    "team2": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223228120035",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "09.01.2022",
+    "longDate": "9. Jan. 2022 - 17:00",
+    "result": "3:10",
+    "displayInfo": "3:10",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105235,
+      "name": "EHC Basel Nachwuchs"
+    },
+    "gameId": "20223228120039",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "16.01.2022",
+    "longDate": "16. Jan. 2022 - 11:15",
+    "result": "15:3",
+    "displayInfo": "15:3",
+    "team1": {
+      "id": 105024,
+      "name": "EHC Zuchwil Regio"
+    },
+    "team2": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223228120042",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "22.01.2022",
+    "longDate": "22. Jan. 2022 - 16:45",
+    "result": "8:2",
+    "displayInfo": "8:2",
+    "team1": {
+      "id": 105137,
+      "name": "HC Seetal I"
+    },
+    "team2": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223228120044",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "12.02.2022",
+    "longDate": "12. Feb. 2022 - 17:15",
+    "result": "6:1",
+    "displayInfo": "6:1",
+    "team1": {
+      "id": 105785,
+      "name": "HC NWU Red"
+    },
+    "team2": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223228120052",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "20.02.2022",
+    "longDate": "20. Feb. 2022 - 10:45",
+    "result": "14:7",
+    "displayInfo": "14:7",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105323,
+      "name": "SC Reinach"
+    },
+    "gameId": "20223228120056",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "26.02.2022",
+    "longDate": "26. Feb. 2022 - 19:15",
+    "result": "1:0",
+    "displayInfo": "1:0",
+    "team1": {
+      "id": 105235,
+      "name": "EHC Basel Nachwuchs"
+    },
+    "team2": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223228120060",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "05.03.2022",
+    "longDate": "5. März 2022 - 17:00",
+    "result": "7:6",
+    "displayInfo": "7:6",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105024,
+      "name": "EHC Zuchwil Regio"
+    },
+    "gameId": "20223228120063",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "06.03.2022",
+    "longDate": "6. März 2022 - 17:00",
+    "result": "1:0",
+    "displayInfo": "1:0",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105785,
+      "name": "HC NWU Red"
+    },
+    "gameId": "20223228120010",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "12.03.2022",
+    "longDate": "12. März 2022 - 10:30",
+    "result": "8:20",
+    "displayInfo": "8:20",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103295,
+      "name": "Argovia Stars"
+    },
+    "gameId": "20223228120046",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "20.03.2022",
+    "longDate": "20. März 2022 - 14:00",
+    "result": "4:25",
+    "displayInfo": "4:25",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103295,
+      "name": "Argovia Stars"
+    },
+    "gameId": "20223228120004",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U14 Top",
+    "leagueId": 123,
+    "date": null,
+    "longDate": null,
+    "result": "-",
+    "displayInfo": null,
+    "team1": null,
+    "team2": null,
+    "gameId": null,
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "10.10.2021",
+    "longDate": "10. Okt. 2021 - 14:45",
+    "result": "10:3",
+    "displayInfo": "10:3",
+    "team1": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105821,
+      "name": "HC NWU Green"
+    },
+    "gameId": "20223236120033",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "24.10.2021",
+    "longDate": "24. Okt. 2021 - 15:30",
+    "result": "4:13",
+    "displayInfo": "4:13",
+    "team1": {
+      "id": 104022,
+      "name": "Argovia Stars"
+    },
+    "team2": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223236120010",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "27.11.2021",
+    "longDate": "27. Nov. 2021 - 14:00",
+    "result": "1:12",
+    "displayInfo": "1:12",
+    "team1": {
+      "id": 105154,
+      "name": "HC Seetal"
+    },
+    "team2": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223236120020",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "05.12.2021",
+    "longDate": "5. Dez. 2021 - 15:00",
+    "result": "3:8",
+    "displayInfo": "3:8",
+    "team1": {
+      "id": 104020,
+      "name": "SC Reinach"
+    },
+    "team2": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223236120024",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "12.12.2021",
+    "longDate": "12. Dez. 2021 - 11:30",
+    "result": "10:5",
+    "displayInfo": "10:5",
+    "team1": {
+      "id": 104893,
+      "name": "SC Langenthal"
+    },
+    "team2": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223236120027",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "08.01.2022",
+    "longDate": "8. Jan. 2022 - 17:30",
+    "result": "11:10",
+    "displayInfo": "11:10",
+    "team1": {
+      "id": 105807,
+      "name": "HC NWU Black"
+    },
+    "team2": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223236120030",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "06.02.2022",
+    "longDate": "6. Feb. 2022 - 11:15",
+    "result": "7:3",
+    "displayInfo": "7:3",
+    "team1": {
+      "id": 105155,
+      "name": "EHC Basel Nachwuchs"
+    },
+    "team2": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223236120043",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "12.02.2022",
+    "longDate": "12. Feb. 2022 - 10:30",
+    "result": "10:5",
+    "displayInfo": "10:5",
+    "team1": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105154,
+      "name": "HC Seetal"
+    },
+    "gameId": "20223236120048",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "26.02.2022",
+    "longDate": "26. Feb. 2022 - 14:15",
+    "result": "18:4",
+    "displayInfo": "18:4",
+    "team1": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104020,
+      "name": "SC Reinach"
+    },
+    "gameId": "20223236120052",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "05.03.2022",
+    "longDate": "5. März 2022 - 14:15",
+    "result": "1:0",
+    "displayInfo": "1:0",
+    "team1": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105155,
+      "name": "EHC Basel Nachwuchs"
+    },
+    "gameId": "20223236120015",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "06.03.2022",
+    "longDate": "6. März 2022 - 10:45",
+    "result": "18:0",
+    "displayInfo": "18:0",
+    "team1": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104893,
+      "name": "SC Langenthal"
+    },
+    "gameId": "20223236120055",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "12.03.2022",
+    "longDate": "12. März 2022 - 11:00",
+    "result": "5:11",
+    "displayInfo": "5:11",
+    "team1": {
+      "id": 105821,
+      "name": "HC NWU Green"
+    },
+    "team2": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20223236120005",
+    "place": "away"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "20.03.2022",
+    "longDate": "20. März 2022 - 10:45",
+    "result": "21:6",
+    "displayInfo": "21:6",
+    "team1": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105807,
+      "name": "HC NWU Black"
+    },
+    "gameId": "20223236120002",
+    "place": "home"
+  },
+  {
+    "saison": 2022,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "26.03.2022",
+    "longDate": "26. März 2022 - 13:45",
+    "result": "4:17",
+    "displayInfo": "4:17",
+    "team1": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104022,
+      "name": "Argovia Stars"
+    },
+    "gameId": "20223236120038",
+    "place": "home"
+  }
+]

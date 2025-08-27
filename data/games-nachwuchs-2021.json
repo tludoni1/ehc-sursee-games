@@ -1,0 +1,940 @@
+[
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
+    "date": null,
+    "longDate": null,
+    "result": "-",
+    "displayInfo": null,
+    "team1": null,
+    "team2": null,
+    "gameId": null,
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "03.10.2020",
+    "longDate": "3. Okt. 2020 - 14:00",
+    "result": "4:6",
+    "displayInfo": "4:6",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104279,
+      "name": "HC Wisle"
+    },
+    "gameId": "20213215120001",
+    "place": "home"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "18.10.2020",
+    "longDate": "18. Okt. 2020 - 17:00",
+    "result": "9:1",
+    "displayInfo": "9:1",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105620,
+      "name": "EHC Rot-Blau Bern-Bümpliz"
+    },
+    "gameId": "20213215120009",
+    "place": "home"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "25.10.2020",
+    "longDate": "25. Okt. 2020 - 19:45",
+    "result": "-",
+    "displayInfo": "25. Okt. 2020 - 19:45",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104895,
+      "name": "EHC Schwarzenburg Köniz"
+    },
+    "gameId": "20213215120014",
+    "place": "home"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "08.11.2020",
+    "longDate": "8. Nov. 2020 - 17:00",
+    "result": "-",
+    "displayInfo": "8. Nov. 2020 - 17:00",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105486,
+      "name": "Brandis Juniors"
+    },
+    "gameId": "20213215120019",
+    "place": "home"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "15.11.2020",
+    "longDate": "15. Nov. 2020 - 17:00",
+    "result": "-",
+    "displayInfo": "15. Nov. 2020 - 17:00",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103610,
+      "name": "HC Luzern Selection"
+    },
+    "gameId": "20213215120024",
+    "place": "home"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "21.11.2020",
+    "longDate": "21. Nov. 2020 - 17:00",
+    "result": "-",
+    "displayInfo": "21. Nov. 2020 - 17:00",
+    "team1": {
+      "id": 105005,
+      "name": "EHC Adelboden"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20213215120028",
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "29.11.2020",
+    "longDate": "29. Nov. 2020 - 19:15",
+    "result": "-",
+    "displayInfo": "29. Nov. 2020 - 19:15",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103595,
+      "name": "EHC Rheinfelden"
+    },
+    "gameId": "20213215120031",
+    "place": "home"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "05.12.2020",
+    "longDate": "5. Dez. 2020 - 14:45",
+    "result": "-",
+    "displayInfo": "5. Dez. 2020 - 14:45",
+    "team1": {
+      "id": 105320,
+      "name": "EHC Zuchwil Regio"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20213215120034",
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "12.12.2020",
+    "longDate": "12. Dez. 2020 - 17:15",
+    "result": "-",
+    "displayInfo": "12. Dez. 2020 - 17:15",
+    "team1": {
+      "id": 104279,
+      "name": "HC Wisle"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20213215120037",
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "16.01.2021",
+    "longDate": "16. Jan. 2021 - 20:00",
+    "result": "-",
+    "displayInfo": "16. Jan. 2021 - 20:00",
+    "team1": {
+      "id": 105620,
+      "name": "EHC Rot-Blau Bern-Bümpliz"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20213215120045",
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "23.01.2021",
+    "longDate": "23. Jan. 2021 - 17:30",
+    "result": "-",
+    "displayInfo": "23. Jan. 2021 - 17:30",
+    "team1": {
+      "id": 104895,
+      "name": "EHC Schwarzenburg Köniz"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20213215120050",
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "31.01.2021",
+    "longDate": "31. Jan. 2021 - 19:45",
+    "result": "-",
+    "displayInfo": "31. Jan. 2021 - 19:45",
+    "team1": {
+      "id": 105486,
+      "name": "Brandis Juniors"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20213215120055",
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "06.02.2021",
+    "longDate": "6. Feb. 2021 - 17:15",
+    "result": "-",
+    "displayInfo": "6. Feb. 2021 - 17:15",
+    "team1": {
+      "id": 103610,
+      "name": "HC Luzern Selection"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20213215120060",
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "13.02.2021",
+    "longDate": "13. Feb. 2021 - 20:15",
+    "result": "-",
+    "displayInfo": "13. Feb. 2021 - 20:15",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105005,
+      "name": "EHC Adelboden"
+    },
+    "gameId": "20213215120064",
+    "place": "home"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "20.02.2021",
+    "longDate": "20. Feb. 2021 - 17:15",
+    "result": "-",
+    "displayInfo": "20. Feb. 2021 - 17:15",
+    "team1": {
+      "id": 103595,
+      "name": "EHC Rheinfelden"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20213215120067",
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "27.02.2021",
+    "longDate": "27. Feb. 2021 - 19:45",
+    "result": "-",
+    "displayInfo": "27. Feb. 2021 - 19:45",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105320,
+      "name": "EHC Zuchwil Regio"
+    },
+    "gameId": "20213215120070",
+    "place": "home"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "11.10.2020",
+    "longDate": "11. Okt. 2020 - 12:00",
+    "result": "8:3",
+    "displayInfo": "8:3",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105024,
+      "name": "EHC Zuchwil Regio"
+    },
+    "gameId": "20213228120005",
+    "place": "home"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "18.10.2020",
+    "longDate": "18. Okt. 2020 - 10:45",
+    "result": "20:1",
+    "displayInfo": "20:1",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105137,
+      "name": "HC Seetal I"
+    },
+    "gameId": "20213228120009",
+    "place": "home"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "25.10.2020",
+    "longDate": "25. Okt. 2020 - 17:00",
+    "result": "-",
+    "displayInfo": "25. Okt. 2020 - 17:00",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103295,
+      "name": "Argovia Stars"
+    },
+    "gameId": "20213228120013",
+    "place": "home"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "07.11.2020",
+    "longDate": "7. Nov. 2020 - 17:00",
+    "result": "-",
+    "displayInfo": "7. Nov. 2020 - 17:00",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105382,
+      "name": "EHC Burgdorf"
+    },
+    "gameId": "20213228120017",
+    "place": "home"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "14.11.2020",
+    "longDate": "14. Nov. 2020 - 17:00",
+    "result": "-",
+    "displayInfo": "14. Nov. 2020 - 17:00",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105323,
+      "name": "SC Reinach"
+    },
+    "gameId": "20213228120021",
+    "place": "home"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "22.11.2020",
+    "longDate": "22. Nov. 2020 - 17:30",
+    "result": "-",
+    "displayInfo": "22. Nov. 2020 - 17:30",
+    "team1": {
+      "id": 105763,
+      "name": "EHC Zunzgen-Sissach"
+    },
+    "team2": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20213228120027",
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "29.11.2020",
+    "longDate": "29. Nov. 2020 - 16:30",
+    "result": "-",
+    "displayInfo": "29. Nov. 2020 - 16:30",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105769,
+      "name": "HC Rivers I"
+    },
+    "gameId": "20213228120033",
+    "place": "home"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "06.12.2020",
+    "longDate": "6. Dez. 2020 - 10:45",
+    "result": "-",
+    "displayInfo": "6. Dez. 2020 - 10:45",
+    "team1": {
+      "id": 105235,
+      "name": "EHC Basel Nachwuchs"
+    },
+    "team2": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20213228120039",
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "20.12.2020",
+    "longDate": "20. Dez. 2020 - 17:00",
+    "result": "-",
+    "displayInfo": "20. Dez. 2020 - 17:00",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105746,
+      "name": "EHC Laufen"
+    },
+    "gameId": "20213228120045",
+    "place": "home"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "09.01.2021",
+    "longDate": "9. Jan. 2021 - 15:15",
+    "result": "-",
+    "displayInfo": "9. Jan. 2021 - 15:15",
+    "team1": {
+      "id": 105024,
+      "name": "EHC Zuchwil Regio"
+    },
+    "team2": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20213228120050",
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "17.01.2021",
+    "longDate": "17. Jan. 2021 - 15:30",
+    "result": "-",
+    "displayInfo": "17. Jan. 2021 - 15:30",
+    "team1": {
+      "id": 105137,
+      "name": "HC Seetal I"
+    },
+    "team2": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20213228120054",
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "23.01.2021",
+    "longDate": "23. Jan. 2021 - 20:00",
+    "result": "-",
+    "displayInfo": "23. Jan. 2021 - 20:00",
+    "team1": {
+      "id": 103295,
+      "name": "Argovia Stars"
+    },
+    "team2": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20213228120058",
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "30.01.2021",
+    "longDate": "30. Jan. 2021 - 18:15",
+    "result": "-",
+    "displayInfo": "30. Jan. 2021 - 18:15",
+    "team1": {
+      "id": 105382,
+      "name": "EHC Burgdorf"
+    },
+    "team2": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20213228120062",
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "07.02.2021",
+    "longDate": "7. Feb. 2021 - 17:15",
+    "result": "-",
+    "displayInfo": "7. Feb. 2021 - 17:15",
+    "team1": {
+      "id": 105323,
+      "name": "SC Reinach"
+    },
+    "team2": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20213228120066",
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "14.02.2021",
+    "longDate": "14. Feb. 2021 - 17:00",
+    "result": "-",
+    "displayInfo": "14. Feb. 2021 - 17:00",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105763,
+      "name": "EHC Zunzgen-Sissach"
+    },
+    "gameId": "20213228120072",
+    "place": "home"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "20.02.2021",
+    "longDate": "20. Feb. 2021 - 17:00",
+    "result": "-",
+    "displayInfo": "20. Feb. 2021 - 17:00",
+    "team1": {
+      "id": 105769,
+      "name": "HC Rivers I"
+    },
+    "team2": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20213228120078",
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "27.02.2021",
+    "longDate": "27. Feb. 2021 - 17:00",
+    "result": "-",
+    "displayInfo": "27. Feb. 2021 - 17:00",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105235,
+      "name": "EHC Basel Nachwuchs"
+    },
+    "gameId": "20213228120084",
+    "place": "home"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "05.03.2021",
+    "longDate": "5. März 2021 - 19:00",
+    "result": "-",
+    "displayInfo": "5. März 2021 - 19:00",
+    "team1": {
+      "id": 105746,
+      "name": "EHC Laufen"
+    },
+    "team2": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20213228120090",
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U14 Top",
+    "leagueId": 123,
+    "date": null,
+    "longDate": null,
+    "result": "-",
+    "displayInfo": null,
+    "team1": null,
+    "team2": null,
+    "gameId": null,
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "25.10.2020",
+    "longDate": "25. Okt. 2020 - 10:45",
+    "result": "-",
+    "displayInfo": "25. Okt. 2020 - 10:45",
+    "team1": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104884,
+      "name": "EHC Burgdorf"
+    },
+    "gameId": "20213236140001",
+    "place": "home"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "08.11.2020",
+    "longDate": "8. Nov. 2020 - 10:45",
+    "result": "-",
+    "displayInfo": "8. Nov. 2020 - 10:45",
+    "team1": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105534,
+      "name": "Hockey Innerschwyz HCI I"
+    },
+    "gameId": "20213236140006",
+    "place": "home"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "15.11.2020",
+    "longDate": "15. Nov. 2020 - 10:45",
+    "result": "-",
+    "displayInfo": "15. Nov. 2020 - 10:45",
+    "team1": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105154,
+      "name": "HC Seetal"
+    },
+    "gameId": "20213236140011",
+    "place": "home"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "21.11.2020",
+    "longDate": "21. Nov. 2020 - 16:45",
+    "result": "-",
+    "displayInfo": "21. Nov. 2020 - 16:45",
+    "team1": {
+      "id": 104952,
+      "name": "Brandis Juniors"
+    },
+    "team2": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20213236140016",
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "28.11.2020",
+    "longDate": "28. Nov. 2020 - 11:30",
+    "result": "-",
+    "displayInfo": "28. Nov. 2020 - 11:30",
+    "team1": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105158,
+      "name": "EV Zug II"
+    },
+    "gameId": "20213236140020",
+    "place": "home"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "20.12.2020",
+    "longDate": "20. Dez. 2020 - 10:45",
+    "result": "-",
+    "displayInfo": "20. Dez. 2020 - 10:45",
+    "team1": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104010,
+      "name": "HC Wohlen Freiamt"
+    },
+    "gameId": "20213236140026",
+    "place": "home"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "10.01.2021",
+    "longDate": "10. Jan. 2021 - 16:30",
+    "result": "-",
+    "displayInfo": "10. Jan. 2021 - 16:30",
+    "team1": {
+      "id": 104884,
+      "name": "EHC Burgdorf"
+    },
+    "team2": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20213236140029",
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "16.01.2021",
+    "longDate": "16. Jan. 2021 - 17:45",
+    "result": "-",
+    "displayInfo": "16. Jan. 2021 - 17:45",
+    "team1": {
+      "id": 105534,
+      "name": "Hockey Innerschwyz HCI I"
+    },
+    "team2": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20213236140034",
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "30.01.2021",
+    "longDate": "30. Jan. 2021 - 13:45",
+    "result": "-",
+    "displayInfo": "30. Jan. 2021 - 13:45",
+    "team1": {
+      "id": 105154,
+      "name": "HC Seetal"
+    },
+    "team2": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20213236140039",
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "06.02.2021",
+    "longDate": "6. Feb. 2021 - 10:45",
+    "result": "-",
+    "displayInfo": "6. Feb. 2021 - 10:45",
+    "team1": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104952,
+      "name": "Brandis Juniors"
+    },
+    "gameId": "20213236140044",
+    "place": "home"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "13.02.2021",
+    "longDate": "13. Feb. 2021 - 15:15",
+    "result": "-",
+    "displayInfo": "13. Feb. 2021 - 15:15",
+    "team1": {
+      "id": 105158,
+      "name": "EV Zug II"
+    },
+    "team2": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20213236140048",
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "21.02.2021",
+    "longDate": "21. Feb. 2021 - 10:15",
+    "result": "-",
+    "displayInfo": "21. Feb. 2021 - 10:15",
+    "team1": {
+      "id": 103961,
+      "name": "HC Luzern 1"
+    },
+    "team2": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20213236140051",
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "06.03.2021",
+    "longDate": "6. März 2021 - 17:15",
+    "result": "-",
+    "displayInfo": "6. März 2021 - 17:15",
+    "team1": {
+      "id": 104010,
+      "name": "HC Wohlen Freiamt"
+    },
+    "team2": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20213236140054",
+    "place": "away"
+  },
+  {
+    "saison": 2021,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "13.03.2021",
+    "longDate": "13. März 2021 - 10:30",
+    "result": "-",
+    "displayInfo": "13. März 2021 - 10:30",
+    "team1": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103961,
+      "name": "HC Luzern 1"
+    },
+    "gameId": "20213236140023",
+    "place": "home"
+  }
+]
