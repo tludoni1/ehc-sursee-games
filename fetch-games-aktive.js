@@ -2,7 +2,7 @@
 import fetch from "node-fetch";
 import fs from "fs";
 
-const DEBUG = false;
+const DEBUG = true;
 
 // Saison aus Parameter lesen
 const SAISON = parseInt(process.argv[2], 10);
