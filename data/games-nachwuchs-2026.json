@@ -1297,8 +1297,8 @@
     "leagueId": 123,
     "date": "13.09.2025",
     "longDate": "13. Sep. 2025 - 14:15",
-    "result": "-",
-    "displayInfo": "13. Sep. 2025 - 14:15",
+    "result": "7:12",
+    "displayInfo": "7:12",
     "team1": {
       "id": 105149,
       "name": "GDT Bellinzona"
