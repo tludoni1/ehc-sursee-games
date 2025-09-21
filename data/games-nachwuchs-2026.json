@@ -917,8 +917,8 @@
     "leagueId": 121,
     "date": "20.09.2025",
     "longDate": "20. Sep. 2025 - 16:45",
-    "result": "-",
-    "displayInfo": "20. Sep. 2025 - 16:45",
+    "result": "4:5",
+    "displayInfo": "4:5",
     "team1": {
       "id": 105883,
       "name": "LUNOXX Hockey"
@@ -1316,8 +1316,8 @@
     "leagueId": 123,
     "date": "20.09.2025",
     "longDate": "20. Sep. 2025 - 16:30",
-    "result": "-",
-    "displayInfo": "20. Sep. 2025 - 16:30",
+    "result": "2:9",
+    "displayInfo": "2:9",
     "team1": {
       "id": 105957,
       "name": "EHC Sursee"
