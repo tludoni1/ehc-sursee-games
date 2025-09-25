@@ -1335,8 +1335,8 @@
     "leagueId": 123,
     "date": "24.09.2025",
     "longDate": "24. Sep. 2025 - 18:15",
-    "result": "-",
-    "displayInfo": "24. Sep. 2025 - 18:15",
+    "result": "9:2",
+    "displayInfo": "9:2",
     "team1": {
       "id": 105957,
       "name": "EHC Sursee"
