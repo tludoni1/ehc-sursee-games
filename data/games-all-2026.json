@@ -24,8 +24,8 @@
     "leagueId": 115,
     "date": "05.10.2025",
     "longDate": "5. Okt. 2025 - 19:15",
-    "result": "-",
-    "displayInfo": "5. Okt. 2025 - 19:15",
+    "result": "4:5",
+    "displayInfo": "4:5",
     "team1": {
       "id": 105774,
       "name": "EHC Sursee"
@@ -480,8 +480,8 @@
     "leagueId": 118,
     "date": "05.10.2025",
     "longDate": "5. Okt. 2025 - 16:30",
-    "result": "-",
-    "displayInfo": "5. Okt. 2025 - 16:30",
+    "result": "2:3",
+    "displayInfo": "2:3",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -1810,8 +1810,8 @@
     "leagueId": 124,
     "date": "05.10.2025",
     "longDate": "5. Okt. 2025 - 13:45",
-    "result": "-",
-    "displayInfo": "5. Okt. 2025 - 13:45",
+    "result": "3:11",
+    "displayInfo": "3:11",
     "team1": {
       "id": 105514,
       "name": "EHC Sursee"
