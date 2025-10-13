@@ -43,8 +43,8 @@
     "leagueId": 115,
     "date": "12.10.2025",
     "longDate": "12. Okt. 2025 - 17:00",
-    "result": "-",
-    "displayInfo": "12. Okt. 2025 - 17:00",
+    "result": "8:3",
+    "displayInfo": "8:3",
     "team1": {
       "id": 105010,
       "name": "HC Huskys"
@@ -2228,8 +2228,8 @@
     "leagueId": 10,
     "date": "12.10.2025",
     "longDate": "12. Okt. 2025 - 19:00",
-    "result": "-",
-    "displayInfo": "12. Okt. 2025 - 19:00",
+    "result": "3:2",
+    "displayInfo": "3:2",
     "team1": {
       "id": 103164,
       "name": "EHC Meinisberg I"
@@ -2532,8 +2532,8 @@
     "leagueId": 43,
     "date": "12.10.2025",
     "longDate": "12. Okt. 2025 - 18:00",
-    "result": "-",
-    "displayInfo": "12. Okt. 2025 - 18:00",
+    "result": "3:1",
+    "displayInfo": "3:1",
     "team1": {
       "id": 103700,
       "name": "EHC Sursee"
