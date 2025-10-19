@@ -43,8 +43,8 @@
     "leagueId": 10,
     "date": "18.10.2025",
     "longDate": "18. Okt. 2025 - 17:30",
-    "result": "-",
-    "displayInfo": "18. Okt. 2025 - 17:30",
+    "result": "4:7",
+    "displayInfo": "4:7",
     "team1": {
       "id": 103941,
       "name": "EHC Sursee"
@@ -613,8 +613,8 @@
     "leagueId": 19,
     "date": "18.10.2025",
     "longDate": "18. Okt. 2025 - 15:15",
-    "result": "-",
-    "displayInfo": "18. Okt. 2025 - 15:15",
+    "result": "6:4",
+    "displayInfo": "6:4",
     "team1": {
       "id": 104304,
       "name": "HC Zugerland"

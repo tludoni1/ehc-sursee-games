@@ -518,8 +518,8 @@
     "leagueId": 118,
     "date": "18.10.2025",
     "longDate": "18. Okt. 2025 - 20:15",
-    "result": "-",
-    "displayInfo": "18. Okt. 2025 - 20:15",
+    "result": "2:7",
+    "displayInfo": "2:7",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -1373,8 +1373,8 @@
     "leagueId": 123,
     "date": "18.10.2025",
     "longDate": "18. Okt. 2025 - 14:15",
-    "result": "-",
-    "displayInfo": "18. Okt. 2025 - 14:15",
+    "result": "10:2",
+    "displayInfo": "10:2",
     "team1": {
       "id": 105957,
       "name": "EHC Sursee"
@@ -1848,8 +1848,8 @@
     "leagueId": 124,
     "date": "18.10.2025",
     "longDate": "18. Okt. 2025 - 11:30",
-    "result": "-",
-    "displayInfo": "18. Okt. 2025 - 11:30",
+    "result": "4:3",
+    "displayInfo": "4:3",
     "team1": {
       "id": 105514,
       "name": "EHC Sursee"
@@ -2247,8 +2247,8 @@
     "leagueId": 10,
     "date": "18.10.2025",
     "longDate": "18. Okt. 2025 - 17:30",
-    "result": "-",
-    "displayInfo": "18. Okt. 2025 - 17:30",
+    "result": "4:7",
+    "displayInfo": "4:7",
     "team1": {
       "id": 103941,
       "name": "EHC Sursee"
@@ -2817,8 +2817,8 @@
     "leagueId": 19,
     "date": "18.10.2025",
     "longDate": "18. Okt. 2025 - 15:15",
-    "result": "-",
-    "displayInfo": "18. Okt. 2025 - 15:15",
+    "result": "6:4",
+    "displayInfo": "6:4",
     "team1": {
       "id": 104304,
       "name": "HC Zugerland"
