@@ -1392,8 +1392,8 @@
     "leagueId": 123,
     "date": "22.10.2025",
     "longDate": "22. Okt. 2025 - 18:00",
-    "result": "-",
-    "displayInfo": "22. Okt. 2025 - 18:00",
+    "result": "9:8",
+    "displayInfo": "9:8",
     "team1": {
       "id": 105957,
       "name": "EHC Sursee"
@@ -2266,8 +2266,8 @@
     "leagueId": 10,
     "date": "22.10.2025",
     "longDate": "22. Okt. 2025 - 20:30",
-    "result": "-",
-    "displayInfo": "22. Okt. 2025 - 20:30",
+    "result": "2:5",
+    "displayInfo": "2:5",
     "team1": {
       "id": 103169,
       "name": "EHC Rheinfelden"
@@ -3120,9 +3120,9 @@
     "team": "EHC Sursee Senioren",
     "leagueId": 37,
     "date": "09.11.2025",
-    "longDate": "9. Nov. 2025 - 19:30",
+    "longDate": "9. Nov. 2025 - 20:00",
     "result": "-",
-    "displayInfo": "9. Nov. 2025 - 19:30",
+    "displayInfo": "9. Nov. 2025 - 20:00",
     "team1": {
       "id": 105810,
       "name": "EHC Sursee"
