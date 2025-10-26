@@ -81,8 +81,8 @@
     "leagueId": 10,
     "date": "25.10.2025",
     "longDate": "25. Okt. 2025 - 20:15",
-    "result": "-",
-    "displayInfo": "25. Okt. 2025 - 20:15",
+    "result": "6:1",
+    "displayInfo": "6:1",
     "team1": {
       "id": 103941,
       "name": "EHC Sursee"
@@ -632,8 +632,8 @@
     "leagueId": 19,
     "date": "25.10.2025",
     "longDate": "25. Okt. 2025 - 18:15",
-    "result": "-",
-    "displayInfo": "25. Okt. 2025 - 18:15",
+    "result": "4:1",
+    "displayInfo": "4:1",
     "team1": {
       "id": 103940,
       "name": "KSC Küssnacht am Rigi II"
