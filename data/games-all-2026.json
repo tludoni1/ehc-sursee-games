@@ -556,8 +556,8 @@
     "leagueId": 118,
     "date": "01.11.2025",
     "longDate": "1. Nov. 2025 - 15:00",
-    "result": "-",
-    "displayInfo": "1. Nov. 2025 - 15:00",
+    "result": "4:2",
+    "displayInfo": "4:2",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -2304,8 +2304,8 @@
     "leagueId": 10,
     "date": "01.11.2025",
     "longDate": "1. Nov. 2025 - 17:45",
-    "result": "-",
-    "displayInfo": "1. Nov. 2025 - 17:45",
+    "result": "10:1",
+    "displayInfo": "10:1",
     "team1": {
       "id": 102077,
       "name": "EHC Zuchwil Regio"
@@ -2589,8 +2589,8 @@
     "leagueId": 43,
     "date": "01.11.2025",
     "longDate": "1. Nov. 2025 - 19:45",
-    "result": "-",
-    "displayInfo": "1. Nov. 2025 - 19:45",
+    "result": "5:1",
+    "displayInfo": "5:1",
     "team1": {
       "id": 104907,
       "name": "Brandis Juniors Ladies"
@@ -2855,8 +2855,8 @@
     "leagueId": 19,
     "date": "01.11.2025",
     "longDate": "1. Nov. 2025 - 20:15",
-    "result": "-",
-    "displayInfo": "1. Nov. 2025 - 20:15",
+    "result": "3:6",
+    "displayInfo": "3:6",
     "team1": {
       "id": 103756,
       "name": "Eishockeyclub Uri"
