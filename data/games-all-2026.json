@@ -575,8 +575,8 @@
     "leagueId": 118,
     "date": "08.11.2025",
     "longDate": "8. Nov. 2025 - 17:00",
-    "result": "-",
-    "displayInfo": "8. Nov. 2025 - 17:00",
+    "result": "12:5",
+    "displayInfo": "12:5",
     "team1": {
       "id": 105751,
       "name": "HC Rivers"
@@ -1430,8 +1430,8 @@
     "leagueId": 123,
     "date": "08.11.2025",
     "longDate": "8. Nov. 2025 - 17:00",
-    "result": "-",
-    "displayInfo": "8. Nov. 2025 - 17:00",
+    "result": "8:4",
+    "displayInfo": "8:4",
     "team1": {
       "id": 105957,
       "name": "EHC Sursee"
@@ -1886,8 +1886,8 @@
     "leagueId": 124,
     "date": "08.11.2025",
     "longDate": "8. Nov. 2025 - 11:30",
-    "result": "-",
-    "displayInfo": "8. Nov. 2025 - 11:30",
+    "result": "3:16",
+    "displayInfo": "3:16",
     "team1": {
       "id": 105514,
       "name": "EHC Sursee"
@@ -2874,8 +2874,8 @@
     "leagueId": 19,
     "date": "08.11.2025",
     "longDate": "8. Nov. 2025 - 19:45",
-    "result": "-",
-    "displayInfo": "8. Nov. 2025 - 19:45",
+    "result": "7:1",
+    "displayInfo": "7:1",
     "team1": {
       "id": 105481,
       "name": "HC Luzern"
