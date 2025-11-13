@@ -1449,8 +1449,8 @@
     "leagueId": 123,
     "date": "12.11.2025",
     "longDate": "12. Nov. 2025 - 17:45",
-    "result": "-",
-    "displayInfo": "12. Nov. 2025 - 17:45",
+    "result": "5:6",
+    "displayInfo": "5:6",
     "team1": {
       "id": 105868,
       "name": "LUNOXX Seetal"

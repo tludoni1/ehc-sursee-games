@@ -1449,8 +1449,8 @@
     "leagueId": 123,
     "date": "12.11.2025",
     "longDate": "12. Nov. 2025 - 17:45",
-    "result": "-",
-    "displayInfo": "12. Nov. 2025 - 17:45",
+    "result": "5:6",
+    "displayInfo": "5:6",
     "team1": {
       "id": 105868,
       "name": "LUNOXX Seetal"
@@ -2911,9 +2911,9 @@
     "team": "EHC Sursee 2. Mannschaft",
     "leagueId": 19,
     "date": "15.11.2025",
-    "longDate": "15. Nov. 2025 - 20:00",
+    "longDate": "15. Nov. 2025 - 17:00",
     "result": "-",
-    "displayInfo": "15. Nov. 2025 - 20:00",
+    "displayInfo": "15. Nov. 2025 - 17:00",
     "team1": {
       "id": 104319,
       "name": "EHC Sursee"
