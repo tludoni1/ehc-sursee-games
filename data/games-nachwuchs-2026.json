@@ -592,25 +592,6 @@
     "saison": 2026,
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
-    "date": "15.11.2025",
-    "longDate": "15. Nov. 2025 - 20:00",
-    "result": "-",
-    "displayInfo": "15. Nov. 2025 - 20:00",
-    "team1": {
-      "id": 103369,
-      "name": "Argovia Stars"
-    },
-    "team2": {
-      "id": 104511,
-      "name": "EHC Sursee"
-    },
-    "gameId": "20263215110041",
-    "place": "away"
-  },
-  {
-    "saison": 2026,
-    "team": "EHC Sursee U18 A",
-    "leagueId": 118,
     "date": "29.11.2025",
     "longDate": "29. Nov. 2025 - 11:30",
     "result": "-",
@@ -700,6 +681,25 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263215110071",
+    "place": "away"
+  },
+  {
+    "saison": 2026,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "10.01.2026",
+    "longDate": "10. Jan. 2026 - 20:00",
+    "result": "-",
+    "displayInfo": "10. Jan. 2026 - 20:00",
+    "team1": {
+      "id": 103369,
+      "name": "Argovia Stars"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20263215110041",
     "place": "away"
   },
   {
