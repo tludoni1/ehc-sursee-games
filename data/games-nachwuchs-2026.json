@@ -1543,9 +1543,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "04.01.2026",
-    "longDate": "4. Jan. 2026 - 11:30",
+    "longDate": "4. Jan. 2026 - 12:15",
     "result": "-",
-    "displayInfo": "4. Jan. 2026 - 11:30",
+    "displayInfo": "4. Jan. 2026 - 12:15",
     "team1": {
       "id": 104005,
       "name": "HC Lugano 1 NERO"
@@ -1638,9 +1638,9 @@
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
     "date": "07.02.2026",
-    "longDate": "7. Feb. 2026 - 12:15",
+    "longDate": "7. Feb. 2026 - 15:00",
     "result": "-",
-    "displayInfo": "7. Feb. 2026 - 12:15",
+    "displayInfo": "7. Feb. 2026 - 15:00",
     "team1": {
       "id": 105660,
       "name": "HC Lugano 2 BIANCO"
@@ -2094,9 +2094,9 @@
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
     "date": "31.01.2026",
-    "longDate": "31. Jan. 2026 - 15:00",
+    "longDate": "31. Jan. 2026 - 16:00",
     "result": "-",
-    "displayInfo": "31. Jan. 2026 - 15:00",
+    "displayInfo": "31. Jan. 2026 - 16:00",
     "team1": {
       "id": 103878,
       "name": "HC Lugano"
