@@ -1468,8 +1468,8 @@
     "leagueId": 123,
     "date": "22.11.2025",
     "longDate": "22. Nov. 2025 - 16:45",
-    "result": "-",
-    "displayInfo": "22. Nov. 2025 - 16:45",
+    "result": "11:2",
+    "displayInfo": "11:2",
     "team1": {
       "id": 105957,
       "name": "EHC Sursee"
@@ -1504,10 +1504,10 @@
     "saison": 2026,
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
-    "date": "17.12.2025",
-    "longDate": "17. Dez. 2025 - 17:00",
+    "date": "10.12.2025",
+    "longDate": "10. Dez. 2025 - 17:00",
     "result": "-",
-    "displayInfo": "17. Dez. 2025 - 17:00",
+    "displayInfo": "10. Dez. 2025 - 17:00",
     "team1": {
       "id": 105683,
       "name": "Hockey Innerschwyz HCI I"

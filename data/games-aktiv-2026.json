@@ -157,8 +157,8 @@
     "leagueId": 10,
     "date": "22.11.2025",
     "longDate": "22. Nov. 2025 - 20:00",
-    "result": "-",
-    "displayInfo": "22. Nov. 2025 - 20:00",
+    "result": "3:2",
+    "displayInfo": "3:2",
     "team1": {
       "id": 103941,
       "name": "EHC Sursee"
@@ -727,8 +727,8 @@
     "leagueId": 19,
     "date": "22.11.2025",
     "longDate": "22. Nov. 2025 - 19:45",
-    "result": "-",
-    "displayInfo": "22. Nov. 2025 - 19:45",
+    "result": "10:2",
+    "displayInfo": "10:2",
     "team1": {
       "id": 103584,
       "name": "HC Seetal"
