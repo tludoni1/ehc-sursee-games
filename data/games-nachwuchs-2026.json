@@ -119,8 +119,8 @@
     "leagueId": 115,
     "date": "23.11.2025",
     "longDate": "23. Nov. 2025 - 19:15",
-    "result": "-",
-    "displayInfo": "23. Nov. 2025 - 19:15",
+    "result": "3:5",
+    "displayInfo": "3:5",
     "team1": {
       "id": 105898,
       "name": "HC Dragon Thun"
@@ -1050,8 +1050,8 @@
     "leagueId": 121,
     "date": "23.11.2025",
     "longDate": "23. Nov. 2025 - 16:45",
-    "result": "-",
-    "displayInfo": "23. Nov. 2025 - 16:45",
+    "result": "19:2",
+    "displayInfo": "19:2",
     "team1": {
       "id": 103984,
       "name": "EHC Sursee"
@@ -1924,8 +1924,8 @@
     "leagueId": 124,
     "date": "23.11.2025",
     "longDate": "23. Nov. 2025 - 10:45",
-    "result": "-",
-    "displayInfo": "23. Nov. 2025 - 10:45",
+    "result": "4:8",
+    "displayInfo": "4:8",
     "team1": {
       "id": 105514,
       "name": "EHC Sursee"
