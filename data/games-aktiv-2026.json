@@ -176,8 +176,8 @@
     "leagueId": 10,
     "date": "29.11.2025",
     "longDate": "29. Nov. 2025 - 17:30",
-    "result": "-",
-    "displayInfo": "29. Nov. 2025 - 17:30",
+    "result": "5:0",
+    "displayInfo": "5:0",
     "team1": {
       "id": 104179,
       "name": "EHC Zunzgen-Sissach"
@@ -442,8 +442,8 @@
     "leagueId": 43,
     "date": "29.11.2025",
     "longDate": "29. Nov. 2025 - 20:15",
-    "result": "-",
-    "displayInfo": "29. Nov. 2025 - 20:15",
+    "result": "0:4",
+    "displayInfo": "0:4",
     "team1": {
       "id": 103700,
       "name": "EHC Sursee"
