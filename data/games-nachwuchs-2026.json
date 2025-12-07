@@ -613,8 +613,8 @@
     "leagueId": 118,
     "date": "06.12.2025",
     "longDate": "6. Dez. 2025 - 17:15",
-    "result": "-",
-    "displayInfo": "6. Dez. 2025 - 17:15",
+    "result": "10:2",
+    "displayInfo": "10:2",
     "team1": {
       "id": 106074,
       "name": "HC NWU Red"
@@ -1088,8 +1088,8 @@
     "leagueId": 121,
     "date": "06.12.2025",
     "longDate": "6. Dez. 2025 - 16:30",
-    "result": "-",
-    "displayInfo": "6. Dez. 2025 - 16:30",
+    "result": "1:5",
+    "displayInfo": "1:5",
     "team1": {
       "id": 105531,
       "name": "Hockey Innerschwyz HCI"
@@ -1485,25 +1485,6 @@
     "saison": 2026,
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
-    "date": "06.12.2025",
-    "longDate": "6. Dez. 2025 - 17:00",
-    "result": "-",
-    "displayInfo": "6. Dez. 2025 - 17:00",
-    "team1": {
-      "id": 105732,
-      "name": "HC Rivers"
-    },
-    "team2": {
-      "id": 105957,
-      "name": "EHC Sursee"
-    },
-    "gameId": "20263235110019",
-    "place": "away"
-  },
-  {
-    "saison": 2026,
-    "team": "EHC Sursee U14 Top",
-    "leagueId": 123,
     "date": "10.12.2025",
     "longDate": "10. Dez. 2025 - 17:00",
     "result": "-",
@@ -1688,6 +1669,25 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263235110120",
+    "place": "away"
+  },
+  {
+    "saison": 2026,
+    "team": "EHC Sursee U14 Top",
+    "leagueId": 123,
+    "date": "01.03.2026",
+    "longDate": "1. März 2026 - 17:00",
+    "result": "-",
+    "displayInfo": "1. März 2026 - 17:00",
+    "team1": {
+      "id": 105732,
+      "name": "HC Rivers"
+    },
+    "team2": {
+      "id": 105957,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20263235110019",
     "place": "away"
   },
   {
