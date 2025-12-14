@@ -632,8 +632,8 @@
     "leagueId": 118,
     "date": "13.12.2025",
     "longDate": "13. Dez. 2025 - 11:30",
-    "result": "-",
-    "displayInfo": "13. Dez. 2025 - 11:30",
+    "result": "1:8",
+    "displayInfo": "1:8",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -2418,8 +2418,8 @@
     "leagueId": 10,
     "date": "13.12.2025",
     "longDate": "13. Dez. 2025 - 20:00",
-    "result": "-",
-    "displayInfo": "13. Dez. 2025 - 20:00",
+    "result": "3:5",
+    "displayInfo": "3:5",
     "team1": {
       "id": 103162,
       "name": "EHC Koppigen"
@@ -2969,8 +2969,8 @@
     "leagueId": 19,
     "date": "13.12.2025",
     "longDate": "13. Dez. 2025 - 19:00",
-    "result": "-",
-    "displayInfo": "13. Dez. 2025 - 19:00",
+    "result": "10:2",
+    "displayInfo": "10:2",
     "team1": {
       "id": 104319,
       "name": "EHC Sursee"
