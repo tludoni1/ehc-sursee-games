@@ -157,8 +157,8 @@
     "leagueId": 115,
     "date": "14.12.2025",
     "longDate": "14. Dez. 2025 - 19:30",
-    "result": "-",
-    "displayInfo": "14. Dez. 2025 - 19:30",
+    "result": "4:3",
+    "displayInfo": "4:3",
     "team1": {
       "id": 105774,
       "name": "EHC Sursee"
@@ -651,8 +651,8 @@
     "leagueId": 118,
     "date": "14.12.2025",
     "longDate": "14. Dez. 2025 - 19:30",
-    "result": "-",
-    "displayInfo": "14. Dez. 2025 - 19:30",
+    "result": "8:0",
+    "displayInfo": "8:0",
     "team1": {
       "id": 105995,
       "name": "EHC Olten Prospect"
@@ -1107,8 +1107,8 @@
     "leagueId": 121,
     "date": "14.12.2025",
     "longDate": "14. Dez. 2025 - 16:45",
-    "result": "-",
-    "displayInfo": "14. Dez. 2025 - 16:45",
+    "result": "3:2",
+    "displayInfo": "3:2",
     "team1": {
       "id": 103984,
       "name": "EHC Sursee"
@@ -1981,8 +1981,8 @@
     "leagueId": 124,
     "date": "14.12.2025",
     "longDate": "14. Dez. 2025 - 14:30",
-    "result": "-",
-    "displayInfo": "14. Dez. 2025 - 14:30",
+    "result": "6:2",
+    "displayInfo": "6:2",
     "team1": {
       "id": 105715,
       "name": "HC Rivers"
