@@ -1506,8 +1506,8 @@
     "leagueId": 123,
     "date": "20.12.2025",
     "longDate": "20. Dez. 2025 - 11:30",
-    "result": "-",
-    "displayInfo": "20. Dez. 2025 - 11:30",
+    "result": "8:3",
+    "displayInfo": "8:3",
     "team1": {
       "id": 105957,
       "name": "EHC Sursee"
@@ -2000,8 +2000,8 @@
     "leagueId": 124,
     "date": "20.12.2025",
     "longDate": "20. Dez. 2025 - 17:30",
-    "result": "-",
-    "displayInfo": "20. Dez. 2025 - 17:30",
+    "result": "1:9",
+    "displayInfo": "1:9",
     "team1": {
       "id": 105514,
       "name": "EHC Sursee"
