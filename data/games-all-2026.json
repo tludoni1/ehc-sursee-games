@@ -670,8 +670,8 @@
     "leagueId": 118,
     "date": "03.01.2026",
     "longDate": "3. Jan. 2026 - 14:15",
-    "result": "-",
-    "displayInfo": "3. Jan. 2026 - 14:15",
+    "result": "0:2",
+    "displayInfo": "0:2",
     "team1": {
       "id": 105132,
       "name": "HC Luzern"
@@ -1145,8 +1145,8 @@
     "leagueId": 121,
     "date": "03.01.2026",
     "longDate": "3. Jan. 2026 - 16:45",
-    "result": "-",
-    "displayInfo": "3. Jan. 2026 - 16:45",
+    "result": "2:3",
+    "displayInfo": "2:3",
     "team1": {
       "id": 103984,
       "name": "EHC Sursee"
@@ -2019,8 +2019,8 @@
     "leagueId": 124,
     "date": "03.01.2026",
     "longDate": "3. Jan. 2026 - 14:15",
-    "result": "-",
-    "displayInfo": "3. Jan. 2026 - 14:15",
+    "result": "9:1",
+    "displayInfo": "9:1",
     "team1": {
       "id": 105328,
       "name": "GDT Bellinzona"
