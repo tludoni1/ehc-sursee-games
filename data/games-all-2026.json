@@ -195,8 +195,8 @@
     "leagueId": 115,
     "date": "04.01.2026",
     "longDate": "4. Jan. 2026 - 18:30",
-    "result": "-",
-    "displayInfo": "4. Jan. 2026 - 18:30",
+    "result": "3:1",
+    "displayInfo": "3:1",
     "team1": {
       "id": 104897,
       "name": "Beo Young Yetis"
@@ -1164,8 +1164,8 @@
     "leagueId": 121,
     "date": "04.01.2026",
     "longDate": "4. Jan. 2026 - 17:15",
-    "result": "-",
-    "displayInfo": "4. Jan. 2026 - 17:15",
+    "result": "15:3",
+    "displayInfo": "15:3",
     "team1": {
       "id": 105779,
       "name": "HC NWU"
@@ -1525,8 +1525,8 @@
     "leagueId": 123,
     "date": "04.01.2026",
     "longDate": "4. Jan. 2026 - 12:15",
-    "result": "-",
-    "displayInfo": "4. Jan. 2026 - 12:15",
+    "result": "2:3",
+    "displayInfo": "2:3",
     "team1": {
       "id": 104005,
       "name": "HC Lugano 1 NERO"
@@ -2988,8 +2988,8 @@
     "leagueId": 19,
     "date": "04.01.2026",
     "longDate": "4. Jan. 2026 - 16:45",
-    "result": "-",
-    "displayInfo": "4. Jan. 2026 - 16:45",
+    "result": "1:5",
+    "displayInfo": "1:5",
     "team1": {
       "id": 104319,
       "name": "EHC Sursee"
