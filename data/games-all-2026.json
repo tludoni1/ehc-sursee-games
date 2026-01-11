@@ -689,8 +689,8 @@
     "leagueId": 118,
     "date": "10.01.2026",
     "longDate": "10. Jan. 2026 - 20:00",
-    "result": "-",
-    "displayInfo": "10. Jan. 2026 - 20:00",
+    "result": "8:4",
+    "displayInfo": "8:4",
     "team1": {
       "id": 103369,
       "name": "Argovia Stars"
@@ -2038,8 +2038,8 @@
     "leagueId": 124,
     "date": "10.01.2026",
     "longDate": "10. Jan. 2026 - 11:30",
-    "result": "-",
-    "displayInfo": "10. Jan. 2026 - 11:30",
+    "result": "3:6",
+    "displayInfo": "3:6",
     "team1": {
       "id": 105514,
       "name": "EHC Sursee"
@@ -2456,8 +2456,8 @@
     "leagueId": 10,
     "date": "10.01.2026",
     "longDate": "10. Jan. 2026 - 20:45",
-    "result": "-",
-    "displayInfo": "10. Jan. 2026 - 20:45",
+    "result": "2:3",
+    "displayInfo": "2:3",
     "team1": {
       "id": 103156,
       "name": "SC Altstadt Olten"
@@ -3007,8 +3007,8 @@
     "leagueId": 19,
     "date": "10.01.2026",
     "longDate": "10. Jan. 2026 - 19:30",
-    "result": "-",
-    "displayInfo": "10. Jan. 2026 - 19:30",
+    "result": "10:2",
+    "displayInfo": "10:2",
     "team1": {
       "id": 103584,
       "name": "HC Seetal"
@@ -3197,8 +3197,8 @@
     "leagueId": 37,
     "date": "10.01.2026",
     "longDate": "10. Jan. 2026 - 19:30",
-    "result": "-",
-    "displayInfo": "10. Jan. 2026 - 19:30",
+    "result": "12:10",
+    "displayInfo": "12:10",
     "team1": {
       "id": 105810,
       "name": "EHC Sursee"

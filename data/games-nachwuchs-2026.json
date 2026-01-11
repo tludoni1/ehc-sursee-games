@@ -689,8 +689,8 @@
     "leagueId": 118,
     "date": "10.01.2026",
     "longDate": "10. Jan. 2026 - 20:00",
-    "result": "-",
-    "displayInfo": "10. Jan. 2026 - 20:00",
+    "result": "8:4",
+    "displayInfo": "8:4",
     "team1": {
       "id": 103369,
       "name": "Argovia Stars"
@@ -2038,8 +2038,8 @@
     "leagueId": 124,
     "date": "10.01.2026",
     "longDate": "10. Jan. 2026 - 11:30",
-    "result": "-",
-    "displayInfo": "10. Jan. 2026 - 11:30",
+    "result": "3:6",
+    "displayInfo": "3:6",
     "team1": {
       "id": 105514,
       "name": "EHC Sursee"
