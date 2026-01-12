@@ -214,8 +214,8 @@
     "leagueId": 115,
     "date": "11.01.2026",
     "longDate": "11. Jan. 2026 - 19:30",
-    "result": "-",
-    "displayInfo": "11. Jan. 2026 - 19:30",
+    "result": "4:6",
+    "displayInfo": "4:6",
     "team1": {
       "id": 105774,
       "name": "EHC Sursee"
@@ -708,8 +708,8 @@
     "leagueId": 118,
     "date": "11.01.2026",
     "longDate": "11. Jan. 2026 - 17:00",
-    "result": "-",
-    "displayInfo": "11. Jan. 2026 - 17:00",
+    "result": "8:3",
+    "displayInfo": "8:3",
     "team1": {
       "id": 105751,
       "name": "HC Rivers"
@@ -1183,8 +1183,8 @@
     "leagueId": 121,
     "date": "11.01.2026",
     "longDate": "11. Jan. 2026 - 16:45",
-    "result": "-",
-    "displayInfo": "11. Jan. 2026 - 16:45",
+    "result": "6:4",
+    "displayInfo": "6:4",
     "team1": {
       "id": 103984,
       "name": "EHC Sursee"
