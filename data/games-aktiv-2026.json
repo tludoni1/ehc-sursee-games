@@ -267,6 +267,63 @@
   },
   {
     "saison": 2026,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "13.01.2026",
+    "longDate": "13. Jan. 2026 - 20:15",
+    "result": "-",
+    "displayInfo": "13. Jan. 2026 - 20:15",
+    "team1": {
+      "id": 104179,
+      "name": "EHC Zunzgen-Sissach"
+    },
+    "team2": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20263135130057",
+    "place": "away"
+  },
+  {
+    "saison": 2026,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "17.01.2026",
+    "longDate": "17. Jan. 2026 - 17:45",
+    "result": "-",
+    "displayInfo": "17. Jan. 2026 - 17:45",
+    "team1": {
+      "id": 102077,
+      "name": "EHC Zuchwil Regio"
+    },
+    "team2": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20263135130059",
+    "place": "away"
+  },
+  {
+    "saison": 2026,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "24.01.2026",
+    "longDate": "24. Jan. 2026 - 17:15",
+    "result": "-",
+    "displayInfo": "24. Jan. 2026 - 17:15",
+    "team1": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103164,
+      "name": "EHC Meinisberg I"
+    },
+    "gameId": "20263135130061",
+    "place": "home"
+  },
+  {
+    "saison": 2026,
     "team": "EHC Sursee Damen",
     "leagueId": 43,
     "date": "21.09.2025",
