@@ -1202,8 +1202,8 @@
     "leagueId": 121,
     "date": "17.01.2026",
     "longDate": "17. Jan. 2026 - 17:00",
-    "result": "-",
-    "displayInfo": "17. Jan. 2026 - 17:00",
+    "result": "1:6",
+    "displayInfo": "1:6",
     "team1": {
       "id": 106111,
       "name": "HC Rivers II"
@@ -1563,8 +1563,8 @@
     "leagueId": 123,
     "date": "17.01.2026",
     "longDate": "17. Jan. 2026 - 13:30",
-    "result": "-",
-    "displayInfo": "17. Jan. 2026 - 13:30",
+    "result": "0:9",
+    "displayInfo": "0:9",
     "team1": {
       "id": 104000,
       "name": "HCAP Giovani"
@@ -2056,9 +2056,9 @@
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
     "date": "17.01.2026",
-    "longDate": "17. Jan. 2026 - 12:00",
-    "result": "-",
-    "displayInfo": "17. Jan. 2026 - 12:00",
+    "longDate": "17. Jan. 2026 - 12:14",
+    "result": "7:5",
+    "displayInfo": "7:5",
     "team1": {
       "id": 104494,
       "name": "HCB Chiasso"

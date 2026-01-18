@@ -1202,8 +1202,8 @@
     "leagueId": 121,
     "date": "17.01.2026",
     "longDate": "17. Jan. 2026 - 17:00",
-    "result": "-",
-    "displayInfo": "17. Jan. 2026 - 17:00",
+    "result": "1:6",
+    "displayInfo": "1:6",
     "team1": {
       "id": 106111,
       "name": "HC Rivers II"
@@ -1563,8 +1563,8 @@
     "leagueId": 123,
     "date": "17.01.2026",
     "longDate": "17. Jan. 2026 - 13:30",
-    "result": "-",
-    "displayInfo": "17. Jan. 2026 - 13:30",
+    "result": "0:9",
+    "displayInfo": "0:9",
     "team1": {
       "id": 104000,
       "name": "HCAP Giovani"
@@ -2056,9 +2056,9 @@
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
     "date": "17.01.2026",
-    "longDate": "17. Jan. 2026 - 12:00",
-    "result": "-",
-    "displayInfo": "17. Jan. 2026 - 12:00",
+    "longDate": "17. Jan. 2026 - 12:14",
+    "result": "7:5",
+    "displayInfo": "7:5",
     "team1": {
       "id": 104494,
       "name": "HCB Chiasso"
@@ -2494,8 +2494,8 @@
     "leagueId": 10,
     "date": "17.01.2026",
     "longDate": "17. Jan. 2026 - 17:45",
-    "result": "-",
-    "displayInfo": "17. Jan. 2026 - 17:45",
+    "result": "6:2",
+    "displayInfo": "6:2",
     "team1": {
       "id": 102077,
       "name": "EHC Zuchwil Regio"
@@ -3081,25 +3081,6 @@
     "saison": 2026,
     "team": "EHC Sursee 2. Mannschaft",
     "leagueId": 19,
-    "date": "24.01.2026",
-    "longDate": "24. Jan. 2026 - 18:00",
-    "result": "-",
-    "displayInfo": "24. Jan. 2026 - 18:00",
-    "team1": {
-      "id": 103940,
-      "name": "KSC Küssnacht am Rigi II"
-    },
-    "team2": {
-      "id": 104319,
-      "name": "EHC Sursee"
-    },
-    "gameId": "20262155110039",
-    "place": "away"
-  },
-  {
-    "saison": 2026,
-    "team": "EHC Sursee 2. Mannschaft",
-    "leagueId": 19,
     "date": "31.01.2026",
     "longDate": "31. Jan. 2026 - 20:00",
     "result": "-",
@@ -3152,6 +3133,25 @@
     },
     "gameId": "20262155110045",
     "place": "home"
+  },
+  {
+    "saison": 2026,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "11.02.2026",
+    "longDate": "11. Feb. 2026 - 19:15",
+    "result": "-",
+    "displayInfo": "11. Feb. 2026 - 19:15",
+    "team1": {
+      "id": 103940,
+      "name": "KSC Küssnacht am Rigi II"
+    },
+    "team2": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20262155110039",
+    "place": "away"
   },
   {
     "saison": 2026,
