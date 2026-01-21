@@ -1219,25 +1219,6 @@
     "saison": 2026,
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
-    "date": "25.01.2026",
-    "longDate": "25. Jan. 2026 - 16:45",
-    "result": "-",
-    "displayInfo": "25. Jan. 2026 - 16:45",
-    "team1": {
-      "id": 103984,
-      "name": "EHC Sursee"
-    },
-    "team2": {
-      "id": 103295,
-      "name": "Argovia Stars"
-    },
-    "gameId": "20263228110108",
-    "place": "home"
-  },
-  {
-    "saison": 2026,
-    "team": "EHC Sursee U16 A",
-    "leagueId": 121,
     "date": "01.02.2026",
     "longDate": "1. Feb. 2026 - 11:30",
     "result": "-",
@@ -1252,6 +1233,25 @@
     },
     "gameId": "20263228110114",
     "place": "away"
+  },
+  {
+    "saison": 2026,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "04.02.2026",
+    "longDate": "4. Feb. 2026 - 18:00",
+    "result": "-",
+    "displayInfo": "4. Feb. 2026 - 18:00",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103295,
+      "name": "Argovia Stars"
+    },
+    "gameId": "20263228110108",
+    "place": "home"
   },
   {
     "saison": 2026,
@@ -1580,25 +1580,6 @@
     "saison": 2026,
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
-    "date": "24.01.2026",
-    "longDate": "24. Jan. 2026 - 17:15",
-    "result": "-",
-    "displayInfo": "24. Jan. 2026 - 17:15",
-    "team1": {
-      "id": 105957,
-      "name": "EHC Sursee"
-    },
-    "team2": {
-      "id": 105868,
-      "name": "LUNOXX Seetal"
-    },
-    "gameId": "20263235110091",
-    "place": "home"
-  },
-  {
-    "saison": 2026,
-    "team": "EHC Sursee U14 Top",
-    "leagueId": 123,
     "date": "01.02.2026",
     "longDate": "1. Feb. 2026 - 13:45",
     "result": "-",
@@ -1651,6 +1632,25 @@
     },
     "gameId": "20263235110109",
     "place": "away"
+  },
+  {
+    "saison": 2026,
+    "team": "EHC Sursee U14 Top",
+    "leagueId": 123,
+    "date": "25.02.2026",
+    "longDate": "25. Feb. 2026 - 18:00",
+    "result": "-",
+    "displayInfo": "25. Feb. 2026 - 18:00",
+    "team1": {
+      "id": 105957,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105868,
+      "name": "LUNOXX Seetal"
+    },
+    "gameId": "20263235110091",
+    "place": "home"
   },
   {
     "saison": 2026,
