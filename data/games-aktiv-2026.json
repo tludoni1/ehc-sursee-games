@@ -651,8 +651,8 @@
     "leagueId": 43,
     "date": "01.02.2026",
     "longDate": "1. Feb. 2026 - 20:15",
-    "result": "-",
-    "displayInfo": "1. Feb. 2026 - 20:15",
+    "result": "4:0",
+    "displayInfo": "4:0",
     "team1": {
       "id": 103701,
       "name": "Lausanne HC Féminin"
@@ -955,8 +955,8 @@
     "leagueId": 19,
     "date": "01.02.2026",
     "longDate": "1. Feb. 2026 - 19:30",
-    "result": "-",
-    "displayInfo": "1. Feb. 2026 - 19:30",
+    "result": "3:10",
+    "displayInfo": "3:10",
     "team1": {
       "id": 104319,
       "name": "EHC Sursee"
