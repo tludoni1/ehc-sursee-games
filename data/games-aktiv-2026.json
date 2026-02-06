@@ -347,8 +347,8 @@
     "leagueId": 10,
     "date": "05.02.2026",
     "longDate": "5. Feb. 2026 - 20:30",
-    "result": "-",
-    "displayInfo": "5. Feb. 2026 - 20:30",
+    "result": "5:2",
+    "displayInfo": "5:2",
     "team1": {
       "id": 103782,
       "name": "EHC Bucheggberg"
@@ -359,25 +359,6 @@
     },
     "gameId": "20263135130072",
     "place": "away"
-  },
-  {
-    "saison": 2026,
-    "team": "EHC Sursee 1. Mannschaft",
-    "leagueId": 10,
-    "date": "07.02.2026",
-    "longDate": "7. Feb. 2026 - 17:30",
-    "result": "-",
-    "displayInfo": "7. Feb. 2026 - 17:30",
-    "team1": {
-      "id": 103941,
-      "name": "EHC Sursee"
-    },
-    "team2": {
-      "id": 103782,
-      "name": "EHC Bucheggberg"
-    },
-    "gameId": "20263135130074",
-    "place": "home"
   },
   {
     "saison": 2026,
