@@ -290,8 +290,8 @@
     "leagueId": 115,
     "date": "07.02.2026",
     "longDate": "7. Feb. 2026 - 17:30",
-    "result": "-",
-    "displayInfo": "7. Feb. 2026 - 17:30",
+    "result": "5:2",
+    "displayInfo": "5:2",
     "team1": {
       "id": 105937,
       "name": "EHC Schwarzenburg Köniz"
@@ -765,8 +765,8 @@
     "leagueId": 118,
     "date": "07.02.2026",
     "longDate": "7. Feb. 2026 - 20:15",
-    "result": "-",
-    "displayInfo": "7. Feb. 2026 - 20:15",
+    "result": "4:3",
+    "displayInfo": "4:3",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -1601,8 +1601,8 @@
     "leagueId": 123,
     "date": "07.02.2026",
     "longDate": "7. Feb. 2026 - 15:00",
-    "result": "-",
-    "displayInfo": "7. Feb. 2026 - 15:00",
+    "result": "5:6",
+    "displayInfo": "5:6",
     "team1": {
       "id": 105660,
       "name": "HC Lugano 2 BIANCO"
@@ -2114,8 +2114,8 @@
     "leagueId": 124,
     "date": "07.02.2026",
     "longDate": "7. Feb. 2026 - 11:30",
-    "result": "-",
-    "displayInfo": "7. Feb. 2026 - 11:30",
+    "result": "6:7",
+    "displayInfo": "6:7",
     "team1": {
       "id": 105514,
       "name": "EHC Sursee"
@@ -3367,9 +3367,9 @@
     "team": "EHC Sursee Senioren",
     "leagueId": 37,
     "date": "07.03.2026",
-    "longDate": "7. März 2026 - 17:00",
+    "longDate": "7. März 2026 - 16:30",
     "result": "-",
-    "displayInfo": "7. März 2026 - 17:00",
+    "displayInfo": "7. März 2026 - 16:30",
     "team1": {
       "id": 106271,
       "name": "HC Allenwinden Lumberjacks"
