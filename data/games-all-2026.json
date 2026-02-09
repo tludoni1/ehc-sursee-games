@@ -784,8 +784,8 @@
     "leagueId": 118,
     "date": "08.02.2026",
     "longDate": "8. Feb. 2026 - 16:45",
-    "result": "-",
-    "displayInfo": "8. Feb. 2026 - 16:45",
+    "result": "4:3",
+    "displayInfo": "4:3",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -1259,8 +1259,8 @@
     "leagueId": 121,
     "date": "08.02.2026",
     "longDate": "8. Feb. 2026 - 19:30",
-    "result": "-",
-    "displayInfo": "8. Feb. 2026 - 19:30",
+    "result": "7:4",
+    "displayInfo": "7:4",
     "team1": {
       "id": 103984,
       "name": "EHC Sursee"
@@ -2855,8 +2855,8 @@
     "leagueId": 43,
     "date": "08.02.2026",
     "longDate": "8. Feb. 2026 - 14:15",
-    "result": "-",
-    "displayInfo": "8. Feb. 2026 - 14:15",
+    "result": "4:1",
+    "displayInfo": "4:1",
     "team1": {
       "id": 105966,
       "name": "EHC Thun"
