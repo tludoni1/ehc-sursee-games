@@ -2131,25 +2131,6 @@
     "saison": 2026,
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
-    "date": "15.02.2026",
-    "longDate": "15. Feb. 2026 - 14:00",
-    "result": "-",
-    "displayInfo": "15. Feb. 2026 - 14:00",
-    "team1": {
-      "id": 105534,
-      "name": "Hockey Innerschwyz HCI I"
-    },
-    "team2": {
-      "id": 105514,
-      "name": "EHC Sursee"
-    },
-    "gameId": "20263236110072",
-    "place": "away"
-  },
-  {
-    "saison": 2026,
-    "team": "EHC Sursee U14 A",
-    "leagueId": 124,
     "date": "21.02.2026",
     "longDate": "21. Feb. 2026 - 11:30",
     "result": "-",
@@ -2182,6 +2163,25 @@
       "name": "EHC Sursee"
     },
     "gameId": "20263236110079",
+    "place": "away"
+  },
+  {
+    "saison": 2026,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "04.03.2026",
+    "longDate": "4. März 2026 - 17:00",
+    "result": "-",
+    "displayInfo": "4. März 2026 - 17:00",
+    "team1": {
+      "id": 105534,
+      "name": "Hockey Innerschwyz HCI I"
+    },
+    "team2": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20263236110072",
     "place": "away"
   },
   {
