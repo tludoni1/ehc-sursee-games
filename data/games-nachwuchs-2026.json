@@ -822,8 +822,8 @@
     "leagueId": 118,
     "date": "21.02.2026",
     "longDate": "21. Feb. 2026 - 20:00",
-    "result": "-",
-    "displayInfo": "21. Feb. 2026 - 20:00",
+    "result": "6:4",
+    "displayInfo": "6:4",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -2133,8 +2133,8 @@
     "leagueId": 124,
     "date": "21.02.2026",
     "longDate": "21. Feb. 2026 - 11:30",
-    "result": "-",
-    "displayInfo": "21. Feb. 2026 - 11:30",
+    "result": "6:9",
+    "displayInfo": "6:9",
     "team1": {
       "id": 105514,
       "name": "EHC Sursee"
