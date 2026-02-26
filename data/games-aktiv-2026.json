@@ -704,6 +704,101 @@
   },
   {
     "saison": 2026,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "28.02.2026",
+    "longDate": "28. Feb. 2026 - 20:00",
+    "result": "-",
+    "displayInfo": "28. Feb. 2026 - 20:00",
+    "team1": {
+      "id": 105966,
+      "name": "EHC Thun"
+    },
+    "team2": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20261186000103",
+    "place": "away"
+  },
+  {
+    "saison": 2026,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "07.03.2026",
+    "longDate": "7. März 2026 - 20:00",
+    "result": "-",
+    "displayInfo": "7. März 2026 - 20:00",
+    "team1": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105966,
+      "name": "EHC Thun"
+    },
+    "gameId": "20261186000104",
+    "place": "home"
+  },
+  {
+    "saison": 2026,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "15.03.2026",
+    "longDate": "15. März 2026 - 14:15",
+    "result": "-",
+    "displayInfo": "15. März 2026 - 14:15",
+    "team1": {
+      "id": 105966,
+      "name": "EHC Thun"
+    },
+    "team2": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20261186000105",
+    "place": "away"
+  },
+  {
+    "saison": 2026,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "21.03.2026",
+    "longDate": "21. März 2026 - 12:30",
+    "result": "-",
+    "displayInfo": "21. März 2026 - 12:30",
+    "team1": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105966,
+      "name": "EHC Thun"
+    },
+    "gameId": "20261186000106",
+    "place": "home"
+  },
+  {
+    "saison": 2026,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "22.03.2026",
+    "longDate": "22. März 2026 - 16:15",
+    "result": "-",
+    "displayInfo": "22. März 2026 - 16:15",
+    "team1": {
+      "id": 105966,
+      "name": "EHC Thun"
+    },
+    "team2": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20261186000107",
+    "place": "away"
+  },
+  {
+    "saison": 2026,
     "team": "EHC Sursee 2. Mannschaft",
     "leagueId": 19,
     "date": "18.10.2025",
