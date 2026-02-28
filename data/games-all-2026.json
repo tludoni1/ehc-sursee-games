@@ -1694,6 +1694,25 @@
     "saison": 2026,
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
+    "date": "04.03.2026",
+    "longDate": "4. März 2026 - 18:00",
+    "result": "-",
+    "displayInfo": "4. März 2026 - 18:00",
+    "team1": {
+      "id": 105957,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105660,
+      "name": "HC Lugano 2 BIANCO"
+    },
+    "gameId": "20263235110103",
+    "place": "home"
+  },
+  {
+    "saison": 2026,
+    "team": "EHC Sursee U14 Top",
+    "leagueId": 123,
     "date": "07.03.2026",
     "longDate": "7. März 2026 - 11:30",
     "result": "-",
@@ -1726,25 +1745,6 @@
       "name": "Hockey Innerschwyz HCI I"
     },
     "gameId": "20263235110025",
-    "place": "home"
-  },
-  {
-    "saison": 2026,
-    "team": "EHC Sursee U14 Top",
-    "leagueId": 123,
-    "date": "14.03.2026",
-    "longDate": "14. März 2026 - 17:00",
-    "result": "-",
-    "displayInfo": "14. März 2026 - 17:00",
-    "team1": {
-      "id": 105957,
-      "name": "EHC Sursee"
-    },
-    "team2": {
-      "id": 105660,
-      "name": "HC Lugano 2 BIANCO"
-    },
-    "gameId": "20263235110103",
     "place": "home"
   },
   {
