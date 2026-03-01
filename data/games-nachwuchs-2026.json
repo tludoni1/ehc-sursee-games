@@ -328,8 +328,8 @@
     "leagueId": 115,
     "date": "28.02.2026",
     "longDate": "28. Feb. 2026 - 20:00",
-    "result": "-",
-    "displayInfo": "28. Feb. 2026 - 20:00",
+    "result": "1:8",
+    "displayInfo": "1:8",
     "team1": {
       "id": 105731,
       "name": "HC Wisle"
@@ -1658,8 +1658,8 @@
     "leagueId": 123,
     "date": "28.02.2026",
     "longDate": "28. Feb. 2026 - 12:30",
-    "result": "-",
-    "displayInfo": "28. Feb. 2026 - 12:30",
+    "result": "20:0",
+    "displayInfo": "20:0",
     "team1": {
       "id": 105150,
       "name": "EV Zug I"

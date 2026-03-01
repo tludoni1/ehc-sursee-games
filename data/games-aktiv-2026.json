@@ -708,8 +708,8 @@
     "leagueId": 43,
     "date": "28.02.2026",
     "longDate": "28. Feb. 2026 - 20:00",
-    "result": "-",
-    "displayInfo": "28. Feb. 2026 - 20:00",
+    "result": "2:1",
+    "displayInfo": "2:1",
     "team1": {
       "id": 105966,
       "name": "EHC Thun"
@@ -1240,8 +1240,8 @@
     "leagueId": 37,
     "date": "28.02.2026",
     "longDate": "28. Feb. 2026 - 15:15",
-    "result": "-",
-    "displayInfo": "28. Feb. 2026 - 15:15",
+    "result": "6:4",
+    "displayInfo": "6:4",
     "team1": {
       "id": 104343,
       "name": "HC Zugerland"
