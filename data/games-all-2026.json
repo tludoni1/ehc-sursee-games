@@ -347,8 +347,8 @@
     "leagueId": 115,
     "date": "01.03.2026",
     "longDate": "1. März 2026 - 19:30",
-    "result": "-",
-    "displayInfo": "1. März 2026 - 19:30",
+    "result": "8:2",
+    "displayInfo": "8:2",
     "team1": {
       "id": 105774,
       "name": "EHC Sursee"
@@ -841,8 +841,8 @@
     "leagueId": 118,
     "date": "01.03.2026",
     "longDate": "1. März 2026 - 14:45",
-    "result": "-",
-    "displayInfo": "1. März 2026 - 14:45",
+    "result": "6:3",
+    "displayInfo": "6:3",
     "team1": {
       "id": 105387,
       "name": "EV Zug"
@@ -1677,8 +1677,8 @@
     "leagueId": 123,
     "date": "01.03.2026",
     "longDate": "1. März 2026 - 17:00",
-    "result": "-",
-    "displayInfo": "1. März 2026 - 17:00",
+    "result": "1:11",
+    "displayInfo": "1:11",
     "team1": {
       "id": 105732,
       "name": "HC Rivers"
@@ -2152,8 +2152,8 @@
     "leagueId": 124,
     "date": "01.03.2026",
     "longDate": "1. März 2026 - 10:00",
-    "result": "-",
-    "displayInfo": "1. März 2026 - 10:00",
+    "result": "14:2",
+    "displayInfo": "14:2",
     "team1": {
       "id": 103961,
       "name": "HC Luzern 1"
