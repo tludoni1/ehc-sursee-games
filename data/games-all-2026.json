@@ -859,9 +859,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "07.03.2026",
-    "longDate": "7. März 2026 - 19:00",
+    "longDate": "7. März 2026 - 17:15",
     "result": "-",
-    "displayInfo": "7. März 2026 - 19:00",
+    "displayInfo": "7. März 2026 - 17:15",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -1694,25 +1694,6 @@
     "saison": 2026,
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
-    "date": "04.03.2026",
-    "longDate": "4. März 2026 - 18:00",
-    "result": "-",
-    "displayInfo": "4. März 2026 - 18:00",
-    "team1": {
-      "id": 105957,
-      "name": "EHC Sursee"
-    },
-    "team2": {
-      "id": 105660,
-      "name": "HC Lugano 2 BIANCO"
-    },
-    "gameId": "20263235110103",
-    "place": "home"
-  },
-  {
-    "saison": 2026,
-    "team": "EHC Sursee U14 Top",
-    "leagueId": 123,
     "date": "07.03.2026",
     "longDate": "7. März 2026 - 11:30",
     "result": "-",
@@ -1745,6 +1726,25 @@
       "name": "Hockey Innerschwyz HCI I"
     },
     "gameId": "20263235110025",
+    "place": "home"
+  },
+  {
+    "saison": 2026,
+    "team": "EHC Sursee U14 Top",
+    "leagueId": 123,
+    "date": "14.03.2026",
+    "longDate": "14. März 2026 - 17:00",
+    "result": "-",
+    "displayInfo": "14. März 2026 - 17:00",
+    "team1": {
+      "id": 105957,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105660,
+      "name": "HC Lugano 2 BIANCO"
+    },
+    "gameId": "20263235110103",
     "place": "home"
   },
   {
@@ -2931,8 +2931,8 @@
     "leagueId": 43,
     "date": "07.03.2026",
     "longDate": "7. März 2026 - 20:00",
-    "result": "-",
-    "displayInfo": "7. März 2026 - 20:00",
+    "result": "0:0",
+    "displayInfo": "0:0",
     "team1": {
       "id": 103700,
       "name": "EHC Sursee"
@@ -2950,8 +2950,8 @@
     "leagueId": 43,
     "date": "15.03.2026",
     "longDate": "15. März 2026 - 14:15",
-    "result": "-",
-    "displayInfo": "15. März 2026 - 14:15",
+    "result": "0:0",
+    "displayInfo": "0:0",
     "team1": {
       "id": 105966,
       "name": "EHC Thun"
@@ -2969,8 +2969,8 @@
     "leagueId": 43,
     "date": "21.03.2026",
     "longDate": "21. März 2026 - 12:30",
-    "result": "-",
-    "displayInfo": "21. März 2026 - 12:30",
+    "result": "0:0",
+    "displayInfo": "0:0",
     "team1": {
       "id": 103700,
       "name": "EHC Sursee"
@@ -2988,8 +2988,8 @@
     "leagueId": 43,
     "date": "22.03.2026",
     "longDate": "22. März 2026 - 16:15",
-    "result": "-",
-    "displayInfo": "22. März 2026 - 16:15",
+    "result": "0:0",
+    "displayInfo": "0:0",
     "team1": {
       "id": 105966,
       "name": "EHC Thun"
