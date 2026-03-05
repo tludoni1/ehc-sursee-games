@@ -2171,8 +2171,8 @@
     "leagueId": 124,
     "date": "04.03.2026",
     "longDate": "4. März 2026 - 17:00",
-    "result": "-",
-    "displayInfo": "4. März 2026 - 17:00",
+    "result": "7:4",
+    "displayInfo": "7:4",
     "team1": {
       "id": 105534,
       "name": "Hockey Innerschwyz HCI I"
@@ -2923,82 +2923,6 @@
       "name": "EHC Sursee"
     },
     "gameId": "20261186000103",
-    "place": "away"
-  },
-  {
-    "saison": 2026,
-    "team": "EHC Sursee Damen",
-    "leagueId": 43,
-    "date": "07.03.2026",
-    "longDate": "7. März 2026 - 20:00",
-    "result": "0:0",
-    "displayInfo": "0:0",
-    "team1": {
-      "id": 103700,
-      "name": "EHC Sursee"
-    },
-    "team2": {
-      "id": 105966,
-      "name": "EHC Thun"
-    },
-    "gameId": "20261186000104",
-    "place": "home"
-  },
-  {
-    "saison": 2026,
-    "team": "EHC Sursee Damen",
-    "leagueId": 43,
-    "date": "15.03.2026",
-    "longDate": "15. März 2026 - 14:15",
-    "result": "0:0",
-    "displayInfo": "0:0",
-    "team1": {
-      "id": 105966,
-      "name": "EHC Thun"
-    },
-    "team2": {
-      "id": 103700,
-      "name": "EHC Sursee"
-    },
-    "gameId": "20261186000105",
-    "place": "away"
-  },
-  {
-    "saison": 2026,
-    "team": "EHC Sursee Damen",
-    "leagueId": 43,
-    "date": "21.03.2026",
-    "longDate": "21. März 2026 - 12:30",
-    "result": "0:0",
-    "displayInfo": "0:0",
-    "team1": {
-      "id": 103700,
-      "name": "EHC Sursee"
-    },
-    "team2": {
-      "id": 105966,
-      "name": "EHC Thun"
-    },
-    "gameId": "20261186000106",
-    "place": "home"
-  },
-  {
-    "saison": 2026,
-    "team": "EHC Sursee Damen",
-    "leagueId": 43,
-    "date": "22.03.2026",
-    "longDate": "22. März 2026 - 16:15",
-    "result": "0:0",
-    "displayInfo": "0:0",
-    "team1": {
-      "id": 105966,
-      "name": "EHC Thun"
-    },
-    "team2": {
-      "id": 103700,
-      "name": "EHC Sursee"
-    },
-    "gameId": "20261186000107",
     "place": "away"
   },
   {
