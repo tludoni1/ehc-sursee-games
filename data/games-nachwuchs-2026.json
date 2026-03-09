@@ -366,8 +366,8 @@
     "leagueId": 115,
     "date": "08.03.2026",
     "longDate": "8. März 2026 - 14:45",
-    "result": "-",
-    "displayInfo": "8. März 2026 - 14:45",
+    "result": "9:1",
+    "displayInfo": "9:1",
     "team1": {
       "id": 105125,
       "name": "EV Zug"
@@ -2190,8 +2190,8 @@
     "leagueId": 124,
     "date": "08.03.2026",
     "longDate": "8. März 2026 - 16:45",
-    "result": "-",
-    "displayInfo": "8. März 2026 - 16:45",
+    "result": "2:6",
+    "displayInfo": "2:6",
     "team1": {
       "id": 105514,
       "name": "EHC Sursee"
