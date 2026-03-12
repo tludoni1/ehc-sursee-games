@@ -1715,8 +1715,8 @@
     "leagueId": 123,
     "date": "11.03.2026",
     "longDate": "11. März 2026 - 18:00",
-    "result": "-",
-    "displayInfo": "11. März 2026 - 18:00",
+    "result": "3:6",
+    "displayInfo": "3:6",
     "team1": {
       "id": 105957,
       "name": "EHC Sursee"
