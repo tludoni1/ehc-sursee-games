@@ -1,0 +1,173 @@
+[
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
+    "date": "29.03.2026",
+    "longDate": "29. März 2026 - 17:30",
+    "result": "5:2",
+    "displayInfo": "5:2",
+    "team1": {
+      "id": 103259,
+      "name": "EHC SenSee-Future"
+    },
+    "team2": {
+      "id": 103286,
+      "name": "EHC Chur"
+    },
+    "gameId": "20268203000002",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "15.03.2026",
+    "longDate": "15. März 2026 - 18:00",
+    "result": "3:2",
+    "displayInfo": "3:2",
+    "team1": {
+      "id": 105486,
+      "name": "Brandis Juniors"
+    },
+    "team2": {
+      "id": 103369,
+      "name": "Argovia Stars"
+    },
+    "gameId": "20263215000003",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "25.03.2026",
+    "longDate": "25. März 2026 - 19:45",
+    "result": "0:5",
+    "displayInfo": "0:5",
+    "team1": {
+      "id": 103501,
+      "name": "EV Dielsdorf-Niederhasli"
+    },
+    "team2": {
+      "id": 106274,
+      "name": "EHC Wetzikon II"
+    },
+    "gameId": "20265228000029",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 Top",
+    "leagueId": 123,
+    "date": "29.03.2026",
+    "longDate": "29. März 2026 - 11:45",
+    "result": "8:1",
+    "displayInfo": "8:1",
+    "team1": {
+      "id": 103581,
+      "name": "EHC Olten Prospect Grün"
+    },
+    "team2": {
+      "id": 106188,
+      "name": "EHC Bern 96"
+    },
+    "gameId": "20263235130012",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "25.03.2026",
+    "longDate": "25. März 2026 - 17:45",
+    "result": "13:1",
+    "displayInfo": "13:1",
+    "team1": {
+      "id": 105715,
+      "name": "HC Rivers"
+    },
+    "team2": {
+      "id": 103878,
+      "name": "HC Lugano"
+    },
+    "gameId": "20263236110014",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "21.03.2026",
+    "longDate": "21. März 2026 - 20:00",
+    "result": "4:5",
+    "displayInfo": "4:5",
+    "team1": {
+      "id": 103181,
+      "name": "EV Dielsdorf-Niederhasli"
+    },
+    "team2": {
+      "id": 104179,
+      "name": "EHC Zunzgen-Sissach"
+    },
+    "gameId": "20261135000004",
+    "place": "unknown"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "21.03.2026",
+    "longDate": "21. März 2026 - 16:04",
+    "result": "2:1",
+    "displayInfo": "2:1",
+    "team1": {
+      "id": 103701,
+      "name": "Lausanne HC Féminin"
+    },
+    "team2": {
+      "id": 104907,
+      "name": "Brandis Juniors Ladies"
+    },
+    "gameId": "20261186000117",
+    "place": "unknown"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "22.03.2026",
+    "longDate": "22. März 2026 - 18:15",
+    "result": "5:1",
+    "displayInfo": "5:1",
+    "team1": {
+      "id": 103842,
+      "name": "CP Plateau de Diesse"
+    },
+    "team2": {
+      "id": 103844,
+      "name": "HC Reconvilier"
+    },
+    "gameId": "20264155110093",
+    "place": "unknown"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Senioren",
+    "leagueId": 37,
+    "date": "15.03.2026",
+    "longDate": "15. März 2026 - 17:00",
+    "result": "9:5",
+    "displayInfo": "9:5",
+    "team1": {
+      "id": 104202,
+      "name": "EHC Uster"
+    },
+    "team2": {
+      "id": 105890,
+      "name": "HC Fischbach-Göslikon"
+    },
+    "gameId": "20261168000001",
+    "place": "unknown"
+  }
+]
