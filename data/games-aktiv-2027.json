@@ -3,76 +3,52 @@
     "saison": 2027,
     "team": "EHC Sursee 1. Mannschaft",
     "leagueId": 10,
-    "date": "21.03.2026",
-    "longDate": "21. März 2026 - 20:00",
-    "result": "4:5",
-    "displayInfo": "4:5",
-    "team1": {
-      "id": 103181,
-      "name": "EV Dielsdorf-Niederhasli"
-    },
-    "team2": {
-      "id": 104179,
-      "name": "EHC Zunzgen-Sissach"
-    },
-    "gameId": "20261135000004",
+    "date": null,
+    "longDate": null,
+    "result": "-",
+    "displayInfo": null,
+    "team1": null,
+    "team2": null,
+    "gameId": null,
     "place": "unknown"
   },
   {
     "saison": 2027,
     "team": "EHC Sursee Damen",
     "leagueId": 43,
-    "date": "21.03.2026",
-    "longDate": "21. März 2026 - 16:04",
-    "result": "2:1",
-    "displayInfo": "2:1",
-    "team1": {
-      "id": 103701,
-      "name": "Lausanne HC Féminin"
-    },
-    "team2": {
-      "id": 104907,
-      "name": "Brandis Juniors Ladies"
-    },
-    "gameId": "20261186000117",
+    "date": null,
+    "longDate": null,
+    "result": "-",
+    "displayInfo": null,
+    "team1": null,
+    "team2": null,
+    "gameId": null,
     "place": "unknown"
   },
   {
     "saison": 2027,
     "team": "EHC Sursee 2. Mannschaft",
     "leagueId": 19,
-    "date": "22.03.2026",
-    "longDate": "22. März 2026 - 18:15",
-    "result": "5:1",
-    "displayInfo": "5:1",
-    "team1": {
-      "id": 103842,
-      "name": "CP Plateau de Diesse"
-    },
-    "team2": {
-      "id": 103844,
-      "name": "HC Reconvilier"
-    },
-    "gameId": "20264155110093",
+    "date": null,
+    "longDate": null,
+    "result": "-",
+    "displayInfo": null,
+    "team1": null,
+    "team2": null,
+    "gameId": null,
     "place": "unknown"
   },
   {
     "saison": 2027,
     "team": "EHC Sursee Senioren",
     "leagueId": 37,
-    "date": "15.03.2026",
-    "longDate": "15. März 2026 - 17:00",
-    "result": "9:5",
-    "displayInfo": "9:5",
-    "team1": {
-      "id": 104202,
-      "name": "EHC Uster"
-    },
-    "team2": {
-      "id": 105890,
-      "name": "HC Fischbach-Göslikon"
-    },
-    "gameId": "20261168000001",
+    "date": null,
+    "longDate": null,
+    "result": "-",
+    "displayInfo": null,
+    "team1": null,
+    "team2": null,
+    "gameId": null,
     "place": "unknown"
   }
 ]
