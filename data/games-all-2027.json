@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "17.10.2026",
+    "longDate": "17. Okt. 2026 - 18:00",
+    "result": "-",
+    "displayInfo": "17. Okt. 2026 - 18:00",
+    "team1": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 102077,
+      "name": "EHC Zuchwil Regio"
+    },
+    "gameId": "20270009262116",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "07.01.2027",
+    "longDate": "7. Jan. 2027 - 20:30",
+    "result": "-",
+    "displayInfo": "7. Jan. 2027 - 20:30",
+    "team1": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 102077,
+      "name": "EHC Zuchwil Regio"
+    },
+    "gameId": "20270009262172",
+    "place": "home"
+  }
+]
