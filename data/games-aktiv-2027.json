@@ -22,6 +22,63 @@
     "saison": 2027,
     "team": "EHC Sursee 1. Mannschaft",
     "leagueId": 10,
+    "date": "25.11.2026",
+    "longDate": "25. Nov. 2026 - 20:00",
+    "result": "-",
+    "displayInfo": "25. Nov. 2026 - 20:00",
+    "team1": {
+      "id": 102077,
+      "name": "EHC Zuchwil Regio"
+    },
+    "team2": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009262144",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "05.12.2026",
+    "longDate": "5. Dez. 2026 - 20:15",
+    "result": "-",
+    "displayInfo": "5. Dez. 2026 - 20:15",
+    "team1": {
+      "id": 103163,
+      "name": "EHC Laufen"
+    },
+    "team2": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009262150",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "12.12.2026",
+    "longDate": "12. Dez. 2026 - 17:30",
+    "result": "-",
+    "displayInfo": "12. Dez. 2026 - 17:30",
+    "team1": {
+      "id": 104179,
+      "name": "EHC Zunzgen-Sissach"
+    },
+    "team2": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009262153",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
     "date": "07.01.2027",
     "longDate": "7. Jan. 2027 - 20:30",
     "result": "-",
@@ -36,5 +93,119 @@
     },
     "gameId": "20270009262172",
     "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "10.10.2026",
+    "longDate": "10. Okt. 2026 - 20:00",
+    "result": "-",
+    "displayInfo": "10. Okt. 2026 - 20:00",
+    "team1": {
+      "id": 104297,
+      "name": "EHC Bassersdorf Ladies"
+    },
+    "team2": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009261826",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "31.10.2026",
+    "longDate": "31. Okt. 2026 - 17:30",
+    "result": "-",
+    "displayInfo": "31. Okt. 2026 - 17:30",
+    "team1": {
+      "id": 105512,
+      "name": "EHC Zunzgen-Sissach"
+    },
+    "team2": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009261845",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "14.11.2026",
+    "longDate": "14. Nov. 2026 - 17:15",
+    "result": "-",
+    "displayInfo": "14. Nov. 2026 - 17:15",
+    "team1": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105858,
+      "name": "SCRJ Lakers Ladies"
+    },
+    "gameId": "20270009261849",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "28.11.2026",
+    "longDate": "28. Nov. 2026 - 17:00",
+    "result": "-",
+    "displayInfo": "28. Nov. 2026 - 17:00",
+    "team1": {
+      "id": 103951,
+      "name": "GCK Lions Frauen"
+    },
+    "team2": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009261865",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "05.12.2026",
+    "longDate": "5. Dez. 2026 - 14:15",
+    "result": "-",
+    "displayInfo": "5. Dez. 2026 - 14:15",
+    "team1": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104297,
+      "name": "EHC Bassersdorf Ladies"
+    },
+    "gameId": "20270009261871",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "10.01.2027",
+    "longDate": "10. Jan. 2027 - 14:15",
+    "result": "-",
+    "displayInfo": "10. Jan. 2027 - 14:15",
+    "team1": {
+      "id": 105858,
+      "name": "SCRJ Lakers Ladies"
+    },
+    "team2": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009261894",
+    "place": "away"
   }
 ]
