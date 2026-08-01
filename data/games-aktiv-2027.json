@@ -98,6 +98,25 @@
     "saison": 2027,
     "team": "EHC Sursee Damen",
     "leagueId": 43,
+    "date": "04.10.2026",
+    "longDate": "4. Okt. 2026 - 15:15",
+    "result": "-",
+    "displayInfo": "4. Okt. 2026 - 15:15",
+    "team1": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103951,
+      "name": "GCK Lions Frauen"
+    },
+    "gameId": "20270009261820",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
     "date": "10.10.2026",
     "longDate": "10. Okt. 2026 - 20:00",
     "result": "-",

@@ -117,6 +117,25 @@
     "saison": 2027,
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
+    "date": "15.11.2026",
+    "longDate": "15. Nov. 2026 - 17:15",
+    "result": "-",
+    "displayInfo": "15. Nov. 2026 - 17:15",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105387,
+      "name": "EV Zug"
+    },
+    "gameId": "20270009259706",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
     "date": "21.11.2026",
     "longDate": "21. Nov. 2026 - 16:45",
     "result": "-",
@@ -155,6 +174,25 @@
     "saison": 2027,
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
+    "date": "27.02.2027",
+    "longDate": "27. Feb. 2027 - 19:00",
+    "result": "-",
+    "displayInfo": "27. Feb. 2027 - 19:00",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105387,
+      "name": "EV Zug"
+    },
+    "gameId": "20270009259762",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
     "date": "06.03.2027",
     "longDate": "6. März 2027 - 16:45",
     "result": "-",
@@ -188,6 +226,25 @@
     },
     "gameId": "20270009260936",
     "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "11.10.2026",
+    "longDate": "11. Okt. 2026 - 16:45",
+    "result": "-",
+    "displayInfo": "11. Okt. 2026 - 16:45",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee II"
+    },
+    "team2": {
+      "id": 106198,
+      "name": "SC Lyss"
+    },
+    "gameId": "20270009260938",
+    "place": "home"
   },
   {
     "saison": 2027,
@@ -288,6 +345,25 @@
     "saison": 2027,
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
+    "date": "31.01.2027",
+    "longDate": "31. Jan. 2027 - 17:00",
+    "result": "-",
+    "displayInfo": "31. Jan. 2027 - 17:00",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee II"
+    },
+    "team2": {
+      "id": 106198,
+      "name": "SC Lyss"
+    },
+    "gameId": "20270009260980",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
     "date": "14.02.2027",
     "longDate": "14. Feb. 2027 - 09:45",
     "result": "-",
@@ -320,6 +396,44 @@
       "name": "EHC Zuchwil Regio"
     },
     "gameId": "20270009260997",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 Top",
+    "leagueId": 123,
+    "date": "20.09.2026",
+    "longDate": "20. Sep. 2026 - 13:45",
+    "result": "-",
+    "displayInfo": "20. Sep. 2026 - 13:45",
+    "team1": {
+      "id": 105957,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105150,
+      "name": "EV Zug I"
+    },
+    "gameId": "20270009258549",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 Top",
+    "leagueId": 123,
+    "date": "04.10.2026",
+    "longDate": "4. Okt. 2026 - 12:30",
+    "result": "-",
+    "displayInfo": "4. Okt. 2026 - 12:30",
+    "team1": {
+      "id": 105957,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105150,
+      "name": "EV Zug I"
+    },
+    "gameId": "20270009258493",
     "place": "home"
   },
   {
@@ -359,6 +473,25 @@
     },
     "gameId": "20270009258521",
     "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 Top",
+    "leagueId": 123,
+    "date": "02.01.2027",
+    "longDate": "2. Jan. 2027 - 10:45",
+    "result": "-",
+    "displayInfo": "2. Jan. 2027 - 10:45",
+    "team1": {
+      "id": 105957,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105784,
+      "name": "HC Luzern Selection"
+    },
+    "gameId": "20270009258533",
+    "place": "home"
   },
   {
     "saison": 2027,
@@ -548,6 +681,25 @@
       "name": "EHC Zuchwil Regio"
     },
     "gameId": "20270009262172",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "04.10.2026",
+    "longDate": "4. Okt. 2026 - 15:15",
+    "result": "-",
+    "displayInfo": "4. Okt. 2026 - 15:15",
+    "team1": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103951,
+      "name": "GCK Lions Frauen"
+    },
+    "gameId": "20270009261820",
     "place": "home"
   },
   {
