@@ -60,6 +60,25 @@
     "saison": 2027,
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
+    "date": "06.12.2026",
+    "longDate": "6. Dez. 2026 - 17:15",
+    "result": "-",
+    "displayInfo": "6. Dez. 2026 - 17:15",
+    "team1": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 106351,
+      "name": "EHC Zunzgen-Sissach"
+    },
+    "gameId": "20270009260248",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
     "date": "11.12.2026",
     "longDate": "11. Dez. 2026 - 20:15",
     "result": "-",
@@ -92,6 +111,25 @@
       "name": "HC Wisle"
     },
     "gameId": "20270009260263",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
+    "date": "22.01.2027",
+    "longDate": "22. Jan. 2027 - 20:15",
+    "result": "-",
+    "displayInfo": "22. Jan. 2027 - 20:15",
+    "team1": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105125,
+      "name": "EV Zug"
+    },
+    "gameId": "20270009260280",
     "place": "home"
   },
   {
@@ -302,6 +340,25 @@
     },
     "gameId": "20270009260959",
     "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "19.12.2026",
+    "longDate": "19. Dez. 2026 - 17:15",
+    "result": "-",
+    "displayInfo": "19. Dez. 2026 - 17:15",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee II"
+    },
+    "team2": {
+      "id": 106308,
+      "name": "HC NWU Green"
+    },
+    "gameId": "20270009260965",
+    "place": "home"
   },
   {
     "saison": 2027,
@@ -554,6 +611,25 @@
     "saison": 2027,
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
+    "date": "21.11.2026",
+    "longDate": "21. Nov. 2026 - 14:15",
+    "result": "-",
+    "displayInfo": "21. Nov. 2026 - 14:15",
+    "team1": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105821,
+      "name": "HC NWU Green"
+    },
+    "gameId": "20270009258220",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
     "date": "17.01.2027",
     "longDate": "17. Jan. 2027 - 17:30",
     "result": "-",
@@ -605,6 +681,25 @@
       "name": "EHC Zuchwil Regio"
     },
     "gameId": "20270009262116",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "31.10.2026",
+    "longDate": "31. Okt. 2026 - 17:30",
+    "result": "-",
+    "displayInfo": "31. Okt. 2026 - 17:30",
+    "team1": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104179,
+      "name": "EHC Zunzgen-Sissach"
+    },
+    "gameId": "20270009262125",
     "place": "home"
   },
   {
@@ -681,6 +776,25 @@
       "name": "EHC Zuchwil Regio"
     },
     "gameId": "20270009262172",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "23.01.2027",
+    "longDate": "23. Jan. 2027 - 20:30",
+    "result": "-",
+    "displayInfo": "23. Jan. 2027 - 20:30",
+    "team1": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104179,
+      "name": "EHC Zunzgen-Sissach"
+    },
+    "gameId": "20270009262181",
     "place": "home"
   },
   {
@@ -801,6 +915,25 @@
     "saison": 2027,
     "team": "EHC Sursee Damen",
     "leagueId": 43,
+    "date": "02.01.2027",
+    "longDate": "2. Jan. 2027 - 19:30",
+    "result": "-",
+    "displayInfo": "2. Jan. 2027 - 19:30",
+    "team1": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105512,
+      "name": "EHC Zunzgen-Sissach"
+    },
+    "gameId": "20270009261890",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
     "date": "10.01.2027",
     "longDate": "10. Jan. 2027 - 14:15",
     "result": "-",
@@ -815,5 +948,480 @@
     },
     "gameId": "20270009261894",
     "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "03.10.2026",
+    "longDate": "3. Okt. 2026 - 19:45",
+    "result": "-",
+    "displayInfo": "3. Okt. 2026 - 19:45",
+    "team1": {
+      "id": 103584,
+      "name": "HC Seetal"
+    },
+    "team2": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009252996",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "10.10.2026",
+    "longDate": "10. Okt. 2026 - 18:45",
+    "result": "-",
+    "displayInfo": "10. Okt. 2026 - 18:45",
+    "team1": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103940,
+      "name": "KSC Küssnacht am Rigi II"
+    },
+    "gameId": "20270009253001",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "18.10.2026",
+    "longDate": "18. Okt. 2026 - 19:30",
+    "result": "-",
+    "displayInfo": "18. Okt. 2026 - 19:30",
+    "team1": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103756,
+      "name": "Eishockeyclub Uri"
+    },
+    "gameId": "20270009253005",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "31.10.2026",
+    "longDate": "31. Okt. 2026 - 20:15",
+    "result": "-",
+    "displayInfo": "31. Okt. 2026 - 20:15",
+    "team1": {
+      "id": 105481,
+      "name": "HC Luzern"
+    },
+    "team2": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009253011",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "08.11.2026",
+    "longDate": "8. Nov. 2026 - 20:00",
+    "result": "-",
+    "displayInfo": "8. Nov. 2026 - 20:00",
+    "team1": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104304,
+      "name": "HC Zugerland"
+    },
+    "gameId": "20270009253014",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "21.11.2026",
+    "longDate": "21. Nov. 2026 - 20:00",
+    "result": "-",
+    "displayInfo": "21. Nov. 2026 - 20:00",
+    "team1": {
+      "id": 103423,
+      "name": "EHC Einsiedeln"
+    },
+    "team2": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009253022",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "28.11.2026",
+    "longDate": "28. Nov. 2026 - 20:15",
+    "result": "-",
+    "displayInfo": "28. Nov. 2026 - 20:15",
+    "team1": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105004,
+      "name": "HC Limmattal Wings"
+    },
+    "gameId": "20270009253027",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "05.12.2026",
+    "longDate": "5. Dez. 2026 - 17:00",
+    "result": "-",
+    "displayInfo": "5. Dez. 2026 - 17:00",
+    "team1": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103584,
+      "name": "HC Seetal"
+    },
+    "gameId": "20270009253032",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "12.12.2026",
+    "longDate": "12. Dez. 2026 - 16:15",
+    "result": "-",
+    "displayInfo": "12. Dez. 2026 - 16:15",
+    "team1": {
+      "id": 103940,
+      "name": "KSC Küssnacht am Rigi II"
+    },
+    "team2": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009253037",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "18.12.2026",
+    "longDate": "18. Dez. 2026 - 20:45",
+    "result": "-",
+    "displayInfo": "18. Dez. 2026 - 20:45",
+    "team1": {
+      "id": 105004,
+      "name": "HC Limmattal Wings"
+    },
+    "team2": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009253039",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "09.01.2027",
+    "longDate": "9. Jan. 2027 - 19:45",
+    "result": "-",
+    "displayInfo": "9. Jan. 2027 - 19:45",
+    "team1": {
+      "id": 106407,
+      "name": "EHC Wetzikon"
+    },
+    "team2": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009253044",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "16.01.2027",
+    "longDate": "16. Jan. 2027 - 20:30",
+    "result": "-",
+    "displayInfo": "16. Jan. 2027 - 20:30",
+    "team1": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105481,
+      "name": "HC Luzern"
+    },
+    "gameId": "20270009253047",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "23.01.2027",
+    "longDate": "23. Jan. 2027 - 15:15",
+    "result": "-",
+    "displayInfo": "23. Jan. 2027 - 15:15",
+    "team1": {
+      "id": 104304,
+      "name": "HC Zugerland"
+    },
+    "team2": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009253050",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "05.02.2027",
+    "longDate": "5. Feb. 2027 - 20:15",
+    "result": "-",
+    "displayInfo": "5. Feb. 2027 - 20:15",
+    "team1": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103423,
+      "name": "EHC Einsiedeln"
+    },
+    "gameId": "20270009253058",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "13.02.2027",
+    "longDate": "13. Feb. 2027 - 13:00",
+    "result": "-",
+    "displayInfo": "13. Feb. 2027 - 13:00",
+    "team1": {
+      "id": 103756,
+      "name": "Eishockeyclub Uri"
+    },
+    "team2": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009253065",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Senioren",
+    "leagueId": 37,
+    "date": "25.10.2026",
+    "longDate": "25. Okt. 2026 - 18:00",
+    "result": "-",
+    "displayInfo": "25. Okt. 2026 - 18:00",
+    "team1": {
+      "id": 105810,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 106092,
+      "name": "KSC Küssnacht am Rigi"
+    },
+    "gameId": "20270009255857",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Senioren",
+    "leagueId": 37,
+    "date": "01.11.2026",
+    "longDate": "1. Nov. 2026 - 17:15",
+    "result": "-",
+    "displayInfo": "1. Nov. 2026 - 17:15",
+    "team1": {
+      "id": 105810,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 106271,
+      "name": "HC Allenwinden Lumberjacks"
+    },
+    "gameId": "20270009255862",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Senioren",
+    "leagueId": 37,
+    "date": "08.11.2026",
+    "longDate": "8. Nov. 2026 - 18:30",
+    "result": "-",
+    "displayInfo": "8. Nov. 2026 - 18:30",
+    "team1": {
+      "id": 104738,
+      "name": "HC Seetal"
+    },
+    "team2": {
+      "id": 105810,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009255860",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Senioren",
+    "leagueId": 37,
+    "date": "14.11.2026",
+    "longDate": "14. Nov. 2026 - 15:15",
+    "result": "-",
+    "displayInfo": "14. Nov. 2026 - 15:15",
+    "team1": {
+      "id": 104343,
+      "name": "HC Zugerland"
+    },
+    "team2": {
+      "id": 105810,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009255868",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Senioren",
+    "leagueId": 37,
+    "date": "06.12.2026",
+    "longDate": "6. Dez. 2026 - 20:00",
+    "result": "-",
+    "displayInfo": "6. Dez. 2026 - 20:00",
+    "team1": {
+      "id": 105810,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 106399,
+      "name": "HC Luzern"
+    },
+    "gameId": "20270009255864",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Senioren",
+    "leagueId": 37,
+    "date": "16.01.2027",
+    "longDate": "16. Jan. 2027 - 19:00",
+    "result": "-",
+    "displayInfo": "16. Jan. 2027 - 19:00",
+    "team1": {
+      "id": 106092,
+      "name": "KSC Küssnacht am Rigi"
+    },
+    "team2": {
+      "id": 105810,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009255872",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Senioren",
+    "leagueId": 37,
+    "date": "14.02.2027",
+    "longDate": "14. Feb. 2027 - 20:00",
+    "result": "-",
+    "displayInfo": "14. Feb. 2027 - 20:00",
+    "team1": {
+      "id": 106399,
+      "name": "HC Luzern"
+    },
+    "team2": {
+      "id": 105810,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009255879",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Senioren",
+    "leagueId": 37,
+    "date": "21.02.2027",
+    "longDate": "21. Feb. 2027 - 15:45",
+    "result": "-",
+    "displayInfo": "21. Feb. 2027 - 15:45",
+    "team1": {
+      "id": 106271,
+      "name": "HC Allenwinden Lumberjacks"
+    },
+    "team2": {
+      "id": 105810,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009255877",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Senioren",
+    "leagueId": 37,
+    "date": "26.02.2027",
+    "longDate": "26. Feb. 2027 - 20:15",
+    "result": "-",
+    "displayInfo": "26. Feb. 2027 - 20:15",
+    "team1": {
+      "id": 105810,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104343,
+      "name": "HC Zugerland"
+    },
+    "gameId": "20270009255883",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Senioren",
+    "leagueId": 37,
+    "date": "05.03.2027",
+    "longDate": "5. März 2027 - 20:15",
+    "result": "-",
+    "displayInfo": "5. März 2027 - 20:15",
+    "team1": {
+      "id": 105810,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104738,
+      "name": "HC Seetal"
+    },
+    "gameId": "20270009255875",
+    "place": "home"
   }
 ]
