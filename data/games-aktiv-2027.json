@@ -174,6 +174,25 @@
     "saison": 2027,
     "team": "EHC Sursee Damen",
     "leagueId": 43,
+    "date": "25.10.2026",
+    "longDate": "25. Okt. 2026 - 15:15",
+    "result": "-",
+    "displayInfo": "25. Okt. 2026 - 15:15",
+    "team1": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 106002,
+      "name": "EHC Worb Ladies"
+    },
+    "gameId": "20270009261841",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
     "date": "31.10.2026",
     "longDate": "31. Okt. 2026 - 17:30",
     "result": "-",
@@ -206,6 +225,25 @@
       "name": "SCRJ Lakers Ladies"
     },
     "gameId": "20270009261849",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "22.11.2026",
+    "longDate": "22. Nov. 2026 - 20:00",
+    "result": "-",
+    "displayInfo": "22. Nov. 2026 - 20:00",
+    "team1": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103698,
+      "name": "DHC Lyss"
+    },
+    "gameId": "20270009261859",
     "place": "home"
   },
   {
@@ -339,6 +377,25 @@
       "name": "Eishockeyclub Uri"
     },
     "gameId": "20270009253005",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 2. Mannschaft",
+    "leagueId": 19,
+    "date": "23.10.2026",
+    "longDate": "23. Okt. 2026 - 20:15",
+    "result": "-",
+    "displayInfo": "23. Okt. 2026 - 20:15",
+    "team1": {
+      "id": 104319,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 106407,
+      "name": "EHC Wetzikon"
+    },
+    "gameId": "20270009253008",
     "place": "home"
   },
   {
