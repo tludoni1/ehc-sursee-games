@@ -326,6 +326,25 @@
     "saison": 2027,
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
+    "date": "28.11.2026",
+    "longDate": "28. Nov. 2026 - 14:15",
+    "result": "-",
+    "displayInfo": "28. Nov. 2026 - 14:15",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee II"
+    },
+    "team2": {
+      "id": 105878,
+      "name": "HC NWU Blue"
+    },
+    "gameId": "20270009260957",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
     "date": "06.12.2026",
     "longDate": "6. Dez. 2026 - 11:00",
     "result": "-",
@@ -624,6 +643,25 @@
       "name": "HC NWU Green"
     },
     "gameId": "20270009258220",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "16.12.2026",
+    "longDate": "16. Dez. 2026 - 18:00",
+    "result": "-",
+    "displayInfo": "16. Dez. 2026 - 18:00",
+    "team1": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105807,
+      "name": "HC NWU Black"
+    },
+    "gameId": "20270009258234",
     "place": "home"
   },
   {
