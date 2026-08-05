@@ -668,6 +668,25 @@
     "saison": 2027,
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
+    "date": "13.01.2027",
+    "longDate": "13. Jan. 2027 - 18:00",
+    "result": "-",
+    "displayInfo": "13. Jan. 2027 - 18:00",
+    "team1": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105155,
+      "name": "EHC Basel Nachwuchs"
+    },
+    "gameId": "20270009258244",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
     "date": "17.01.2027",
     "longDate": "17. Jan. 2027 - 17:30",
     "result": "-",
@@ -700,6 +719,63 @@
       "name": "EHC Sursee"
     },
     "gameId": "20270009258262",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "24.02.2027",
+    "longDate": "24. Feb. 2027 - 17:30",
+    "result": "-",
+    "displayInfo": "24. Feb. 2027 - 17:30",
+    "team1": {
+      "id": 105155,
+      "name": "EHC Basel Nachwuchs"
+    },
+    "team2": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009258272",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "03.03.2027",
+    "longDate": "3. März 2027 - 18:00",
+    "result": "-",
+    "displayInfo": "3. März 2027 - 18:00",
+    "team1": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105821,
+      "name": "HC NWU Green"
+    },
+    "gameId": "20270009258276",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "10.10.2026",
+    "longDate": "10. Okt. 2026 - 17:30",
+    "result": "-",
+    "displayInfo": "10. Okt. 2026 - 17:30",
+    "team1": {
+      "id": 103169,
+      "name": "EHC Rheinfelden"
+    },
+    "team2": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009262112",
     "place": "away"
   },
   {
@@ -796,6 +872,25 @@
     },
     "gameId": "20270009262144",
     "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "28.11.2026",
+    "longDate": "28. Nov. 2026 - 17:30",
+    "result": "-",
+    "displayInfo": "28. Nov. 2026 - 17:30",
+    "team1": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103782,
+      "name": "EHC Bucheggberg"
+    },
+    "gameId": "20270009262147",
+    "place": "home"
   },
   {
     "saison": 2027,
@@ -934,6 +1029,25 @@
     "saison": 2027,
     "team": "EHC Sursee Damen",
     "leagueId": 43,
+    "date": "18.10.2026",
+    "longDate": "18. Okt. 2026 - 17:30",
+    "result": "-",
+    "displayInfo": "18. Okt. 2026 - 17:30",
+    "team1": {
+      "id": 104907,
+      "name": "Brandis Juniors Ladies"
+    },
+    "team2": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009261837",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
     "date": "25.10.2026",
     "longDate": "25. Okt. 2026 - 15:15",
     "result": "-",
@@ -986,6 +1100,25 @@
     },
     "gameId": "20270009261849",
     "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "21.11.2026",
+    "longDate": "21. Nov. 2026 - 15:00",
+    "result": "-",
+    "displayInfo": "21. Nov. 2026 - 15:00",
+    "team1": {
+      "id": 105986,
+      "name": "HC Thurgau Ladies"
+    },
+    "team2": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009261853",
+    "place": "away"
   },
   {
     "saison": 2027,

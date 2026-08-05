@@ -3,6 +3,25 @@
     "saison": 2027,
     "team": "EHC Sursee 1. Mannschaft",
     "leagueId": 10,
+    "date": "10.10.2026",
+    "longDate": "10. Okt. 2026 - 17:30",
+    "result": "-",
+    "displayInfo": "10. Okt. 2026 - 17:30",
+    "team1": {
+      "id": 103169,
+      "name": "EHC Rheinfelden"
+    },
+    "team2": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009262112",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
     "date": "17.10.2026",
     "longDate": "17. Okt. 2026 - 18:00",
     "result": "-",
@@ -93,6 +112,25 @@
     },
     "gameId": "20270009262144",
     "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "28.11.2026",
+    "longDate": "28. Nov. 2026 - 17:30",
+    "result": "-",
+    "displayInfo": "28. Nov. 2026 - 17:30",
+    "team1": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103782,
+      "name": "EHC Bucheggberg"
+    },
+    "gameId": "20270009262147",
+    "place": "home"
   },
   {
     "saison": 2027,
@@ -231,6 +269,25 @@
     "saison": 2027,
     "team": "EHC Sursee Damen",
     "leagueId": 43,
+    "date": "18.10.2026",
+    "longDate": "18. Okt. 2026 - 17:30",
+    "result": "-",
+    "displayInfo": "18. Okt. 2026 - 17:30",
+    "team1": {
+      "id": 104907,
+      "name": "Brandis Juniors Ladies"
+    },
+    "team2": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009261837",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
     "date": "25.10.2026",
     "longDate": "25. Okt. 2026 - 15:15",
     "result": "-",
@@ -283,6 +340,25 @@
     },
     "gameId": "20270009261849",
     "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "21.11.2026",
+    "longDate": "21. Nov. 2026 - 15:00",
+    "result": "-",
+    "displayInfo": "21. Nov. 2026 - 15:00",
+    "team1": {
+      "id": 105986,
+      "name": "HC Thurgau Ladies"
+    },
+    "team2": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009261853",
+    "place": "away"
   },
   {
     "saison": 2027,
