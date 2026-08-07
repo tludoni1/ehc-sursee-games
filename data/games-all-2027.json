@@ -136,6 +136,25 @@
     "saison": 2027,
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
+    "date": "07.02.2027",
+    "longDate": "7. Feb. 2027 - 16:45",
+    "result": "-",
+    "displayInfo": "7. Feb. 2027 - 16:45",
+    "team1": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105892,
+      "name": "HC NWU Blue"
+    },
+    "gameId": "20270009260294",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
     "date": "28.02.2027",
     "longDate": "28. Feb. 2027 - 17:30",
     "result": "-",
