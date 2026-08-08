@@ -41,6 +41,25 @@
     "saison": 2027,
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
+    "date": "06.11.2026",
+    "longDate": "6. Nov. 2026 - 20:15",
+    "result": "-",
+    "displayInfo": "6. Nov. 2026 - 20:15",
+    "team1": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105898,
+      "name": "HC Dragon Thun"
+    },
+    "gameId": "20270009260221",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
     "date": "15.11.2026",
     "longDate": "15. Nov. 2026 - 17:15",
     "result": "-",
@@ -226,6 +245,25 @@
     },
     "gameId": "20270009259734",
     "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "16.01.2027",
+    "longDate": "16. Jan. 2027 - 14:15",
+    "result": "-",
+    "displayInfo": "16. Jan. 2027 - 14:15",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105132,
+      "name": "HC Luzern"
+    },
+    "gameId": "20270009259737",
+    "place": "home"
   },
   {
     "saison": 2027,
@@ -948,6 +986,25 @@
     },
     "gameId": "20270009262153",
     "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "19.12.2026",
+    "longDate": "19. Dez. 2026 - 20:30",
+    "result": "-",
+    "displayInfo": "19. Dez. 2026 - 20:30",
+    "team1": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103156,
+      "name": "SC Altstadt Olten"
+    },
+    "gameId": "20270009262158",
+    "place": "home"
   },
   {
     "saison": 2027,
