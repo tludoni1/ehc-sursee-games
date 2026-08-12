@@ -41,6 +41,25 @@
     "saison": 2027,
     "team": "EHC Sursee 1. Mannschaft",
     "leagueId": 10,
+    "date": "20.10.2026",
+    "longDate": "20. Okt. 2026 - 20:30",
+    "result": "-",
+    "displayInfo": "20. Okt. 2026 - 20:30",
+    "team1": {
+      "id": 103782,
+      "name": "EHC Bucheggberg"
+    },
+    "team2": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009262119",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
     "date": "24.10.2026",
     "longDate": "24. Okt. 2026 - 20:15",
     "result": "-",
@@ -73,6 +92,44 @@
       "name": "EHC Zunzgen-Sissach"
     },
     "gameId": "20270009262125",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "07.11.2026",
+    "longDate": "7. Nov. 2026 - 20:15",
+    "result": "-",
+    "displayInfo": "7. Nov. 2026 - 20:15",
+    "team1": {
+      "id": 103156,
+      "name": "SC Altstadt Olten"
+    },
+    "team2": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009262130",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "14.11.2026",
+    "longDate": "14. Nov. 2026 - 20:30",
+    "result": "-",
+    "displayInfo": "14. Nov. 2026 - 20:30",
+    "team1": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103162,
+      "name": "EHC Koppigen"
+    },
+    "gameId": "20270009262135",
     "place": "home"
   },
   {
@@ -193,6 +250,25 @@
     "saison": 2027,
     "team": "EHC Sursee 1. Mannschaft",
     "leagueId": 10,
+    "date": "22.12.2026",
+    "longDate": "22. Dez. 2026 - 20:30",
+    "result": "-",
+    "displayInfo": "22. Dez. 2026 - 20:30",
+    "team1": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103162,
+      "name": "EHC Koppigen"
+    },
+    "gameId": "20270009262163",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
     "date": "07.01.2027",
     "longDate": "7. Jan. 2027 - 20:30",
     "result": "-",
@@ -207,6 +283,25 @@
     },
     "gameId": "20270009262172",
     "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "10.01.2027",
+    "longDate": "10. Jan. 2027 - 18:00",
+    "result": "-",
+    "displayInfo": "10. Jan. 2027 - 18:00",
+    "team1": {
+      "id": 103782,
+      "name": "EHC Bucheggberg"
+    },
+    "team2": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009262175",
+    "place": "away"
   },
   {
     "saison": 2027,
@@ -231,6 +326,25 @@
     "saison": 2027,
     "team": "EHC Sursee 1. Mannschaft",
     "leagueId": 10,
+    "date": "21.01.2027",
+    "longDate": "21. Jan. 2027 - 20:30",
+    "result": "-",
+    "displayInfo": "21. Jan. 2027 - 20:30",
+    "team1": {
+      "id": 103169,
+      "name": "EHC Rheinfelden"
+    },
+    "team2": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009262168",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
     "date": "23.01.2027",
     "longDate": "23. Jan. 2027 - 20:30",
     "result": "-",
@@ -245,6 +359,25 @@
     },
     "gameId": "20270009262181",
     "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "30.01.2027",
+    "longDate": "30. Jan. 2027 - 20:15",
+    "result": "-",
+    "displayInfo": "30. Jan. 2027 - 20:15",
+    "team1": {
+      "id": 103156,
+      "name": "SC Altstadt Olten"
+    },
+    "team2": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009262186",
+    "place": "away"
   },
   {
     "saison": 2027,
@@ -283,6 +416,25 @@
     },
     "gameId": "20270009261826",
     "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "17.10.2026",
+    "longDate": "17. Okt. 2026 - 20:45",
+    "result": "-",
+    "displayInfo": "17. Okt. 2026 - 20:45",
+    "team1": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105966,
+      "name": "EHC Thun"
+    },
+    "gameId": "20270009261832",
+    "place": "home"
   },
   {
     "saison": 2027,
