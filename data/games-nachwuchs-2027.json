@@ -79,6 +79,25 @@
     "saison": 2027,
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
+    "date": "20.11.2026",
+    "longDate": "20. Nov. 2026 - 20:15",
+    "result": "-",
+    "displayInfo": "20. Nov. 2026 - 20:15",
+    "team1": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105885,
+      "name": "LUNOXX Seetal"
+    },
+    "gameId": "20270009260235",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
     "date": "06.12.2026",
     "longDate": "6. Dez. 2026 - 17:15",
     "result": "-",
@@ -207,6 +226,25 @@
     },
     "gameId": "20270009260314",
     "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "26.09.2026",
+    "longDate": "26. Sep. 2026 - 12:15",
+    "result": "-",
+    "displayInfo": "26. Sep. 2026 - 12:15",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105849,
+      "name": "LUNOXX Hockey"
+    },
+    "gameId": "20270009259687",
+    "place": "home"
   },
   {
     "saison": 2027,
