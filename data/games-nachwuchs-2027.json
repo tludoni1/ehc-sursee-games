@@ -136,6 +136,25 @@
     "saison": 2027,
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
+    "date": "13.12.2026",
+    "longDate": "13. Dez. 2026 - 17:00",
+    "result": "-",
+    "displayInfo": "13. Dez. 2026 - 17:00",
+    "team1": {
+      "id": 104897,
+      "name": "Beo Young Yetis"
+    },
+    "team2": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009260253",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
     "date": "03.01.2027",
     "longDate": "3. Jan. 2027 - 19:30",
     "result": "-",
@@ -212,6 +231,25 @@
     "saison": 2027,
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
+    "date": "14.02.2027",
+    "longDate": "14. Feb. 2027 - 18:30",
+    "result": "-",
+    "displayInfo": "14. Feb. 2027 - 18:30",
+    "team1": {
+      "id": 105885,
+      "name": "LUNOXX Seetal"
+    },
+    "team2": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009260301",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
     "date": "28.02.2027",
     "longDate": "28. Feb. 2027 - 17:30",
     "result": "-",
@@ -225,6 +263,44 @@
       "name": "EHC Sursee"
     },
     "gameId": "20270009260314",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
+    "date": "07.03.2027",
+    "longDate": "7. März 2027 - 19:30",
+    "result": "-",
+    "displayInfo": "7. März 2027 - 19:30",
+    "team1": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104897,
+      "name": "Beo Young Yetis"
+    },
+    "gameId": "20270009260319",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
+    "date": "14.03.2027",
+    "longDate": "14. März 2027 - 19:00",
+    "result": "-",
+    "displayInfo": "14. März 2027 - 19:00",
+    "team1": {
+      "id": 105010,
+      "name": "HC Huskys"
+    },
+    "team2": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009260324",
     "place": "away"
   },
   {
@@ -282,6 +358,25 @@
       "name": "EHC Sursee"
     },
     "gameId": "20270009259709",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "29.11.2026",
+    "longDate": "29. Nov. 2026 - 17:30",
+    "result": "-",
+    "displayInfo": "29. Nov. 2026 - 17:30",
+    "team1": {
+      "id": 103613,
+      "name": "HCB Chiasso"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009259712",
     "place": "away"
   },
   {
@@ -421,6 +516,25 @@
     "saison": 2027,
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
+    "date": "08.11.2026",
+    "longDate": "8. Nov. 2026 - 17:15",
+    "result": "-",
+    "displayInfo": "8. Nov. 2026 - 17:15",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee II"
+    },
+    "team2": {
+      "id": 106036,
+      "name": "HC Wohlen Freiamt"
+    },
+    "gameId": "20270009260948",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
     "date": "22.11.2026",
     "longDate": "22. Nov. 2026 - 17:15",
     "result": "-",
@@ -492,6 +606,25 @@
     },
     "gameId": "20270009260965",
     "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "02.01.2027",
+    "longDate": "2. Jan. 2027 - 17:15",
+    "result": "-",
+    "displayInfo": "2. Jan. 2027 - 17:15",
+    "team1": {
+      "id": 106036,
+      "name": "HC Wohlen Freiamt"
+    },
+    "team2": {
+      "id": 103984,
+      "name": "EHC Sursee II"
+    },
+    "gameId": "20270009260969",
+    "place": "away"
   },
   {
     "saison": 2027,
@@ -573,6 +706,25 @@
     "saison": 2027,
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
+    "date": "20.02.2027",
+    "longDate": "20. Feb. 2027 - 17:15",
+    "result": "-",
+    "displayInfo": "20. Feb. 2027 - 17:15",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee II"
+    },
+    "team2": {
+      "id": 106036,
+      "name": "HC Wohlen Freiamt"
+    },
+    "gameId": "20270009260990",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
     "date": "07.03.2027",
     "longDate": "7. März 2027 - 16:45",
     "result": "-",
@@ -586,6 +738,25 @@
       "name": "EHC Zuchwil Regio"
     },
     "gameId": "20270009260997",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 Top",
+    "leagueId": 123,
+    "date": "13.09.2026",
+    "longDate": "13. Sep. 2026 - 14:00",
+    "result": "-",
+    "displayInfo": "13. Sep. 2026 - 14:00",
+    "team1": {
+      "id": 105957,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104005,
+      "name": "HC Lugano 1 NERO"
+    },
+    "gameId": "20270009258501",
     "place": "home"
   },
   {
@@ -668,6 +839,25 @@
     "saison": 2027,
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
+    "date": "19.12.2026",
+    "longDate": "19. Dez. 2026 - 15:00",
+    "result": "-",
+    "displayInfo": "19. Dez. 2026 - 15:00",
+    "team1": {
+      "id": 104005,
+      "name": "HC Lugano 1 NERO"
+    },
+    "team2": {
+      "id": 105957,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009258529",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 Top",
+    "leagueId": 123,
     "date": "02.01.2027",
     "longDate": "2. Jan. 2027 - 10:45",
     "result": "-",
@@ -700,6 +890,63 @@
       "name": "EHC Sursee"
     },
     "gameId": "20270009258561",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "26.09.2026",
+    "longDate": "26. Sep. 2026 - 12:15",
+    "result": "-",
+    "displayInfo": "26. Sep. 2026 - 12:15",
+    "team1": {
+      "id": 105874,
+      "name": "LUNOXX Reinach"
+    },
+    "team2": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009258257",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "04.10.2026",
+    "longDate": "4. Okt. 2026 - 09:30",
+    "result": "-",
+    "displayInfo": "4. Okt. 2026 - 09:30",
+    "team1": {
+      "id": 104011,
+      "name": "HC Wohlen Freiamt"
+    },
+    "team2": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009258195",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "18.10.2026",
+    "longDate": "18. Okt. 2026 - 14:45",
+    "result": "-",
+    "displayInfo": "18. Okt. 2026 - 14:45",
+    "team1": {
+      "id": 105874,
+      "name": "LUNOXX Reinach"
+    },
+    "team2": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009258201",
     "place": "away"
   },
   {
@@ -763,6 +1010,44 @@
     "saison": 2027,
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
+    "date": "25.11.2026",
+    "longDate": "25. Nov. 2026 - 18:00",
+    "result": "-",
+    "displayInfo": "25. Nov. 2026 - 18:00",
+    "team1": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104011,
+      "name": "HC Wohlen Freiamt"
+    },
+    "gameId": "20270009258223",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "13.12.2026",
+    "longDate": "13. Dez. 2026 - 17:30",
+    "result": "-",
+    "displayInfo": "13. Dez. 2026 - 17:30",
+    "team1": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105874,
+      "name": "LUNOXX Reinach"
+    },
+    "gameId": "20270009258229",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
     "date": "16.12.2026",
     "longDate": "16. Dez. 2026 - 18:00",
     "result": "-",
@@ -814,6 +1099,25 @@
       "name": "EHC Sursee"
     },
     "gameId": "20270009258248",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "20.01.2027",
+    "longDate": "20. Jan. 2027 - 17:30",
+    "result": "-",
+    "displayInfo": "20. Jan. 2027 - 17:30",
+    "team1": {
+      "id": 104011,
+      "name": "HC Wohlen Freiamt"
+    },
+    "team2": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009258251",
     "place": "away"
   },
   {

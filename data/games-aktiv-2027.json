@@ -573,6 +573,25 @@
     "saison": 2027,
     "team": "EHC Sursee Damen",
     "leagueId": 43,
+    "date": "06.12.2026",
+    "longDate": "6. Dez. 2026 - 17:15",
+    "result": "-",
+    "displayInfo": "6. Dez. 2026 - 17:15",
+    "team1": {
+      "id": 105966,
+      "name": "EHC Thun"
+    },
+    "team2": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009261877",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
     "date": "09.12.2026",
     "longDate": "9. Dez. 2026 - 20:15",
     "result": "-",
