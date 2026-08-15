@@ -22,6 +22,25 @@
     "saison": 2027,
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
+    "date": "11.10.2026",
+    "longDate": "11. Okt. 2026 - 19:30",
+    "result": "-",
+    "displayInfo": "11. Okt. 2026 - 19:30",
+    "team1": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105126,
+      "name": "EHC Bern 96"
+    },
+    "gameId": "20270009260202",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
     "date": "25.10.2026",
     "longDate": "25. Okt. 2026 - 13:30",
     "result": "-",
@@ -150,6 +169,25 @@
     },
     "gameId": "20270009260253",
     "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
+    "date": "20.12.2026",
+    "longDate": "20. Dez. 2026 - 17:15",
+    "result": "-",
+    "displayInfo": "20. Dez. 2026 - 17:15",
+    "team1": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105010,
+      "name": "HC Huskys"
+    },
+    "gameId": "20270009260258",
+    "place": "home"
   },
   {
     "saison": 2027,
@@ -871,6 +909,25 @@
       "name": "HC Luzern Selection"
     },
     "gameId": "20270009258533",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 Top",
+    "leagueId": 123,
+    "date": "13.02.2027",
+    "longDate": "13. Feb. 2027 - 17:15",
+    "result": "-",
+    "displayInfo": "13. Feb. 2027 - 17:15",
+    "team1": {
+      "id": 105957,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104005,
+      "name": "HC Lugano 1 NERO"
+    },
+    "gameId": "20270009258557",
     "place": "home"
   },
   {
