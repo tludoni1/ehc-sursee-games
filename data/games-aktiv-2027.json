@@ -3,6 +3,25 @@
     "saison": 2027,
     "team": "EHC Sursee 1. Mannschaft",
     "leagueId": 10,
+    "date": "03.10.2026",
+    "longDate": "3. Okt. 2026 - 20:30",
+    "result": "-",
+    "displayInfo": "3. Okt. 2026 - 20:30",
+    "team1": {
+      "id": 103162,
+      "name": "EHC Koppigen"
+    },
+    "team2": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009262107",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
     "date": "10.10.2026",
     "longDate": "10. Okt. 2026 - 17:30",
     "result": "-",
@@ -453,6 +472,25 @@
       "name": "EHC Sursee"
     },
     "gameId": "20270009261837",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "24.10.2026",
+    "longDate": "24. Okt. 2026 - 13:30",
+    "result": "-",
+    "displayInfo": "24. Okt. 2026 - 13:30",
+    "team1": {
+      "id": 103698,
+      "name": "DHC Lyss"
+    },
+    "team2": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009261814",
     "place": "away"
   },
   {

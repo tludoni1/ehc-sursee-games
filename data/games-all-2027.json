@@ -364,6 +364,25 @@
     "saison": 2027,
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
+    "date": "03.10.2026",
+    "longDate": "3. Okt. 2026 - 13:00",
+    "result": "-",
+    "displayInfo": "3. Okt. 2026 - 13:00",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103613,
+      "name": "HCB Chiasso"
+    },
+    "gameId": "20270009259684",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
     "date": "15.11.2026",
     "longDate": "15. Nov. 2026 - 17:15",
     "result": "-",
@@ -453,6 +472,44 @@
       "name": "HC Luzern"
     },
     "gameId": "20270009259737",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "23.01.2027",
+    "longDate": "23. Jan. 2027 - 17:15",
+    "result": "-",
+    "displayInfo": "23. Jan. 2027 - 17:15",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103613,
+      "name": "HCB Chiasso"
+    },
+    "gameId": "20270009259740",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "30.01.2027",
+    "longDate": "30. Jan. 2027 - 17:15",
+    "result": "-",
+    "displayInfo": "30. Jan. 2027 - 17:15",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105849,
+      "name": "LUNOXX Hockey"
+    },
+    "gameId": "20270009259743",
     "place": "home"
   },
   {
@@ -1238,6 +1295,25 @@
     "saison": 2027,
     "team": "EHC Sursee 1. Mannschaft",
     "leagueId": 10,
+    "date": "03.10.2026",
+    "longDate": "3. Okt. 2026 - 20:30",
+    "result": "-",
+    "displayInfo": "3. Okt. 2026 - 20:30",
+    "team1": {
+      "id": 103162,
+      "name": "EHC Koppigen"
+    },
+    "team2": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009262107",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
     "date": "10.10.2026",
     "longDate": "10. Okt. 2026 - 17:30",
     "result": "-",
@@ -1688,6 +1764,25 @@
       "name": "EHC Sursee"
     },
     "gameId": "20270009261837",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "24.10.2026",
+    "longDate": "24. Okt. 2026 - 13:30",
+    "result": "-",
+    "displayInfo": "24. Okt. 2026 - 13:30",
+    "team1": {
+      "id": 103698,
+      "name": "DHC Lyss"
+    },
+    "team2": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009261814",
     "place": "away"
   },
   {
