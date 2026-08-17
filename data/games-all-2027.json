@@ -117,6 +117,25 @@
     "saison": 2027,
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
+    "date": "29.11.2026",
+    "longDate": "29. Nov. 2026 - 17:30",
+    "result": "-",
+    "displayInfo": "29. Nov. 2026 - 17:30",
+    "team1": {
+      "id": 105937,
+      "name": "EHC Schwarzenburg Köniz"
+    },
+    "team2": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009260242",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
     "date": "06.12.2026",
     "longDate": "6. Dez. 2026 - 17:15",
     "result": "-",
@@ -207,6 +226,25 @@
     },
     "gameId": "20270009260263",
     "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
+    "date": "10.01.2027",
+    "longDate": "10. Jan. 2027 - 17:00",
+    "result": "-",
+    "displayInfo": "10. Jan. 2027 - 17:00",
+    "team1": {
+      "id": 105126,
+      "name": "EHC Bern 96"
+    },
+    "team2": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009260268",
+    "place": "away"
   },
   {
     "saison": 2027,
@@ -383,6 +421,44 @@
     "saison": 2027,
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
+    "date": "18.10.2026",
+    "longDate": "18. Okt. 2026 - 16:45",
+    "result": "-",
+    "displayInfo": "18. Okt. 2026 - 16:45",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103674,
+      "name": "GDT Bellinzona"
+    },
+    "gameId": "20270009259692",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "25.10.2026",
+    "longDate": "25. Okt. 2026 - 12:30",
+    "result": "-",
+    "displayInfo": "25. Okt. 2026 - 12:30",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105751,
+      "name": "HC Rivers"
+    },
+    "gameId": "20270009259697",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
     "date": "15.11.2026",
     "longDate": "15. Nov. 2026 - 17:15",
     "result": "-",
@@ -434,6 +510,44 @@
       "name": "EHC Sursee"
     },
     "gameId": "20270009259712",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "05.12.2026",
+    "longDate": "5. Dez. 2026 - 19:45",
+    "result": "-",
+    "displayInfo": "5. Dez. 2026 - 19:45",
+    "team1": {
+      "id": 105849,
+      "name": "LUNOXX Hockey"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009259715",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "20.12.2026",
+    "longDate": "20. Dez. 2026 - 15:30",
+    "result": "-",
+    "displayInfo": "20. Dez. 2026 - 15:30",
+    "team1": {
+      "id": 105751,
+      "name": "HC Rivers"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009259725",
     "place": "away"
   },
   {
@@ -510,6 +624,25 @@
       "name": "LUNOXX Hockey"
     },
     "gameId": "20270009259743",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "14.02.2027",
+    "longDate": "14. Feb. 2027 - 17:15",
+    "result": "-",
+    "displayInfo": "14. Feb. 2027 - 17:15",
+    "team1": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105751,
+      "name": "HC Rivers"
+    },
+    "gameId": "20270009259753",
     "place": "home"
   },
   {
@@ -877,6 +1010,25 @@
     "saison": 2027,
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
+    "date": "23.09.2026",
+    "longDate": "23. Sep. 2026 - 18:15",
+    "result": "-",
+    "displayInfo": "23. Sep. 2026 - 18:15",
+    "team1": {
+      "id": 105957,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105868,
+      "name": "LUNOXX Seetal"
+    },
+    "gameId": "20270009258517",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 Top",
+    "leagueId": 123,
     "date": "04.10.2026",
     "longDate": "4. Okt. 2026 - 12:30",
     "result": "-",
@@ -909,6 +1061,44 @@
       "name": "EHC Sursee"
     },
     "gameId": "20270009258505",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 Top",
+    "leagueId": 123,
+    "date": "07.11.2026",
+    "longDate": "7. Nov. 2026 - 11:30",
+    "result": "-",
+    "displayInfo": "7. Nov. 2026 - 11:30",
+    "team1": {
+      "id": 105957,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105732,
+      "name": "HC Rivers"
+    },
+    "gameId": "20270009258509",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 Top",
+    "leagueId": 123,
+    "date": "15.11.2026",
+    "longDate": "15. Nov. 2026 - 15:45",
+    "result": "-",
+    "displayInfo": "15. Nov. 2026 - 15:45",
+    "team1": {
+      "id": 105683,
+      "name": "Hockey Innerschwyz HCI I"
+    },
+    "team2": {
+      "id": 105957,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009258513",
     "place": "away"
   },
   {
@@ -972,6 +1162,44 @@
     "saison": 2027,
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
+    "date": "10.01.2027",
+    "longDate": "10. Jan. 2027 - 17:00",
+    "result": "-",
+    "displayInfo": "10. Jan. 2027 - 17:00",
+    "team1": {
+      "id": 105732,
+      "name": "HC Rivers"
+    },
+    "team2": {
+      "id": 105957,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009258537",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 Top",
+    "leagueId": 123,
+    "date": "16.01.2027",
+    "longDate": "16. Jan. 2027 - 11:30",
+    "result": "-",
+    "displayInfo": "16. Jan. 2027 - 11:30",
+    "team1": {
+      "id": 105957,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105683,
+      "name": "Hockey Innerschwyz HCI I"
+    },
+    "gameId": "20270009258541",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 Top",
+    "leagueId": 123,
     "date": "13.02.2027",
     "longDate": "13. Feb. 2027 - 17:15",
     "result": "-",
@@ -1008,6 +1236,63 @@
   },
   {
     "saison": 2027,
+    "team": "EHC Sursee U14 Top",
+    "leagueId": 123,
+    "date": "28.02.2027",
+    "longDate": "28. Feb. 2027 - 16:45",
+    "result": "-",
+    "displayInfo": "28. Feb. 2027 - 16:45",
+    "team1": {
+      "id": 105957,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105732,
+      "name": "HC Rivers"
+    },
+    "gameId": "20270009258565",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 Top",
+    "leagueId": 123,
+    "date": "06.03.2027",
+    "longDate": "6. März 2027 - 11:45",
+    "result": "-",
+    "displayInfo": "6. März 2027 - 11:45",
+    "team1": {
+      "id": 105683,
+      "name": "Hockey Innerschwyz HCI I"
+    },
+    "team2": {
+      "id": 105957,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009258569",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 Top",
+    "leagueId": 123,
+    "date": "14.03.2027",
+    "longDate": "14. März 2027 - 17:15",
+    "result": "-",
+    "displayInfo": "14. März 2027 - 17:15",
+    "team1": {
+      "id": 105957,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105868,
+      "name": "LUNOXX Seetal"
+    },
+    "gameId": "20270009258573",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
     "date": "26.09.2026",
@@ -1024,6 +1309,25 @@
     },
     "gameId": "20270009258257",
     "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "27.09.2026",
+    "longDate": "27. Sep. 2026 - 13:15",
+    "result": "-",
+    "displayInfo": "27. Sep. 2026 - 13:15",
+    "team1": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 106011,
+      "name": "Hockey Innerschwyz HCI II"
+    },
+    "gameId": "20270009258211",
+    "place": "home"
   },
   {
     "saison": 2027,
@@ -1181,6 +1485,25 @@
     "saison": 2027,
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
+    "date": "03.01.2027",
+    "longDate": "3. Jan. 2027 - 12:30",
+    "result": "-",
+    "displayInfo": "3. Jan. 2027 - 12:30",
+    "team1": {
+      "id": 106011,
+      "name": "Hockey Innerschwyz HCI II"
+    },
+    "team2": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009258239",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
     "date": "13.01.2027",
     "longDate": "13. Jan. 2027 - 18:00",
     "result": "-",
@@ -1252,6 +1575,25 @@
     },
     "gameId": "20270009258262",
     "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "21.02.2027",
+    "longDate": "21. Feb. 2027 - 17:15",
+    "result": "-",
+    "displayInfo": "21. Feb. 2027 - 17:15",
+    "team1": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 106011,
+      "name": "Hockey Innerschwyz HCI II"
+    },
+    "gameId": "20270009258267",
+    "place": "home"
   },
   {
     "saison": 2027,
