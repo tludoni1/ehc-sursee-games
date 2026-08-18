@@ -326,6 +326,25 @@
     "saison": 2027,
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
+    "date": "19.02.2027",
+    "longDate": "19. Feb. 2027 - 20:15",
+    "result": "-",
+    "displayInfo": "19. Feb. 2027 - 20:15",
+    "team1": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 105937,
+      "name": "EHC Schwarzenburg Köniz"
+    },
+    "gameId": "20270009260308",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
     "date": "28.02.2027",
     "longDate": "28. Feb. 2027 - 17:30",
     "result": "-",
@@ -459,6 +478,25 @@
     "saison": 2027,
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
+    "date": "07.11.2026",
+    "longDate": "7. Nov. 2026 - 19:45",
+    "result": "-",
+    "displayInfo": "7. Nov. 2026 - 19:45",
+    "team1": {
+      "id": 103369,
+      "name": "Argovia Stars"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009259702",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
     "date": "15.11.2026",
     "longDate": "15. Nov. 2026 - 17:15",
     "result": "-",
@@ -529,6 +567,25 @@
       "name": "EHC Sursee"
     },
     "gameId": "20270009259715",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "13.12.2026",
+    "longDate": "13. Dez. 2026 - 16:45",
+    "result": "-",
+    "displayInfo": "13. Dez. 2026 - 16:45",
+    "team1": {
+      "id": 103674,
+      "name": "GDT Bellinzona"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009259720",
     "place": "away"
   },
   {
@@ -630,6 +687,25 @@
     "saison": 2027,
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
+    "date": "06.02.2027",
+    "longDate": "6. Feb. 2027 - 14:15",
+    "result": "-",
+    "displayInfo": "6. Feb. 2027 - 14:15",
+    "team1": {
+      "id": 103674,
+      "name": "GDT Bellinzona"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009259748",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
     "date": "14.02.2027",
     "longDate": "14. Feb. 2027 - 17:15",
     "result": "-",
@@ -644,6 +720,25 @@
     },
     "gameId": "20270009259753",
     "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U18 A",
+    "leagueId": 118,
+    "date": "20.02.2027",
+    "longDate": "20. Feb. 2027 - 17:45",
+    "result": "-",
+    "displayInfo": "20. Feb. 2027 - 17:45",
+    "team1": {
+      "id": 103369,
+      "name": "Argovia Stars"
+    },
+    "team2": {
+      "id": 104511,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009259758",
+    "place": "away"
   },
   {
     "saison": 2027,
@@ -758,6 +853,25 @@
     },
     "gameId": "20270009260948",
     "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
+    "date": "15.11.2026",
+    "longDate": "15. Nov. 2026 - 12:15",
+    "result": "-",
+    "displayInfo": "15. Nov. 2026 - 12:15",
+    "team1": {
+      "id": 106373,
+      "name": "Argovia Stars II"
+    },
+    "team2": {
+      "id": 103984,
+      "name": "EHC Sursee II"
+    },
+    "gameId": "20270009260952",
+    "place": "away"
   },
   {
     "saison": 2027,
@@ -953,6 +1067,25 @@
     "saison": 2027,
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
+    "date": "28.02.2027",
+    "longDate": "28. Feb. 2027 - 16:00",
+    "result": "-",
+    "displayInfo": "28. Feb. 2027 - 16:00",
+    "team1": {
+      "id": 106373,
+      "name": "Argovia Stars II"
+    },
+    "team2": {
+      "id": 103984,
+      "name": "EHC Sursee II"
+    },
+    "gameId": "20270009260994",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
     "date": "07.03.2027",
     "longDate": "7. März 2027 - 16:45",
     "result": "-",
@@ -1043,6 +1176,25 @@
     },
     "gameId": "20270009258493",
     "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 Top",
+    "leagueId": 123,
+    "date": "11.10.2026",
+    "longDate": "11. Okt. 2026 - 13:45",
+    "result": "-",
+    "displayInfo": "11. Okt. 2026 - 13:45",
+    "team1": {
+      "id": 105149,
+      "name": "GDT Bellinzona"
+    },
+    "team2": {
+      "id": 105957,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009258497",
+    "place": "away"
   },
   {
     "saison": 2027,
@@ -1195,6 +1347,44 @@
     },
     "gameId": "20270009258541",
     "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 Top",
+    "leagueId": 123,
+    "date": "23.01.2027",
+    "longDate": "23. Jan. 2027 - 11:00",
+    "result": "-",
+    "displayInfo": "23. Jan. 2027 - 11:00",
+    "team1": {
+      "id": 105868,
+      "name": "LUNOXX Seetal"
+    },
+    "team2": {
+      "id": 105957,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009258545",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 Top",
+    "leagueId": 123,
+    "date": "07.02.2027",
+    "longDate": "7. Feb. 2027 - 13:45",
+    "result": "-",
+    "displayInfo": "7. Feb. 2027 - 13:45",
+    "team1": {
+      "id": 105149,
+      "name": "GDT Bellinzona"
+    },
+    "team2": {
+      "id": 105957,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009258553",
+    "place": "away"
   },
   {
     "saison": 2027,
@@ -1390,6 +1580,25 @@
     "saison": 2027,
     "team": "EHC Sursee U14 A",
     "leagueId": 124,
+    "date": "31.10.2026",
+    "longDate": "31. Okt. 2026 - 11:30",
+    "result": "-",
+    "displayInfo": "31. Okt. 2026 - 11:30",
+    "team1": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104022,
+      "name": "Argovia Stars"
+    },
+    "gameId": "20270009258198",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
     "date": "14.11.2026",
     "longDate": "14. Nov. 2026 - 14:30",
     "result": "-",
@@ -1442,6 +1651,25 @@
     },
     "gameId": "20270009258223",
     "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "06.12.2026",
+    "longDate": "6. Dez. 2026 - 12:15",
+    "result": "-",
+    "displayInfo": "6. Dez. 2026 - 12:15",
+    "team1": {
+      "id": 104022,
+      "name": "Argovia Stars"
+    },
+    "team2": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009258226",
+    "place": "away"
   },
   {
     "saison": 2027,
@@ -1635,6 +1863,25 @@
   },
   {
     "saison": 2027,
+    "team": "EHC Sursee U14 A",
+    "leagueId": 124,
+    "date": "13.03.2027",
+    "longDate": "13. März 2027 - 17:15",
+    "result": "-",
+    "displayInfo": "13. März 2027 - 17:15",
+    "team1": {
+      "id": 105514,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104022,
+      "name": "Argovia Stars"
+    },
+    "gameId": "20270009258254",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
     "team": "EHC Sursee 1. Mannschaft",
     "leagueId": 10,
     "date": "03.10.2026",
@@ -1752,9 +1999,9 @@
     "team": "EHC Sursee 1. Mannschaft",
     "leagueId": 10,
     "date": "07.11.2026",
-    "longDate": "7. Nov. 2026 - 20:15",
+    "longDate": "7. Nov. 2026 - 20:00",
     "result": "-",
-    "displayInfo": "7. Nov. 2026 - 20:15",
+    "displayInfo": "7. Nov. 2026 - 20:00",
     "team1": {
       "id": 103156,
       "name": "SC Altstadt Olten"
@@ -2018,9 +2265,9 @@
     "team": "EHC Sursee 1. Mannschaft",
     "leagueId": 10,
     "date": "30.01.2027",
-    "longDate": "30. Jan. 2027 - 20:15",
+    "longDate": "30. Jan. 2027 - 20:00",
     "result": "-",
-    "displayInfo": "30. Jan. 2027 - 20:15",
+    "displayInfo": "30. Jan. 2027 - 20:00",
     "team1": {
       "id": 103156,
       "name": "SC Altstadt Olten"
@@ -2335,6 +2582,25 @@
     },
     "gameId": "20270009261894",
     "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "13.01.2027",
+    "longDate": "13. Jan. 2027 - 20:15",
+    "result": "-",
+    "displayInfo": "13. Jan. 2027 - 20:15",
+    "team1": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103698,
+      "name": "DHC Lyss"
+    },
+    "gameId": "20270009261859",
+    "place": "home"
   },
   {
     "saison": 2027,

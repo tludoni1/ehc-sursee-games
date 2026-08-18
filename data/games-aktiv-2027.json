@@ -118,9 +118,9 @@
     "team": "EHC Sursee 1. Mannschaft",
     "leagueId": 10,
     "date": "07.11.2026",
-    "longDate": "7. Nov. 2026 - 20:15",
+    "longDate": "7. Nov. 2026 - 20:00",
     "result": "-",
-    "displayInfo": "7. Nov. 2026 - 20:15",
+    "displayInfo": "7. Nov. 2026 - 20:00",
     "team1": {
       "id": 103156,
       "name": "SC Altstadt Olten"
@@ -384,9 +384,9 @@
     "team": "EHC Sursee 1. Mannschaft",
     "leagueId": 10,
     "date": "30.01.2027",
-    "longDate": "30. Jan. 2027 - 20:15",
+    "longDate": "30. Jan. 2027 - 20:00",
     "result": "-",
-    "displayInfo": "30. Jan. 2027 - 20:15",
+    "displayInfo": "30. Jan. 2027 - 20:00",
     "team1": {
       "id": 103156,
       "name": "SC Altstadt Olten"
@@ -701,6 +701,25 @@
     },
     "gameId": "20270009261894",
     "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee Damen",
+    "leagueId": 43,
+    "date": "13.01.2027",
+    "longDate": "13. Jan. 2027 - 20:15",
+    "result": "-",
+    "displayInfo": "13. Jan. 2027 - 20:15",
+    "team1": {
+      "id": 103700,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 103698,
+      "name": "DHC Lyss"
+    },
+    "gameId": "20270009261859",
+    "place": "home"
   },
   {
     "saison": 2027,
