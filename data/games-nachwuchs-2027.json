@@ -22,6 +22,25 @@
     "saison": 2027,
     "team": "EHC Sursee U21 A",
     "leagueId": 115,
+    "date": "07.10.2026",
+    "longDate": "7. Okt. 2026 - 20:00",
+    "result": "-",
+    "displayInfo": "7. Okt. 2026 - 20:00",
+    "team1": {
+      "id": 105128,
+      "name": "HC Luzern"
+    },
+    "team2": {
+      "id": 105774,
+      "name": "EHC Sursee"
+    },
+    "gameId": "20270009260207",
+    "place": "away"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U21 A",
+    "leagueId": 115,
     "date": "11.10.2026",
     "longDate": "11. Okt. 2026 - 19:30",
     "result": "-",
