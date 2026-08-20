@@ -991,6 +991,25 @@
     "saison": 2027,
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
+    "date": "09.01.2027",
+    "longDate": "9. Jan. 2027 - 17:15",
+    "result": "-",
+    "displayInfo": "9. Jan. 2027 - 17:15",
+    "team1": {
+      "id": 103984,
+      "name": "EHC Sursee II"
+    },
+    "team2": {
+      "id": 106373,
+      "name": "Argovia Stars II"
+    },
+    "gameId": "20270009260973",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee U16 A",
+    "leagueId": 121,
     "date": "17.01.2027",
     "longDate": "17. Jan. 2027 - 11:15",
     "result": "-",
