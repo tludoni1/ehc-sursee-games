@@ -423,8 +423,8 @@
     "leagueId": 118,
     "date": "26.09.2026",
     "longDate": "26. Sep. 2026 - 12:15",
-    "result": "-",
-    "displayInfo": "26. Sep. 2026 - 12:15",
+    "result": "0:9",
+    "displayInfo": "0:9",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -1563,8 +1563,8 @@
     "leagueId": 124,
     "date": "26.09.2026",
     "longDate": "26. Sep. 2026 - 12:15",
-    "result": "-",
-    "displayInfo": "26. Sep. 2026 - 12:15",
+    "result": "4:7",
+    "displayInfo": "4:7",
     "team1": {
       "id": 105874,
       "name": "LUNOXX Reinach"
