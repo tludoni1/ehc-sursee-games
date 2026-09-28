@@ -1582,8 +1582,8 @@
     "leagueId": 124,
     "date": "27.09.2026",
     "longDate": "27. Sep. 2026 - 13:15",
-    "result": "-",
-    "displayInfo": "27. Sep. 2026 - 13:15",
+    "result": "13:2",
+    "displayInfo": "13:2",
     "team1": {
       "id": 105514,
       "name": "EHC Sursee"
