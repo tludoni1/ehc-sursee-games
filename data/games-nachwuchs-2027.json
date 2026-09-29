@@ -441,9 +441,9 @@
     "team": "EHC Sursee U18 A",
     "leagueId": 118,
     "date": "03.10.2026",
-    "longDate": "3. Okt. 2026 - 13:00",
+    "longDate": "3. Okt. 2026 - 17:15",
     "result": "-",
-    "displayInfo": "3. Okt. 2026 - 13:00",
+    "displayInfo": "3. Okt. 2026 - 17:15",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -1238,10 +1238,10 @@
     "saison": 2027,
     "team": "EHC Sursee U14 Top",
     "leagueId": 123,
-    "date": "04.10.2026",
-    "longDate": "4. Okt. 2026 - 12:30",
+    "date": "03.10.2026",
+    "longDate": "3. Okt. 2026 - 13:00",
     "result": "-",
-    "displayInfo": "4. Okt. 2026 - 12:30",
+    "displayInfo": "3. Okt. 2026 - 13:00",
     "team1": {
       "id": 105957,
       "name": "EHC Sursee"
