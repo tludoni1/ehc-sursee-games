@@ -442,8 +442,8 @@
     "leagueId": 118,
     "date": "03.10.2026",
     "longDate": "3. Okt. 2026 - 17:15",
-    "result": "-",
-    "displayInfo": "3. Okt. 2026 - 17:15",
+    "result": "4:3",
+    "displayInfo": "4:3",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -1240,8 +1240,8 @@
     "leagueId": 123,
     "date": "03.10.2026",
     "longDate": "3. Okt. 2026 - 13:00",
-    "result": "-",
-    "displayInfo": "3. Okt. 2026 - 13:00",
+    "result": "4:5",
+    "displayInfo": "4:5",
     "team1": {
       "id": 105957,
       "name": "EHC Sursee"
@@ -1601,8 +1601,8 @@
     "leagueId": 124,
     "date": "04.10.2026",
     "longDate": "4. Okt. 2026 - 09:30",
-    "result": "-",
-    "displayInfo": "4. Okt. 2026 - 09:30",
+    "result": "4:7",
+    "displayInfo": "4:7",
     "team1": {
       "id": 104011,
       "name": "HC Wohlen Freiamt"
@@ -1962,8 +1962,8 @@
     "leagueId": 10,
     "date": "03.10.2026",
     "longDate": "3. Okt. 2026 - 20:30",
-    "result": "-",
-    "displayInfo": "3. Okt. 2026 - 20:30",
+    "result": "2:6",
+    "displayInfo": "2:6",
     "team1": {
       "id": 103162,
       "name": "EHC Koppigen"
@@ -2361,8 +2361,8 @@
     "leagueId": 43,
     "date": "04.10.2026",
     "longDate": "4. Okt. 2026 - 12:00",
-    "result": "-",
-    "displayInfo": "4. Okt. 2026 - 12:00",
+    "result": "0:0",
+    "displayInfo": "0:0",
     "team1": {
       "id": 103700,
       "name": "EHC Sursee"
@@ -2703,8 +2703,8 @@
     "leagueId": 19,
     "date": "03.10.2026",
     "longDate": "3. Okt. 2026 - 19:45",
-    "result": "-",
-    "displayInfo": "3. Okt. 2026 - 19:45",
+    "result": "9:1",
+    "displayInfo": "9:1",
     "team1": {
       "id": 103584,
       "name": "HC Seetal"
