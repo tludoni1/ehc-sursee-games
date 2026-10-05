@@ -5,8 +5,8 @@
     "leagueId": 115,
     "date": "04.10.2026",
     "longDate": "4. Okt. 2026 - 20:00",
-    "result": "-",
-    "displayInfo": "4. Okt. 2026 - 20:00",
+    "result": "3:12",
+    "displayInfo": "3:12",
     "team1": {
       "id": 105731,
       "name": "HC Wisle"
@@ -822,8 +822,8 @@
     "leagueId": 121,
     "date": "04.10.2026",
     "longDate": "4. Okt. 2026 - 17:15",
-    "result": "-",
-    "displayInfo": "4. Okt. 2026 - 17:15",
+    "result": "5:7",
+    "displayInfo": "5:7",
     "team1": {
       "id": 105878,
       "name": "HC NWU Blue"
@@ -935,9 +935,9 @@
     "team": "EHC Sursee U16 A",
     "leagueId": 121,
     "date": "28.11.2026",
-    "longDate": "28. Nov. 2026 - 14:15",
+    "longDate": "28. Nov. 2026 - 11:30",
     "result": "-",
-    "displayInfo": "28. Nov. 2026 - 14:15",
+    "displayInfo": "28. Nov. 2026 - 11:30",
     "team1": {
       "id": 103984,
       "name": "EHC Sursee II"
