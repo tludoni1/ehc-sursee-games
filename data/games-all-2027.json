@@ -2380,8 +2380,8 @@
     "leagueId": 43,
     "date": "10.10.2026",
     "longDate": "10. Okt. 2026 - 20:00",
-    "result": "-",
-    "displayInfo": "10. Okt. 2026 - 20:00",
+    "result": "1:4",
+    "displayInfo": "1:4",
     "team1": {
       "id": 104297,
       "name": "EHC Bassersdorf Ladies"
@@ -2683,9 +2683,9 @@
     "team": "EHC Sursee Damen",
     "leagueId": 43,
     "date": "17.01.2027",
-    "longDate": "17. Jan. 2027 - 16:30",
+    "longDate": "17. Jan. 2027 - 14:00",
     "result": "-",
-    "displayInfo": "17. Jan. 2027 - 16:30",
+    "displayInfo": "17. Jan. 2027 - 14:00",
     "team1": {
       "id": 103700,
       "name": "EHC Sursee"
@@ -2722,8 +2722,8 @@
     "leagueId": 19,
     "date": "10.10.2026",
     "longDate": "10. Okt. 2026 - 18:45",
-    "result": "-",
-    "displayInfo": "10. Okt. 2026 - 18:45",
+    "result": "2:6",
+    "displayInfo": "2:6",
     "team1": {
       "id": 104319,
       "name": "EHC Sursee"
