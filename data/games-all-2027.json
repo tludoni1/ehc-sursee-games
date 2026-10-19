@@ -461,8 +461,8 @@
     "leagueId": 118,
     "date": "18.10.2026",
     "longDate": "18. Okt. 2026 - 16:45",
-    "result": "-",
-    "displayInfo": "18. Okt. 2026 - 16:45",
+    "result": "2:6",
+    "displayInfo": "2:6",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -1620,8 +1620,8 @@
     "leagueId": 124,
     "date": "18.10.2026",
     "longDate": "18. Okt. 2026 - 14:45",
-    "result": "-",
-    "displayInfo": "18. Okt. 2026 - 14:45",
+    "result": "12:4",
+    "displayInfo": "12:4",
     "team1": {
       "id": 105874,
       "name": "LUNOXX Reinach"
@@ -2418,8 +2418,8 @@
     "leagueId": 43,
     "date": "18.10.2026",
     "longDate": "18. Okt. 2026 - 17:30",
-    "result": "-",
-    "displayInfo": "18. Okt. 2026 - 17:30",
+    "result": "2:4",
+    "displayInfo": "2:4",
     "team1": {
       "id": 104907,
       "name": "Brandis Juniors Ladies"
@@ -2664,9 +2664,9 @@
     "team": "EHC Sursee Damen",
     "leagueId": 43,
     "date": "13.01.2027",
-    "longDate": "13. Jan. 2027 - 20:15",
+    "longDate": "13. Jan. 2027 - 20:30",
     "result": "-",
-    "displayInfo": "13. Jan. 2027 - 20:15",
+    "displayInfo": "13. Jan. 2027 - 20:30",
     "team1": {
       "id": 103700,
       "name": "EHC Sursee"
@@ -2741,8 +2741,8 @@
     "leagueId": 19,
     "date": "18.10.2026",
     "longDate": "18. Okt. 2026 - 19:30",
-    "result": "-",
-    "displayInfo": "18. Okt. 2026 - 19:30",
+    "result": "2:8",
+    "displayInfo": "2:8",
     "team1": {
       "id": 104319,
       "name": "EHC Sursee"
