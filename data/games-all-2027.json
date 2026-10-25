@@ -860,8 +860,8 @@
     "leagueId": 121,
     "date": "24.10.2026",
     "longDate": "24. Okt. 2026 - 17:30",
-    "result": "-",
-    "displayInfo": "24. Okt. 2026 - 17:30",
+    "result": "5:2",
+    "displayInfo": "5:2",
     "team1": {
       "id": 106308,
       "name": "HC NWU Green"
@@ -2038,8 +2038,8 @@
     "leagueId": 10,
     "date": "24.10.2026",
     "longDate": "24. Okt. 2026 - 20:15",
-    "result": "-",
-    "displayInfo": "24. Okt. 2026 - 20:15",
+    "result": "3:1",
+    "displayInfo": "3:1",
     "team1": {
       "id": 103941,
       "name": "EHC Sursee"
@@ -2437,8 +2437,8 @@
     "leagueId": 43,
     "date": "24.10.2026",
     "longDate": "24. Okt. 2026 - 13:30",
-    "result": "-",
-    "displayInfo": "24. Okt. 2026 - 13:30",
+    "result": "0:2",
+    "displayInfo": "0:2",
     "team1": {
       "id": 103698,
       "name": "DHC Lyss"
