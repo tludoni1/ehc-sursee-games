@@ -62,8 +62,8 @@
     "leagueId": 115,
     "date": "25.10.2026",
     "longDate": "25. Okt. 2026 - 13:30",
-    "result": "-",
-    "displayInfo": "25. Okt. 2026 - 13:30",
+    "result": "3:4",
+    "displayInfo": "3:4",
     "team1": {
       "id": 105125,
       "name": "EV Zug"
@@ -480,8 +480,8 @@
     "leagueId": 118,
     "date": "25.10.2026",
     "longDate": "25. Okt. 2026 - 12:30",
-    "result": "-",
-    "displayInfo": "25. Okt. 2026 - 12:30",
+    "result": "4:5",
+    "displayInfo": "4:5",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -1278,8 +1278,8 @@
     "leagueId": 123,
     "date": "25.10.2026",
     "longDate": "25. Okt. 2026 - 14:30",
-    "result": "-",
-    "displayInfo": "25. Okt. 2026 - 14:30",
+    "result": "4:7",
+    "displayInfo": "4:7",
     "team1": {
       "id": 105784,
       "name": "HC Luzern Selection"
@@ -2456,8 +2456,8 @@
     "leagueId": 43,
     "date": "25.10.2026",
     "longDate": "25. Okt. 2026 - 15:15",
-    "result": "-",
-    "displayInfo": "25. Okt. 2026 - 15:15",
+    "result": "4:2",
+    "displayInfo": "4:2",
     "team1": {
       "id": 103700,
       "name": "EHC Sursee"
@@ -3007,8 +3007,8 @@
     "leagueId": 37,
     "date": "25.10.2026",
     "longDate": "25. Okt. 2026 - 18:00",
-    "result": "-",
-    "displayInfo": "25. Okt. 2026 - 18:00",
+    "result": "7:9",
+    "displayInfo": "7:9",
     "team1": {
       "id": 105810,
       "name": "EHC Sursee"
