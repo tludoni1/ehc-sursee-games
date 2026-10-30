@@ -98,25 +98,6 @@
     "saison": 2027,
     "team": "EHC Sursee 1. Mannschaft",
     "leagueId": 10,
-    "date": "31.10.2026",
-    "longDate": "31. Okt. 2026 - 17:30",
-    "result": "-",
-    "displayInfo": "31. Okt. 2026 - 17:30",
-    "team1": {
-      "id": 103941,
-      "name": "EHC Sursee"
-    },
-    "team2": {
-      "id": 104179,
-      "name": "EHC Zunzgen-Sissach"
-    },
-    "gameId": "20270009262125",
-    "place": "home"
-  },
-  {
-    "saison": 2027,
-    "team": "EHC Sursee 1. Mannschaft",
-    "leagueId": 10,
     "date": "07.11.2026",
     "longDate": "7. Nov. 2026 - 20:00",
     "result": "-",
@@ -377,6 +358,25 @@
       "name": "EHC Zunzgen-Sissach"
     },
     "gameId": "20270009262181",
+    "place": "home"
+  },
+  {
+    "saison": 2027,
+    "team": "EHC Sursee 1. Mannschaft",
+    "leagueId": 10,
+    "date": "26.01.2027",
+    "longDate": "26. Jan. 2027 - 20:30",
+    "result": "-",
+    "displayInfo": "26. Jan. 2027 - 20:30",
+    "team1": {
+      "id": 103941,
+      "name": "EHC Sursee"
+    },
+    "team2": {
+      "id": 104179,
+      "name": "EHC Zunzgen-Sissach"
+    },
+    "gameId": "20270009262125",
     "place": "home"
   },
   {
