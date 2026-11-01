@@ -518,8 +518,8 @@
     "leagueId": 43,
     "date": "31.10.2026",
     "longDate": "31. Okt. 2026 - 17:30",
-    "result": "-",
-    "displayInfo": "31. Okt. 2026 - 17:30",
+    "result": "0:3",
+    "displayInfo": "0:3",
     "team1": {
       "id": 105512,
       "name": "EHC Zunzgen-Sissach"
@@ -822,8 +822,8 @@
     "leagueId": 19,
     "date": "31.10.2026",
     "longDate": "31. Okt. 2026 - 16:45",
-    "result": "-",
-    "displayInfo": "31. Okt. 2026 - 16:45",
+    "result": "4:1",
+    "displayInfo": "4:1",
     "team1": {
       "id": 105481,
       "name": "HC Luzern"
