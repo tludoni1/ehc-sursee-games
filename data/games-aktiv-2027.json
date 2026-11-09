@@ -841,8 +841,8 @@
     "leagueId": 19,
     "date": "08.11.2026",
     "longDate": "8. Nov. 2026 - 20:00",
-    "result": "-",
-    "displayInfo": "8. Nov. 2026 - 20:00",
+    "result": "0:6",
+    "displayInfo": "0:6",
     "team1": {
       "id": 104319,
       "name": "EHC Sursee"
@@ -1088,8 +1088,8 @@
     "leagueId": 37,
     "date": "08.11.2026",
     "longDate": "8. Nov. 2026 - 15:45",
-    "result": "-",
-    "displayInfo": "8. Nov. 2026 - 15:45",
+    "result": "8:9",
+    "displayInfo": "8:9",
     "team1": {
       "id": 104738,
       "name": "HC Seetal"
