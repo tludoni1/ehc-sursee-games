@@ -119,8 +119,8 @@
     "leagueId": 10,
     "date": "14.11.2026",
     "longDate": "14. Nov. 2026 - 20:30",
-    "result": "-",
-    "displayInfo": "14. Nov. 2026 - 20:30",
+    "result": "3:5",
+    "displayInfo": "3:5",
     "team1": {
       "id": 103941,
       "name": "EHC Sursee"
@@ -537,8 +537,8 @@
     "leagueId": 43,
     "date": "14.11.2026",
     "longDate": "14. Nov. 2026 - 17:15",
-    "result": "-",
-    "displayInfo": "14. Nov. 2026 - 17:15",
+    "result": "3:0",
+    "displayInfo": "3:0",
     "team1": {
       "id": 103700,
       "name": "EHC Sursee"
@@ -1107,8 +1107,8 @@
     "leagueId": 37,
     "date": "14.11.2026",
     "longDate": "14. Nov. 2026 - 15:15",
-    "result": "-",
-    "displayInfo": "14. Nov. 2026 - 15:15",
+    "result": "9:11",
+    "displayInfo": "9:11",
     "team1": {
       "id": 104343,
       "name": "HC Zugerland"
