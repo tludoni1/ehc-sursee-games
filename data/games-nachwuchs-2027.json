@@ -81,8 +81,8 @@
     "leagueId": 115,
     "date": "15.11.2026",
     "longDate": "15. Nov. 2026 - 17:15",
-    "result": "-",
-    "displayInfo": "15. Nov. 2026 - 17:15",
+    "result": "0:3",
+    "displayInfo": "0:3",
     "team1": {
       "id": 105892,
       "name": "HC NWU Blue"
@@ -518,8 +518,8 @@
     "leagueId": 118,
     "date": "15.11.2026",
     "longDate": "15. Nov. 2026 - 20:00",
-    "result": "-",
-    "displayInfo": "15. Nov. 2026 - 20:00",
+    "result": "1:2",
+    "displayInfo": "1:2",
     "team1": {
       "id": 104511,
       "name": "EHC Sursee"
@@ -1316,8 +1316,8 @@
     "leagueId": 123,
     "date": "15.11.2026",
     "longDate": "15. Nov. 2026 - 15:45",
-    "result": "-",
-    "displayInfo": "15. Nov. 2026 - 15:45",
+    "result": "2:9",
+    "displayInfo": "2:9",
     "team1": {
       "id": 105683,
       "name": "Hockey Innerschwyz HCI I"
