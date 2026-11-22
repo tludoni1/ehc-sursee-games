@@ -138,8 +138,8 @@
     "leagueId": 10,
     "date": "21.11.2026",
     "longDate": "21. Nov. 2026 - 17:30",
-    "result": "-",
-    "displayInfo": "21. Nov. 2026 - 17:30",
+    "result": "9:0",
+    "displayInfo": "9:0",
     "team1": {
       "id": 103941,
       "name": "EHC Sursee"
@@ -556,8 +556,8 @@
     "leagueId": 43,
     "date": "21.11.2026",
     "longDate": "21. Nov. 2026 - 15:00",
-    "result": "-",
-    "displayInfo": "21. Nov. 2026 - 15:00",
+    "result": "2:3",
+    "displayInfo": "2:3",
     "team1": {
       "id": 105986,
       "name": "HC Thurgau Ladies"
@@ -860,8 +860,8 @@
     "leagueId": 19,
     "date": "21.11.2026",
     "longDate": "21. Nov. 2026 - 20:00",
-    "result": "-",
-    "displayInfo": "21. Nov. 2026 - 20:00",
+    "result": "6:2",
+    "displayInfo": "6:2",
     "team1": {
       "id": 103423,
       "name": "EHC Einsiedeln"
